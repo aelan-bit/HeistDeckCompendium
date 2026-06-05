@@ -1,0 +1,17 @@
+{
+  "_id": "lZWSBp6GrBWIRTuy",
+  "name": "Hunting Spiders",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Animal Guards</strong></p><p>These lightning-fast nightmares are about twenty pounds and three feet across, built like jumping spiders and loaded with paralytic venom.</p><p><em>Were these spiders bred for a decadent aristocrat, or warped to this impossible size by an insane whisper? Can they survive away from a spirit well? What noise do they make? How do they smell?</em></p><p><strong>Dangers</strong></p><p>They are mostly trained, their handler using a slide whistle to give orders to hunt, attack, withdraw, or guard.</p><p>The color of the stone, the shape of the underbrush, the leaf litter—everything matches the spider color scheme and hides its movement.</p><p><strong>Remedies</strong></p><p>Little lasting harm at first; paralyzed prey is dragged back to a lair and webbed up. You have a day or so to rescue the prey before the spider injects acid into the web bundle so it can drink its victim.</p><p>The poison is weak and easy to resist, requiring several successful bites to put a human down.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

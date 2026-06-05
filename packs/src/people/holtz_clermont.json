@@ -1,0 +1,17 @@
+{
+  "_id": "IORZwOfNwwJJgENl",
+  "name": "Holtz Clermont",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Reformed Clerk, City Law</strong></p><p>He used to be a forger. After he served a stint in prison, some respectable family friends got him a position as City Clerk for the whole district. He manages correspondence for permit requests and official notices. When corrupt people inside and outside the system need to adjust evidence, they come to him.</p><p><em>Jilted clients can be threatening, leading him to take steps to adjust their attitude by hiring outside help. He's smarter than he looks, and knows how to back people off. He also might know too much.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

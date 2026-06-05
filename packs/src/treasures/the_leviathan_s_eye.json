@@ -1,0 +1,17 @@
+{
+  "_id": "miZvukTPciLTQkz1",
+  "name": "The Leviathan's Eye",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><strong>Famous Jewel</strong></p><p>This sapphire turns impossibly black if dipped in leviathan blood. If the still-bloody stone is pressed against a seer's forehead, the sensitive can see what the ocean sees, looking above the waves or probing the deeps. The gem used to be passed around between leviathan hunter captains, but has since been lost.</p><p><em>One expert said using the Eye was as close as a human could get to a demon seeing through its elemental affinity, and that it began a slow change in the individual who was exposed to its power.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

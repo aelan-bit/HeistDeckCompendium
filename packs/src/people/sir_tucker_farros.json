@@ -1,0 +1,17 @@
+{
+  "_id": "mOBNwsh3WWzZgE3p",
+  "name": "Sir Tucker Farros",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Pragmatic Councilman, City Law</strong></p><p>Sometimes the law works, and sometimes it doesn't. Regardless, the Council must rule and there must be order. Sir Farros ensures the districts he serves do not get too far out of hand before lawless elements are curbed. One way or another. He looks like an affable grandfather, but he has a dark past.</p><p><em>Sir Farros uses inspectors or scoundrels, politicians or housemaids—anyone who will get the job done. He has an endless list of enemies who feel he wronged them, and want revenge. His agents are disposable.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

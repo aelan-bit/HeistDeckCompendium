@@ -1,0 +1,17 @@
+{
+  "_id": "m2ppGIJDqQrZoIvL",
+  "name": "Sir Olen Danwold",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Piratical Industrialist, New Money</strong></p><p>He is thin and nervous, easy to underestimate. He specializes in stripping foes of their assets and taking over their operations. His father was a butler, and he grew up hating aristocrats. He understands power structures and corrupts retainers. His top agent, Ellsfielder, is a beautiful and ruthless woman.</p><p><em>Many ruined aristocrats (and their allies) hate Danwold passionately. He does not hesitate to use his assets, legal and otherwise, to defend himself and cripple his foes. He hires outsiders through proxies.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "heist-deck-compendium",
+  "version": "1.0.0",
+  "description": "Duskwall Heist Deck — Foundry VTT module build scripts",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-sources.mjs",
+    "compile": "fvtt package compile --in packs/src/people      --out packs/people      && fvtt package compile --in packs/src/treasures   --out packs/treasures   && fvtt package compile --in packs/src/obstacles   --out packs/obstacles   && fvtt package compile --in packs/src/heist-tables --out packs/heist-tables",
+    "build": "npm run generate && npm run compile"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "067faylZWybxYEJR",
+  "name": "Murder Holes",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Traps</strong></p><p>Intruders go past one door, into a hallway or small room, and the door closes behind them. Arrow slits open in the walls, and slots in the ceiling allow boiling oil to be poured down. Intruders are trapped and vulnerable. These are often in doors through defenses.</p><p><em>Was the original site builder often under siege? Are the murder holes obvious or concealed?</em></p><p><strong>Dangers</strong></p><p>Murder holes are automated with self-slamming doors and pre-boiling oil, so a few defenders can trap and/or kill many intruders.</p><p>The whole layout is built with many murder hole areas to deter invasion.</p><p><strong>Remedies</strong></p><p>The walls are wooden, and determined captives can break through to face their attackers.</p><p>This area does not have enough staff to monitor intruders and make best use of murder holes.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

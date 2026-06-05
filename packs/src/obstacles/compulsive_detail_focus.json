@@ -1,0 +1,17 @@
+{
+  "_id": "SSN1cI1nMaZnEMvl",
+  "name": "Compulsive Detail Focus",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Twisted Guards</strong></p><p>Only a certain type is hired; a type that checks every lock and every dark corner. Schedules are strict, thoroughness is a guarantee, and they seem unable to cut corners or skip steps. Everything regulation.</p><p><em>Are they altered to be like this, or just screened for a mindset? What are the detailed parts of the defended site that need this kind of attention? How does their gear reflect this fussy attention to detail?</em></p><p><strong>Dangers</strong></p><p>There are other elements of the defended site that require their focus, like a pattern of stepping over tiles to avoid triggering traps or complex combination locks or dozens of cells with dangerous prisoners.</p><p>They are trusted with specialty items like firearms or charms because they are responsible with them.</p><p><strong>Remedies</strong></p><p>Everyone knows that they fall apart if things deviate from the pattern, like distractions or chaos.</p><p>The locals pick on them when they are off duty, teasing them for their compulsions. They have enemies, and could use friends.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

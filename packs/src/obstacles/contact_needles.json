@@ -1,0 +1,17 @@
+{
+  "_id": "0ORBQ0V1UaNbaG1l",
+  "name": "Contact Needles",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Traps</strong></p><p>Small needles are worked into contact surfaces and poisoned, to deter intruders. They may be on doorknobs, seat backs or cushions, doorframes, stair treads, ledges, beds—anywhere, really.</p><p><em>Are the needles easily visible if you look for them, or camouflaged? Are they retractable if you know what you're doing? What kind of poison is on them? Will the victim sleep, freeze, die, or hallucinate?</em></p><p><strong>Dangers</strong></p><p>The needles are only corporeal to those who touch them without wearing a certain amulet. Important site guardians are immune to the needles.</p><p>Anything important or at an unguarded entry point is going to be festooned with needles.</p><p><strong>Remedies</strong></p><p>They are not well maintained. Many have snapped off, and few retain much poison.</p><p>They are only on the most important objects or the most useful trap objects (like a chair for guests.)</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

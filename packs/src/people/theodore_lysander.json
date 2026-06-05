@@ -1,0 +1,17 @@
+{
+  "_id": "RbKgzpoqjhIq1v8K",
+  "name": "Theodore Lysander",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Bard Pimp, Underworld</strong></p><p>Elegant and charismatic, this well-dressed man runs the Tenpenny Court Network. He manages prostitutes and their customers, his personal connections and charm monetized. He is also a skilled composer and performer, often seen at the Worldsedge Theater in Crow's Foot.</p><p><em>He is a skilled networker. He takes the safety of his friends seriously, and is protective of his employees, to the point of using blackmail to force powerful patrons to back off.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

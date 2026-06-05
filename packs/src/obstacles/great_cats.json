@@ -1,0 +1,17 @@
+{
+  "_id": "A0rf0wP5ASvDSyln",
+  "name": "Great Cats",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Animal Guards</strong></p><p>One or more great cats slink through the shadows. They like to attack from high places. Their fur mottles to match the colors and tones and textures around them.</p><p><em>Did the current owners bring them in, or are they inherited from a previous owner? Do they stay on the estate, or go hunting in the local neighborhood?</em></p><p><strong>Dangers</strong></p><p>The cats are trained to alert guards (or wear charm jewelry to alert supernatural guardians) when they detect intruders with their keen senses.</p><p>Massive old trees draped with moss, or many ledges and overlooks, provide the cats cover.</p><p><strong>Remedies</strong></p><p>There is only one, with a regular feeding time and place.</p><p>The cats are well fed and lazy, mostly for show unless provoked.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

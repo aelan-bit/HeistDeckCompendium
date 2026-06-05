@@ -1,0 +1,17 @@
+{
+  "_id": "1FyY17wMfPEQbl8a",
+  "name": "The Wooden Judge",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Haunted Puppet, Underworld</strong></p><p>This knee-high ventriloquist dummy looks like a caricature of a grim Judge. It is supernaturally animated. The puppet appears unexpectedly, interrupting a scoundrel's routine by offering jobs in a squeaky voice. He pays by revealing the location of hidden caches of ancient coin.</p><p><em>Many angry victims want to know who pulls the strings of the Wooden Judge. The puppet often hires fresh talent for dubious work.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

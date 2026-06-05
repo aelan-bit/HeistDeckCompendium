@@ -1,0 +1,17 @@
+{
+  "_id": "lLsyXrYMjtAUPN0Y",
+  "name": "Floormesh",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Supernatural Plants</strong></p><p>Flat vines grow together to make flooring. Connected below is the bulb, covered in venomous spikes. Anyone heavier than a child will fall through. Blood and rot feed the floormesh.</p><p><em>Have site defenders put carpet over the flat vines to further hide the threat? What colors, textures, and patterns does this version have? How dangerous is the venom?</em></p><p><strong>Dangers</strong></p><p>The building's architecture assumes use of floormesh, the carpets are woven to look like floormesh so the guardians don't have to cover the actual pits.</p><p>The mesh itself has venomous thorns in it, so stepping on it or falling through poisons the target.</p><p><strong>Remedies</strong></p><p>The pit is not cleaned, the area near it stinks heavily of corpserot. The mesh sags visibly.</p><p>Floormesh is mostly hung like tapestries, living decorations, rather than forming pit traps.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

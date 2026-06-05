@@ -1,0 +1,17 @@
+{
+  "_id": "Yk9ZAYDja4PFiQN5",
+  "name": "Keenshrooms",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Supernatural Plants</strong></p><p>These fist-sized mushrooms let out a keening wail when light comes within about thirty feet.</p><p><em>What do they look like? Is their smell distinctive? Are they good eating?</em></p><p><strong>Dangers</strong></p><p>They are strategically placed to surprise intruders; inside doors, on ceilings, in alcoves, behind statues.</p><p>Masses of keenshrooms have been allowed to coat walls or fill rooms, and their keen is strong enough to deafen or kill.</p><p><strong>Remedies</strong></p><p>The keenshrooms were placed too close to trafficked paths inside or outside the defended site. Constant false alarms dull vigilance.</p><p>Too far from site defenders, their keens are seldom investigated.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

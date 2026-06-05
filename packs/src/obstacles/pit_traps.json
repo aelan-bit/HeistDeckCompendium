@@ -1,0 +1,17 @@
+{
+  "_id": "LdoSfD2KJTua1dMw",
+  "name": "Pit Traps",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Traps</strong></p><p>The defended site has pit traps in strategic places. They are between 10 and 40 feet deep.</p><p><em>Do they have slick sides? Are there spikes at the bottom? Are the covers mechanized, or flimsy boards and carpets, grass turf, or leaves over canvas? Are the sides stone, earth, or clay?</em></p><p><strong>Dangers</strong></p><p>Fist sized tunnels connect pits. Predatory creatures (crabs, snakes, spiders, rats) scurry to devour victims.</p><p>Once someone falls into the pit the covers close again, and will not open until unlocked.</p><p><strong>Remedies</strong></p><p>The pits drop into a lower area, mostly abandoned except for predators. It is possible to find a way out.</p><p>The pits are mostly open and filled with junk.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

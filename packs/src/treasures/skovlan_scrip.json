@@ -1,0 +1,17 @@
+{
+  "_id": "VxKY59Mw9Faobx8e",
+  "name": "Skovlan Scrip",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><strong>Misplaced Fortune</strong></p><p>A dense lockbox filled with paper money issued by the Akorosian government to pay soldiers quelling the Skovlander Insurrection. The scrip can be exchanged for coins or services in Duskwall. Scrip is basically untraceable.</p><p><em>Some of the military supply that got lost during the war. Does the stash's location implicate a corrupt official or other thief?</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

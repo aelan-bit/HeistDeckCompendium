@@ -1,0 +1,574 @@
+{
+  "_id": "51KCx5mq17Smxl6G",
+  "name": "People",
+  "description": "One will be hiring the crew, and the other will be the target. Draw 2 during heist planning.",
+  "formula": "1d40",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "iMnFkwlRikf7qw7N",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Minister Fourteen",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "YuttcgZZQSlNgCtP",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Saithernon",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "omB9eA15kWDpeOPP",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "\"Doc\" Sarnin",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "RbKgzpoqjhIq1v8K",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Theodore Lysander",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "KcvfO8hDkIVxSAtV",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Serlevica The Brander",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "2A5fw0XlGMdheo5r",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Honorable Telia Cray",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "CEPr8QHbc8DLiSxz",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Baron Kelyr Strathmill",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "QC5XImbBcwdng85T",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Lady Polonia Brogan",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "phsop96cX5iqVJc6",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Doctor Ixit Crechelle",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "m2ppGIJDqQrZoIvL",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Sir Olen Danwold",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "ME3PKIz3oelfSkzT",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Officer Veleris Walund",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "ND8GhZy01HymfpG8",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Inspector Lorette Salkha",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "IORZwOfNwwJJgENl",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Holtz Clermont",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "68prWixXS6HdsUv7",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Eric The White",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "e4Bni2b1u2DfUuRp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Arturo Montastic",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "4YZDiWTn6yb74QvJ",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Master Slen Dallicore",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "fjwyRDMM3hciTT8S",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Lord Bulward Skinnester",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "pv6ILZmizl4MFHo4",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Sir Mournseller",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "aYVJmyZHmId7ikf5",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Gi Aniru Ga of Sultha",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "dhQOtHoyrpgmvZEg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Syla Dutorrivestria",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "BrQG7F8o7xOgXRSc",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Calvin Dannos",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "1FyY17wMfPEQbl8a",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Wooden Judge",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "Gorv2EZVA8LhkwhJ",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Jemma Dropkick",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "qGjHI4ZBOSnrkIXl",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Lady Candra Dunvil",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "MOn12Mfpk25F8SVl",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Lord Orlan Booker",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "RJyAV70EZVMkJLYg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Lord Branon Kinclaith",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "wotzWkjps2XbMwBP",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Baroness Thena Hellyers",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "YMPFegFVo01n4gpr",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Emeline Coleburn",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "oylPuIfNymTnS2fL",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Officer Milos Penderyn",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "3NoCxhCiNv28J560",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Commissioner Naria Haig",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "iWxZOgrLO03F4Epb",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Lady Ashlyn Tyrconnel",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "rjsy7xK4XDuuTDe2",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Moonslider the Third",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "GMPXqUrLwezlEsN9",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Dr. Yerial Crabbskidditch",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "KcRzuSZxogVFkaZF",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Kheldaria Whinnich",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "mOBNwsh3WWzZgE3p",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Sir Tucker Farros",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "eOnHwetDMK5twEtR",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Slopspatter",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "yKJVGmZLiY5POC1n",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Duvrel the Snake",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "3LoqVDQwNbC8T9yw",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Dr. Hansel Kryvanntic",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "bXWmr9Aw3BOu1Pok",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Dylayzia Finchester",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.people",
+      "resultId": "vLSIFZuC71k41fio",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Pebbler",
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

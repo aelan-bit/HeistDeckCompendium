@@ -1,0 +1,17 @@
+{
+  "_id": "zXQMj9CwP16ehdUq",
+  "name": "Murder Tree",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Supernatural Plants</strong></p><p>The willow tree grew around bones wired to it, spirit crystals studded in its bark, and leviathan blood at its roots. It is dimly self-aware. It senses and hates life, whipping and clubbing any who approach.</p><p><em>How do guardians move around the tree? Suggestions include knowing passwords, having enchanted amulets, or attuning to its blind spots. How many guard the site? Who had the expertise to cultivate this living weapon, how long ago?</em></p><p><strong>Dangers</strong></p><p>The chorus of semi-aware spirits that fuel the tree are enslaved by one domineering will. The tree is as coherent as a person.</p><p>Multiple murder trees are connected by roots and share knowledge with each other (and any other site guardians.)</p><p><strong>Remedies</strong></p><p>No one can communicate with the murder tree, or control it, so it is isolated from other defenses.</p><p>The tree sleeps most of the time, and it is difficult to rouse it to fighting fury.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

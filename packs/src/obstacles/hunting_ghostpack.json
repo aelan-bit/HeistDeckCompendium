@@ -1,0 +1,17 @@
+{
+  "_id": "RH4sfz8axBgWxR4K",
+  "name": "Hunting Ghostpack",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Ghostly Guards</strong></p><p>A group of weaponized ghosts haunts the defended area. They are capable of scouting to find intruders, descending on them with lethal force.</p><p><em>Do they appear as a pack with a mounted hunter, spectral hounds, and a ghostly horn call? Or an armored warband? Shapeless lethal electroplasmic stalkers? Are the wounds they inflict bloody cuts, or hard frostbite? Is their area surrounded with runes that let them see into the material world?</em></p><p><strong>Dangers</strong></p><p>The ghost leader feels all life force in its hunting ground, knowing its location.</p><p>The hunt can only rise when certain conditions like anniversaries, moon phases, etc. are met. However, they have a treasure that can only be taken from them when they manifest.</p><p><strong>Remedies</strong></p><p>The attack is purely psychological, killing with supernatural fear. The effect can be resisted.</p><p>They are summoned and directed by a command artifact like a hunting horn or special weapon. If someone else tunes to the weapon, control (and its obligations) may shift to a new bearer.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "ND8GhZy01HymfpG8",
+  "name": "Inspector Lorette Salkha",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Crusading Inspector, City Law</strong></p><p>She needs allies in her hopeless quest to clean up the city. Corruption is everywhere, crime runs rampant, and the bluecoats serve the powerful (on both sides of the law.) Some tragedy in her past propels her into a suicidal effort to restore \"rule of law.\" Her peers muse it is a shame she will die young.</p><p><em>She could be helpful if she focuses on the right bad guys — your enemies. She can't be bought, so maybe someone needs her killed (or otherwise neutralized.)</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

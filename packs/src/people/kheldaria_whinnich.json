@@ -1,0 +1,17 @@
+{
+  "_id": "KcRzuSZxogVFkaZF",
+  "name": "Kheldaria Whinnich",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Implacable Developer, New Money</strong></p><p>She has a vision for developing the Crow's Foot district. It will be divided between businesses, estates, and parks. To realize her vision, she has been selectively buying real estate all around the city, bartering for land in Crow's Foot, and using whatever persuasion is needed to convince owners to sell to her.</p><p><em>She has an estate where she stores inducements of all sorts, a variety of treasure designed to persuade owners to sell in exchange for what they want most. They say you could find almost anything there.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

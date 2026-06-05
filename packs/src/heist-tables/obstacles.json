@@ -1,0 +1,714 @@
+{
+  "_id": "kgHRmkn3gQtpSiLr",
+  "name": "Obstacles",
+  "description": "Special obstacles defending the site of the heist. Draw 3 or so during heist planning.",
+  "formula": "1d50",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "6UZRespVKcpnYkDZ",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Armor Hosts",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "7VeqhVYoNNEkl36I",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Brutal Sadists",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "U8JLkkn3QERlsSBH",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Caul Piercers",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "QgfhuyDXuwFjGiLl",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Centipedes",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "A0n5UyztoG93UaRV",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Close-Knit Guard Network",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "cm93UMvbEuLrqwJ9",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Coldrooms",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "QSxtoMTtIy3jMyjJ",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Collapsing Ceilings",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "BDqqrrAIXZuWV7Cg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Combination or Trick",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "SSN1cI1nMaZnEMvl",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Compulsive Detail Focus",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "0ORBQ0V1UaNbaG1l",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Contact Needles",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "uc19wslTgu1DM27P",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Convict Public Service",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "x7mkt3gqTlAgBB2g",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Cursed Treasure",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "kK7Xi2xnAWlfcIPJ",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Darkrooms",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "kCXXSIRX08bvECfN",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Dartus Weed",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "VDyyz18Gp7iuHzyq",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Demonic Mutations",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "nlACBr8WzzqMlFuc",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Dreamspore Shrooms",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "NZYorzuMLBM4RJq2",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Dynastic Hive",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "QA5PkEtF4mvT8gbN",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Enchanted Prosthetics",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "G8b7eqNZAgbHU0Rt",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Excellent Locks",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "rfSANDIU1niYzv6W",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Feral Pen",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "smLt0KzjcYJxaChV",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Fighting School",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "lLsyXrYMjtAUPN0Y",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Floormesh",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "z30eZFYwvfeYXjEe",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Ghost Crystal Topiary",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "FXyCnP2i7lg8zvqK",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Ghostport Lock",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "A0rf0wP5ASvDSyln",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Great Cats",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "RH4sfz8axBgWxR4K",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Hunting Ghostpack",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "lZWSBp6GrBWIRTuy",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Hunting Spiders",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "Yk9ZAYDja4PFiQN5",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Keenshrooms",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "VRuenheiXbi8HlUC",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Lightning Walls",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "hR0KBJCUtJwEBxKy",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Mastiff Pack",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "067faylZWybxYEJR",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Murder Holes",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "zXQMj9CwP16ehdUq",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Murder Tree",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "D1Ik7hguZJEE9H6s",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Panopticon",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "5hmyZJOWJNcilxyE",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Performance Enhancers",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "LdoSfD2KJTua1dMw",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Pit Traps",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "PjGW75MGV1uYbjIS",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Possession Gate",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "aYLJM2vVAytpQCfR",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Retractable Spikes",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "iIr3A237e0pdiIJZ",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Secret Doors & Spyholes",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "xhOSdz8YrJGehBeq",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Shadow Lanterns",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "s2ffSezPsUb5WA99",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Shadow Rooms",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "3N6ItDacbRSoJRII",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Shock Grips",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "s4JfAqp3cMvPekd5",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Snatchweed",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "rpiut10Kt3Koxxmg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Spirit-Infused Art",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "mcrtCcZPWilveKvR",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Starving Fog",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "Jf6mzjkg5ZAu37WI",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Sweat Nectar",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "WkrNMqj3gwxde6J5",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Thirstclimber",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "tzeorR8K3bMuZZ8a",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Thirsty Thorns",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "TPuIhd0AHpwwv7W2",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Venomous Snakes",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "zVko7nYinHGqr1qk",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Vine Curtains",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.obstacles",
+      "resultId": "soBB2iTvaQPD82PB",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Zealots",
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

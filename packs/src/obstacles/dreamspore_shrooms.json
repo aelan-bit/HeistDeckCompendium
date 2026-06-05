@@ -1,0 +1,17 @@
+{
+  "_id": "nlACBr8WzzqMlFuc",
+  "name": "Dreamspore Shrooms",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Supernatural Plants</strong></p><p>Placed on the ceiling, they drizzle sandy spores when they sense motion below. Victims hallucinate, heightening subconscious emotion (so they are very mellow, or super anxious, or filled with rage, etc.).</p><p><em>Were these intended to be a site defense? Did they instead serve a religious or recreational function? Are there special techniques for harvesting them, perhaps selling them to alchemists?</em></p><p><strong>Dangers</strong></p><p>A more intense strain, these can knock out those who succumb, and give them vivid dreams for several hours.</p><p>They are placed near other guardians as well as hazards like a steep drop or running water.</p><p><strong>Remedies</strong></p><p>Other guardians come here recreationally, their effectiveness reduced.</p><p>The spores are weak and easier to resist.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

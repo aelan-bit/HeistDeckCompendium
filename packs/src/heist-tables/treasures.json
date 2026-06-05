@@ -1,0 +1,574 @@
+{
+  "_id": "ky5nkQPDIW9JIAlH",
+  "name": "Treasures",
+  "description": "This treasure is what is motivating the heist. Draw 1 during heist planning.",
+  "formula": "1d40",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "VxKY59Mw9Faobx8e",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Skovlan Scrip",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "G2T9AWFTmmTDKEjz",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Hellwhisper Ring",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "C2DHwm5nQeJhyyLL",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Key Lens",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "OuJRK0zvOw5lSmNN",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Bayer's Train Heist",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "2st1GqXTuONvIkz3",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Limptwitch's Stash",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "IO3HGqRtau75yqx7",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Goblet of Eletrachian",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "murJ06tReyJVQ6xl",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Accidental Death",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "cCF9i2Xb2gBNMeXh",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Combination Harpsichord",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "BrooDTw8lfAWlJUm",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Evardian's Song Folios",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "fN6it38O7d8ClrwG",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Sonurian Ghost Key",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "m4TL6qztYU7HW0vh",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Whitecrown Signet Ring",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "m0ZVyWjBoujdcYTX",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Kasavaraya Tea Set",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "7HyythYYfZugflO8",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Dyvik's Chaser Mask",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "8Y1dKYznmGPf0kBF",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Charter of Crows",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "miZvukTPciLTQkz1",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Leviathan's Eye",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "LLC6xxy8h1Iqbzqg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Emerald Well",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "CajNCQFDiC5RycRp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Norscye's Lament",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "c6jH2kFlCszxeWPJ",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Hollow Shroud",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "G4z7gin9iyPdCw9p",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Censer Mace of Udoch",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "Wytdy6j7uQx5M6Dd",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Bellweather Architectural Plans",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "q25x2QxjUmhFyQt1",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Tabissera Diary",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "8GLxik7f6QfZymhv",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Krog's Broken Heart",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "fHeUF5woPTi8T92s",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Helsman Inheritance",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "vh8U734aDVwi7LaE",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Steal Blackmail",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "WgHnEar3G0hHWS7R",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Plant Evidence",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "CY1lYiP9I29TyyfB",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Terrorize",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "Mi7pE45VgGtnW6jn",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Kidnap the Heir",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "u0XVWOD5usPnCA19",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Ink Fleece",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "1ZMihvui3VEajdkg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Orb of Sellivas",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "r5Eux7wantoydTyU",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Remote Writer",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "fjiq5fUQpNsuhjWe",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Plasmic Blade Flail",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "jnGU1RKixlK4zP4o",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Book of Walls",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "9JkcTFaAJL8UZTcW",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Soultrap Carnelian",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "GORvIYFnm0vHWaPJ",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "The Thousand Facet Diamond",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "Hxgk3Ty8PXeGdbWu",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Rylaria's Shield",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "vlCWfbSiJzqU750M",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Fang of Ibiria",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "xpQgjVGQN5KgFraK",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Idol of the Sleeping God",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "TH82xJwSBhceHvo8",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Falheim's Prod",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "NxmQJHsYPV6Ex7IS",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Naladicha's Cartography",
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "type": "pack",
+      "collection": "heist-deck-compendium.treasures",
+      "resultId": "p3WmNfyQjpkknzOa",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "flags": {},
+      "text": "Mark of the Void",
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "heist-deck-compendium",
+  "title": "Duskwall Heist Deck",
+  "description": "Rollable tables and compendium entries for the Duskwall Heist Deck — a print-and-play card deck for Blades in the Dark. Includes 50 Obstacles, 40 Treasures, 40 People, and three linked rollable tables.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "aelan-bit",
+      "url": "https://github.com/aelan-bit/HeistDeckCompendium"
+    }
+  ],
+  "packs": [
+    {
+      "name": "people",
+      "label": "Heist Deck — People",
+      "type": "Actor",
+      "system": "blades-in-the-dark",
+      "path": "./packs/people"
+    },
+    {
+      "name": "treasures",
+      "label": "Heist Deck — Treasures",
+      "type": "Item",
+      "system": "blades-in-the-dark",
+      "path": "./packs/treasures"
+    },
+    {
+      "name": "obstacles",
+      "label": "Heist Deck — Obstacles",
+      "type": "Item",
+      "system": "blades-in-the-dark",
+      "path": "./packs/obstacles"
+    },
+    {
+      "name": "heist-tables",
+      "label": "Heist Deck — Tables",
+      "type": "RollTable",
+      "path": "./packs/heist-tables"
+    }
+  ],
+  "url": "https://github.com/aelan-bit/HeistDeckCompendium",
+  "manifest": "https://github.com/aelan-bit/HeistDeckCompendium/releases/latest/download/module.json",
+  "download": "https://github.com/aelan-bit/HeistDeckCompendium/releases/latest/download/module.zip"
+}

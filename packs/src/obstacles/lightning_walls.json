@@ -1,0 +1,17 @@
+{
+  "_id": "VRuenheiXbi8HlUC",
+  "name": "Lightning Walls",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Weird Tech</strong></p><p>Runic energy twisting technology can make pylons that project a curtain of energy between them. The glowing walls are transparent, but crippling to touch and lethal to pass through. They stop projectiles.</p><p><em>Does the site have the technology legally, or is it stolen? Maybe cobbled together from leftovers by a mad alchemist? Is it on all the time (expensive to fuel) or only if the alarm is raised? Where are the fuel cells kept?</em></p><p><strong>Dangers</strong></p><p>The equipment is properly installed, its vulnerable parts behind the energy curtain, directly guarding what needs protecting.</p><p>The lightning walls attract loose spirits, intruders may also have to contend with confused ghosts.</p><p><strong>Remedies</strong></p><p>The walls guard a few key access points, but there are multiple ways around.</p><p>The walls are installed poorly, so their machinery is vulnerable from the outside while it is on. If no other guards are present, they can be wrecked.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

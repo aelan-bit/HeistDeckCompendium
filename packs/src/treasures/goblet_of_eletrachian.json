@@ -1,0 +1,17 @@
+{
+  "_id": "IO3HGqRtau75yqx7",
+  "name": "Goblet of Eletrachian",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><strong>Weird Artifact</strong></p><p>The silver and gold cup is big enough to hold with two hands, crusted with obsidian stones. The owner puts a drop of a demon's blood in the goblet with certain other liquids, and conducts a ritual. For days afterwards (maybe longer) the owner can see anything the demon uses remote vision to view; just by watching the surface's illusory reflections.</p><p><em>There are many legends about the creation of the goblet, and the fate of the Whisper who first energized it. Rumor suggests the Duskwall Council entrusted the goblet to a certain family for safekeeping.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "CY1lYiP9I29TyyfB",
+  "name": "Terrorize",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><strong>Secret Dirty Work</strong></p><p>People can be stubborn, to the point where only fear can unseat their decision. Maybe they feel independent and need to be reminded that they need protection. Maybe they feel safe and need to be reminded they are not untouchable.</p><p><em>Are you supposed to be someone in particular, like a random street thug or rival's employee or bluecoat? How far can the terror go? Do you need to trash a home, or maybe converse with a loved one?</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

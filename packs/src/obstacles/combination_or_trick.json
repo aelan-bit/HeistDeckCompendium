@@ -1,0 +1,17 @@
+{
+  "_id": "BDqqrrAIXZuWV7Cg",
+  "name": "Combination or Trick",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Traps</strong></p><p>Various portals and defenses of the site are protected by combination locks or riddles to solve. Lockpicks will not work against them, though finesse may solve them eventually.</p><p><em>Are there a series of combination locks expressing a religious or eccentric worldview? Are there picture arranging puzzles, or unusual \"keys\" to go in sculpture locks? Are the locks mechanical or supernatural?</em></p><p><strong>Dangers</strong></p><p>Powerful runic work or enslaved ghosts make the obstacle difficult to smash or trick—the right combination or object must be used to bypass it.</p><p>Clues and needed items are spread across a large estate, or multiple estates.</p><p><strong>Remedies</strong></p><p>The combination or solution to the puzzle is in a scholarly work, and can be found or bought ahead of time.</p><p>The solutions are painfully obvious to someone with the right upbringing and background.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

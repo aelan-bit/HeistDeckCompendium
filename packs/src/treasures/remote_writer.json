@@ -1,0 +1,17 @@
+{
+  "_id": "r5Eux7wantoydTyU",
+  "name": "Remote Writer",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><strong>Weird Artifact</strong></p><p>This little book has a peculiar occult symbol on the cover. If an object is placed between the covers for a full 24 hours, then the book will transcribe any conversation happening in earshot of the object until reset. When the book reaches the end, the writing starts over on the first page, clearing pages as it goes.</p><p><em>The book provides remote reading, eavesdropping of a sort. A target's favorite pen or lucky coin can become the broadcaster, and determined spies can copy the magic book writing so they don't lose it.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

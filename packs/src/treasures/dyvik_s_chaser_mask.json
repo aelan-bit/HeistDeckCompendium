@@ -1,0 +1,17 @@
+{
+  "_id": "7HyythYYfZugflO8",
+  "name": "Dyvik's Chaser Mask",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><strong>Weird Artifact</strong></p><p>This silvery face mask has the word Elekthiaron etched along its inner edge. When the word is spoken, the personality of the one touching the mask is pulled into it. The personality that was in the mask goes in the body. If the one in the body doesn't touch the mask once a week, madness threatens.</p><p><em>Has someone been using the mask to pose as someone else? How long has that been going on? Is there someone in the mask that needs rescuing? Was the mask used to cheat biological death?</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

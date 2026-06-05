@@ -1,0 +1,17 @@
+{
+  "_id": "smLt0KzjcYJxaChV",
+  "name": "Fighting School",
+  "type": "item",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "description": "<p><strong>Twisted Guards</strong></p><p>An onsite training school focuses on the lifestyle and skill of a school of fighting. Site defenders are part of a group identity with specialty training.</p><p><em>Is the school's focus on dueling, a martial art, commando training, or something else? What is their crest, uniform, motto, and lore? What sort of training space do they have?</em></p><p><strong>Dangers</strong></p><p>The school itself is an impressive fortress or defense.</p><p>The school has an impressive alumni network that visits occasionally and would avenge wrongs to the honor of the school.</p><p><strong>Remedies</strong></p><p>This is an off-site shrine or expansion, where they send troublemakers and those they can't eject for political or financial reasons.</p><p>Leadership is riddled with rivalries and power struggles. Outsiders know some details.</p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}

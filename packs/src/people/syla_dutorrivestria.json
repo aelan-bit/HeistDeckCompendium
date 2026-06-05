@@ -1,0 +1,17 @@
+{
+  "_id": "dhQOtHoyrpgmvZEg",
+  "name": "Syla Dutorrivestria",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "notes": "<p><strong>Famous Connoisseur, Foreign</strong></p><p>This mysterious Iruvian hides behind a veil. For years, she has been the final word on Duskwall delicacies. She specializes in evaluating high-end cuisine (including spore wines and cooking with leviathan blood.) She stays in the public eye with racy politics and a string of scandalous romances.</p><p><em>She must keep real competition for her fame weakened and embarrassed, and she has countless enemies. Everyone \"knows\" she is an Iruvian spy.</em></p>"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "heist-deck": {
+      "category": ""
+    }
+  }
+}
