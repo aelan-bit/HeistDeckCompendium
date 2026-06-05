@@ -22,10 +22,10 @@ jobs:
 
       - name: Compile packs
         run: |
-          npx fvtt package pack --in packs/src/people       --out packs/people
-          npx fvtt package pack --in packs/src/treasures    --out packs/treasures
-          npx fvtt package pack --in packs/src/obstacles    --out packs/obstacles
-          npx fvtt package pack --in packs/src/heist-tables --out packs/heist-tables
+          npx fvtt package pack --type Module --id heist-deck-compendium --in packs/src/people       --out packs/people
+          npx fvtt package pack --type Module --id heist-deck-compendium --in packs/src/treasures    --out packs/treasures
+          npx fvtt package pack --type Module --id heist-deck-compendium --in packs/src/obstacles    --out packs/obstacles
+          npx fvtt package pack --type Module --id heist-deck-compendium --in packs/src/heist-tables --out packs/heist-tables
 
       - name: Zip module
         run: zip -r module.zip module.json packs/people packs/treasures packs/obstacles packs/heist-tables
