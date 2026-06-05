@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-sources.mjs",
-    "compile": "fvtt package compile --in packs/src/people      --out packs/people      && fvtt package compile --in packs/src/treasures   --out packs/treasures   && fvtt package compile --in packs/src/obstacles   --out packs/obstacles   && fvtt package compile --in packs/src/heist-tables --out packs/heist-tables",
+    "compile": "fvtt package pack --in packs/src/people      --out packs/people      && fvtt package pack --in packs/src/treasures   --out packs/treasures   && fvtt package pack --in packs/src/obstacles   --out packs/obstacles   && fvtt package pack --in packs/src/heist-tables --out packs/heist-tables",
     "build": "npm run generate && npm run compile"
   },
   "devDependencies": {
