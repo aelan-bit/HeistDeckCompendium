@@ -4,7 +4,7 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Vigilante Rebel, Foreign</strong></p><p>The War of Skovlan Unity is over, but this slender maniac with a brushy beard can't let it go. He plans to destroy the government and turn Duskwall into a Skovlan colony to punish them for the destructive war. He wants to discredit and disrupt the government at every turn.</p><p><em>He targets government officials as high up as he can reach, hoping to cause enough trouble to make the government vulnerable to change. He has gathered zealots, and he uses outsiders for disposable work.</em></p>"
+    "notes": "<p><strong>Vigilante Rebel, Foreign</strong></p><p>The War of Skovlan Unity is over, but this slender maniac with a brushy beard can't let it go. He plans to destroy the government and turn Duskvol into a Skovlan colony to punish them for the destructive war. He wants to discredit and disrupt the government at every turn.</p><p><em>He targets government officials as high up as he can reach, hoping to cause enough trouble to make the government vulnerable to change. He has gathered zealots, and he uses outsiders for disposable work.</em></p>"
   },
   "ownership": {
     "default": 0

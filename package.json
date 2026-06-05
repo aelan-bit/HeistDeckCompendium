@@ -1,7 +1,7 @@
 {
   "name": "heist-deck-compendium",
   "version": "1.0.0",
-  "description": "Duskwall Heist Deck — Foundry VTT module build scripts",
+  "description": "Heist Deck - Blades in the Dark — Foundry VTT module build scripts",
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-sources.mjs",

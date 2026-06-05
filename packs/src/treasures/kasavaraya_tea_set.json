@@ -4,7 +4,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Family Heirloom</strong></p><p>When the Immortal Emperor visited Akoros four centuries ago, he used this tea set with the patriarch of the Kasavaraya family. They are still one of the most decorated and entrenched military families in Duskwall. Their tea set is a symbol of Duskwall's prominence. However, a saucer and a cup are missing.</p><p><em>This stuff is priceless, literally, so negotiating a price for its return is tricky. If you could find the missing pieces, or forge them adequately, they would be great hostages to affect the family's behavior.</em></p>"
+    "description": "<p><strong>Family Heirloom</strong></p><p>When the Immortal Emperor visited Akoros four centuries ago, he used this tea set with the patriarch of the Kasavaraya family. They are still one of the most decorated and entrenched military families in Duskvol. Their tea set is a symbol of Duskvol's prominence. However, a saucer and a cup are missing.</p><p><em>This stuff is priceless, literally, so negotiating a price for its return is tricky. If you could find the missing pieces, or forge them adequately, they would be great hostages to affect the family's behavior.</em></p>"
   },
   "ownership": {
     "default": 0
