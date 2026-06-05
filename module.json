@@ -2,7 +2,7 @@
   "id": "heist-deck-compendium",
   "title": "Duskwall Heist Deck",
   "description": "Rollable tables and compendium entries for the Duskwall Heist Deck — a print-and-play card deck for Blades in the Dark. Includes 50 Obstacles, 40 Treasures, 40 People, and three linked rollable tables.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
