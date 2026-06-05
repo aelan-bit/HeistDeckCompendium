@@ -21,11 +21,7 @@ jobs:
         run: npm install
 
       - name: Compile packs
-        run: |
-          npx fvtt package pack -n people       --in packs/src/people       --out packs
-          npx fvtt package pack -n treasures    --in packs/src/treasures    --out packs
-          npx fvtt package pack -n obstacles    --in packs/src/obstacles    --out packs
-          npx fvtt package pack -n heist-tables --in packs/src/heist-tables --out packs
+        run: node scripts/pack.mjs
 
       - name: Zip module
         run: zip -r module.zip module.json packs/people packs/treasures packs/obstacles packs/heist-tables

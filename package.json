@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-sources.mjs",
-    "compile": "fvtt package pack -n people --in packs/src/people --out packs && fvtt package pack -n treasures --in packs/src/treasures --out packs && fvtt package pack -n obstacles --in packs/src/obstacles --out packs && fvtt package pack -n heist-tables --in packs/src/heist-tables --out packs",
+    "compile": "node scripts/pack.mjs",
     "build": "npm run generate && npm run compile"
   },
-  "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.2"
+  "dependencies": {
+    "classic-level": "^1.4.1"
   }
 }

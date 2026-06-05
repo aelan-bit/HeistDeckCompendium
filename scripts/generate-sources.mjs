@@ -133,6 +133,7 @@ function generateTables(tables) {
   for (const { tableData, packName, docIds, formula, description } of tables) {
     const tableId = stableId('table:' + tableData.name);
     const results = tableData.results.map((r, i) => ({
+      _id: stableId(`result:${tableData.name}:${i}`),
       type: 'pack',
       collection: `${MODULE_ID}.${packName}`,
       resultId: docIds[r.name],
@@ -140,7 +141,7 @@ function generateTables(tables) {
       range: r.range,
       drawn: false,
       flags: {},
-      // Keep name and description so there's a fallback label in the UI
+      // Keep name so there's a fallback label in the UI
       text: r.name,
       img: r.img ?? 'icons/svg/d20-black.svg'
     }));
