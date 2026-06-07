@@ -3,7 +3,7 @@
   "name": "People",
   "description": "One will be hiring the crew, and the other will be the target. Draw 2 during heist planning.",
   "formula": "1d40",
-  "replacement": true,
+  "replacement": false,
   "displayRoll": true,
   "results": [
     {

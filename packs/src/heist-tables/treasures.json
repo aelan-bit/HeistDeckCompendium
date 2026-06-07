@@ -3,7 +3,7 @@
   "name": "Treasures",
   "description": "This treasure is what is motivating the heist. Draw 1 during heist planning.",
   "formula": "1d40",
-  "replacement": true,
+  "replacement": false,
   "displayRoll": true,
   "results": [
     {

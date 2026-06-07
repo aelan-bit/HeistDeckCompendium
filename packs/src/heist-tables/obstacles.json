@@ -3,7 +3,7 @@
   "name": "Obstacles",
   "description": "Special obstacles defending the site of the heist. Draw 3 or so during heist planning.",
   "formula": "1d50",
-  "replacement": true,
+  "replacement": false,
   "displayRoll": true,
   "results": [
     {
