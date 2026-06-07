@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Twisted Guards",
-    "description": "<p>Only brutal sadists are hired on as guards. They have permission to play with captured intruders.</p>",
-    "additional_info": "<p><em>Is the owner of the protected property aware of this cultural rule, or are guards hired by an employee? Do they share cultural roots? (Slaughterhouse workers, leviathan hunters, soldiers, or city guards?) How do the neighbors feel about their occasional scandals?</em></p><p><strong>Dangers</strong></p><p>Several of them are skilled in both torture and interrogation; they extract secrets from intruders. A side business in blackmail helps them avoid legal trouble.</p><p>They are hardened veterans, exceptionally tough and dangerous. They aim to incapacitate.</p><p><strong>Remedies</strong></p><p>Their ugly tactics and poorly chosen victims have earned them (and their employer) enemies in lots of unexpected places.</p><p>They really, really like to drink.</p>"
+    "description": "Only brutal sadists are hired on as guards. They have permission to play with captured intruders.",
+    "additional_info": "Is the owner of the protected property aware of this cultural rule, or are guards hired by an employee? Do they share cultural roots? (Slaughterhouse workers, leviathan hunters, soldiers, or city guards?) How do the neighbors feel about their occasional scandals?\n\nDangers:\n• Several of them are skilled in both torture and interrogation; they extract secrets from intruders. A side business in blackmail helps them avoid legal trouble.\n• They are hardened veterans, exceptionally tough and dangerous. They aim to incapacitate.\n\nRemedies:\n• Their ugly tactics and poorly chosen victims have earned them (and their employer) enemies in lots of unexpected places.\n• They really, really like to drink."
   },
   "ownership": {
     "default": 0

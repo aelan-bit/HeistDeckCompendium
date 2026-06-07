@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Supernatural Plants",
-    "description": "<p>When something moves near a tangled bank of dartus weed, the vines flex, flicking barbed tips towards the source of motion within arm's reach. The darts are paralytic; a target will pass out for about an hour.</p>",
-    "additional_info": "<p><em>Do they have a distinctive flower or smell? What is the aftertaste of the poison's effect?</em></p><p><strong>Dangers</strong></p><p>Hounds with chemically toughened hides patrol the weed banks, brutally killing intruders.</p><p>Weed banks are cultivated strategically, flanking important doorways or draped over arborwalks, straggling along verges.</p><p><strong>Remedies</strong></p><p>The weeds are young. Darts can be stopped with thick leather.</p><p>Weed banks are out of the way of defended valuables, but too close to very annoyed neighbors who may hold a grudge.</p>"
+    "description": "When something moves near a tangled bank of dartus weed, the vines flex, flicking barbed tips towards the source of motion within arm's reach. The darts are paralytic; a target will pass out for about an hour.",
+    "additional_info": "Do they have a distinctive flower or smell? What is the aftertaste of the poison's effect?\n\nDangers:\n• Hounds with chemically toughened hides patrol the weed banks, brutally killing intruders.\n• Weed banks are cultivated strategically, flanking important doorways or draped over arborwalks, straggling along verges.\n\nRemedies:\n• The weeds are young. Darts can be stopped with thick leather.\n• Weed banks are out of the way of defended valuables, but too close to very annoyed neighbors who may hold a grudge."
   },
   "ownership": {
     "default": 0

@@ -5,8 +5,8 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "class": "Religious Object",
-    "description": "<p>It is an eerie black disk of leviathan bone, about the size of a dinner plate but five times as thick. The bone is carved with a strange circular pattern with rays cutting through it. The primitive artwork was polished, and silver inlaid in the pattern, by a decadent nobleman.</p>",
-    "additional_info": "<p><em>Impressionable people admit the disk whispers to them, they hear the Back of the Mirror when the disk is near. Many cults see this disk as a conduit to clearer communication with their supernatural patrons.</em></p>"
+    "description": "It is an eerie black disk of leviathan bone, about the size of a dinner plate but five times as thick. The bone is carved with a strange circular pattern with rays cutting through it. The primitive artwork was polished, and silver inlaid in the pattern, by a decadent nobleman.",
+    "additional_info": "Impressionable people admit the disk whispers to them, they hear the Back of the Mirror when the disk is near. Many cults see this disk as a conduit to clearer communication with their supernatural patrons."
   },
   "ownership": {
     "default": 0

@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Twisted Guards",
-    "description": "<p>Guards are only hired by referral. Failure results in punishment for both the guard and the sponsor. Their loyalty is tested many ways before and after they are hired.</p>",
-    "additional_info": "<p><em>Do they favor bastards of the employer? Are they connected to one military unit? Are they refugees from another place? Do they come from a single neighborhood? Does punishment extend to their families?</em></p><p><strong>Dangers</strong></p><p>They are connected to a larger sponsoring organization that would seek vengeance if they are attacked or insulted, and also offer them favors.</p><p>They speak in code and have passwords that include safewords and warnings.</p><p><strong>Remedies</strong></p><p>Nepotism has pulled in some really incompetent guards.</p><p>Endless drama from working with family and friends.</p>"
+    "description": "Guards are only hired by referral. Failure results in punishment for both the guard and the sponsor. Their loyalty is tested many ways before and after they are hired.",
+    "additional_info": "Do they favor bastards of the employer? Are they connected to one military unit? Are they refugees from another place? Do they come from a single neighborhood? Does punishment extend to their families?\n\nDangers:\n• They are connected to a larger sponsoring organization that would seek vengeance if they are attacked or insulted, and also offer them favors.\n• They speak in code and have passwords that include safewords and warnings.\n\nRemedies:\n• Nepotism has pulled in some really incompetent guards.\n• Endless drama from working with family and friends."
   },
   "ownership": {
     "default": 0

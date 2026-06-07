@@ -5,8 +5,8 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "class": "Family Heirloom",
-    "description": "<p>Rylaria Graefwold was a soldier who gained title and wealth. She wrote her life's story on the back of the shield she used to save a general. Later generations added to the family story. The shield represents the family's honor. It was lost at sea when their first leviathan hunting ship was wrecked. Or was it?</p>",
-    "additional_info": "<p><em>Now the family is wealthy, and this artifact would be important to them. Does it have a secret in code?</em></p>"
+    "description": "Rylaria Graefwold was a soldier who gained title and wealth. She wrote her life's story on the back of the shield she used to save a general. Later generations added to the family story. The shield represents the family's honor. It was lost at sea when their first leviathan hunting ship was wrecked. Or was it?",
+    "additional_info": "Now the family is wealthy, and this artifact would be important to them. Does it have a secret in code?"
   },
   "ownership": {
     "default": 0

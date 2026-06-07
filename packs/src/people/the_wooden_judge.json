@@ -6,7 +6,7 @@
   "system": {
     "description_short": "Haunted Puppet",
     "associated_crew_type": "Underworld",
-    "description": "<p>This knee-high ventriloquist dummy looks like a caricature of a grim Judge. It is supernaturally animated. The puppet appears unexpectedly, interrupting a scoundrel's routine by offering jobs in a squeaky voice. He pays by revealing the location of hidden caches of ancient coin.</p><p><em>Many angry victims want to know who pulls the strings of the Wooden Judge. The puppet often hires fresh talent for dubious work.</em></p>"
+    "description": "This knee-high ventriloquist dummy looks like a caricature of a grim Judge. It is supernaturally animated. The puppet appears unexpectedly, interrupting a scoundrel's routine by offering jobs in a squeaky voice. He pays by revealing the location of hidden caches of ancient coin.\n\nMany angry victims want to know who pulls the strings of the Wooden Judge. The puppet often hires fresh talent for dubious work."
   },
   "ownership": {
     "default": 0

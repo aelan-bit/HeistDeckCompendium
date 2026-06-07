@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Traps",
-    "description": "<p>Spring-loaded spears or racks of spears launch at intruders. They can come from the side, behind, ahead, below, or above.</p>",
-    "additional_info": "<p><em>Are the defenses standardized to protect guardians, or random to confuse intruders? Are they in an area that site defenders use, or in an isolated off-limits area? How long have they been in use, and how often are they maintained?</em></p><p><strong>Dangers</strong></p><p>After doing their killing work, they retract, and the launch points are not obvious.</p><p>The spears are slathered with some toxin, further affecting the victim.</p><p><strong>Remedies</strong></p><p>The mechanisms are not well maintained. Sometimes they don't work, and when they do, there is a screech and they are a bit slow.</p><p>The spears are designed to pin an intruder in place, to be interrogated and punished, rather than to kill outright.</p>"
+    "description": "Spring-loaded spears or racks of spears launch at intruders. They can come from the side, behind, ahead, below, or above.",
+    "additional_info": "Are the defenses standardized to protect guardians, or random to confuse intruders? Are they in an area that site defenders use, or in an isolated off-limits area? How long have they been in use, and how often are they maintained?\n\nDangers:\n• After doing their killing work, they retract, and the launch points are not obvious.\n• The spears are slathered with some toxin, further affecting the victim.\n\nRemedies:\n• The mechanisms are not well maintained. Sometimes they don't work, and when they do, there is a screech and they are a bit slow.\n• The spears are designed to pin an intruder in place, to be interrogated and punished, rather than to kill outright."
   },
   "ownership": {
     "default": 0

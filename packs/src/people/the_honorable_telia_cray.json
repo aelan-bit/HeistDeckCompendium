@@ -6,7 +6,7 @@
   "system": {
     "description_short": "Stern Prosecutor",
     "associated_crew_type": "City Law",
-    "description": "<p>She's old, she's sour, and she has a reputation for jailing Duskvol's criminals. As thin and hard as an iron poker, she relentlessly pursues her cases, bending the law with a passionate hatred of scoundrels. She runs a special unit of Inspectors dedicated to investigating her cases, run by Inspector Ulek.</p><p><em>If she is taking a case personally (as she often does) she may hire outsiders to acquire or create evidence. She also conducts a brutal war of counter-intelligence against rogues looking to free their associates.</em></p>"
+    "description": "She's old, she's sour, and she has a reputation for jailing Duskvol's criminals. As thin and hard as an iron poker, she relentlessly pursues her cases, bending the law with a passionate hatred of scoundrels. She runs a special unit of Inspectors dedicated to investigating her cases, run by Inspector Ulek.\n\nIf she is taking a case personally (as she often does) she may hire outsiders to acquire or create evidence. She also conducts a brutal war of counter-intelligence against rogues looking to free their associates."
   },
   "ownership": {
     "default": 0

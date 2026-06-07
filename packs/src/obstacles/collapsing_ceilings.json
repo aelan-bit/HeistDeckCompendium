@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Traps",
-    "description": "<p>If triggered, this trap drops a mass of stone. That seals off the threatened area, and crushes anyone tampering with its defenses.</p>",
-    "additional_info": "<p><em>Who put valuables behind a trap that could seal them away for good? How old is this defense, and who takes care of it? What warning signs tip off an intruder that continuing is dangerous?</em></p><p><strong>Dangers</strong></p><p>Hidden mechanisms can raise the block back up to the ceiling, so the trap can be reused (or defeated remotely.)</p><p>More than one block falls; the first one cuts off escape, then death seems inevitable.</p><p><strong>Remedies</strong></p><p>The stone dropped long ago. Site guardians or intruders have developed ways to climb over it or get past it. Other blocks may still be untriggered, but some of them are no longer dangerous.</p><p>More like a mine collapse, difficult to control and possible to tunnel past.</p>"
+    "description": "If triggered, this trap drops a mass of stone. That seals off the threatened area, and crushes anyone tampering with its defenses.",
+    "additional_info": "Who put valuables behind a trap that could seal them away for good? How old is this defense, and who takes care of it? What warning signs tip off an intruder that continuing is dangerous?\n\nDangers:\n• Hidden mechanisms can raise the block back up to the ceiling, so the trap can be reused (or defeated remotely.)\n• More than one block falls; the first one cuts off escape, then death seems inevitable.\n\nRemedies:\n• The stone dropped long ago. Site guardians or intruders have developed ways to climb over it or get past it. Other blocks may still be untriggered, but some of them are no longer dangerous.\n• More like a mine collapse, difficult to control and possible to tunnel past."
   },
   "ownership": {
     "default": 0

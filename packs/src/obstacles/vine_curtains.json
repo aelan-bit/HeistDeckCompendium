@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Supernatural Plants",
-    "description": "<p>Curtains of vines connect back to a radiant root that has grown semi-aware, fed on rogue spirits. If touched, the vines slither and writhe to entangle, hoist, and bundle the target for a guardian to find.</p>",
-    "additional_info": "<p><em>What do the vines look like? Do they use their scent to attract or repel? Where is the root relative to the curtain?</em></p><p><strong>Dangers</strong></p><p>Many curtains and roots of different sizes (some quite big) connect back to a central bulb somewhere in the defense site.</p><p>The vines also have a contact poison that makes their target go limp for 10-60 minutes.</p><p><strong>Remedies</strong></p><p>The site owner does not have legal permission to have the vine curtains, so they are only used inside.</p><p>The vine curtains grow wild and the lazy site owner does not keep them trimmed back, so other guards must stay away from them.</p>"
+    "description": "Curtains of vines connect back to a radiant root that has grown semi-aware, fed on rogue spirits. If touched, the vines slither and writhe to entangle, hoist, and bundle the target for a guardian to find.",
+    "additional_info": "What do the vines look like? Do they use their scent to attract or repel? Where is the root relative to the curtain?\n\nDangers:\n• Many curtains and roots of different sizes (some quite big) connect back to a central bulb somewhere in the defense site.\n• The vines also have a contact poison that makes their target go limp for 10-60 minutes.\n\nRemedies:\n• The site owner does not have legal permission to have the vine curtains, so they are only used inside.\n• The vine curtains grow wild and the lazy site owner does not keep them trimmed back, so other guards must stay away from them."
   },
   "ownership": {
     "default": 0

@@ -5,8 +5,8 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "class": "Misplaced Fortune",
-    "description": "<p>A dense lockbox filled with paper money issued by the Akorosian government to pay soldiers quelling the Skovlander Insurrection. The scrip can be exchanged for coins or services in Duskvol. Scrip is basically untraceable.</p>",
-    "additional_info": "<p><em>Some of the military supply that got lost during the war. Does the stash's location implicate a corrupt official or other thief?</em></p>"
+    "description": "A dense lockbox filled with paper money issued by the Akorosian government to pay soldiers quelling the Skovlander Insurrection. The scrip can be exchanged for coins or services in Duskvol. Scrip is basically untraceable.",
+    "additional_info": "Some of the military supply that got lost during the war. Does the stash's location implicate a corrupt official or other thief?"
   },
   "ownership": {
     "default": 0

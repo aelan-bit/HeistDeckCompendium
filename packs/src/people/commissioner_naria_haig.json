@@ -6,7 +6,7 @@
   "system": {
     "description_short": "Political Matchmaker",
     "associated_crew_type": "City Law",
-    "description": "<p>She exudes a plump grandmotherly innocence, but she is one of the sharpest politicians in Duskvol. She supervises over the merging of unexpected allies and the schism of monolithic interests. She cares about one thing—the good of Duskvol as a whole. She is Chair of the Ethics Oversight Committee.</p><p><em>Always playing a bigger game, she uses outsiders to manage errands whose purpose they cannot see. Those she outmaneuvers tend to want to get back at her with violence.</em></p>"
+    "description": "She exudes a plump grandmotherly innocence, but she is one of the sharpest politicians in Duskvol. She supervises over the merging of unexpected allies and the schism of monolithic interests. She cares about one thing—the good of Duskvol as a whole. She is Chair of the Ethics Oversight Committee.\n\nAlways playing a bigger game, she uses outsiders to manage errands whose purpose they cannot see. Those she outmaneuvers tend to want to get back at her with violence."
   },
   "ownership": {
     "default": 0

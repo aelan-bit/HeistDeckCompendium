@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Supernatural Plants",
-    "description": "<p>These fist-sized mushrooms let out a keening wail when light comes within about thirty feet.</p>",
-    "additional_info": "<p><em>What do they look like? Is their smell distinctive? Are they good eating?</em></p><p><strong>Dangers</strong></p><p>They are strategically placed to surprise intruders; inside doors, on ceilings, in alcoves, behind statues.</p><p>Masses of keenshrooms have been allowed to coat walls or fill rooms, and their keen is strong enough to deafen or kill.</p><p><strong>Remedies</strong></p><p>The keenshrooms were placed too close to trafficked paths inside or outside the defended site. Constant false alarms dull vigilance.</p><p>Too far from site defenders, their keens are seldom investigated.</p>"
+    "description": "These fist-sized mushrooms let out a keening wail when light comes within about thirty feet.",
+    "additional_info": "What do they look like? Is their smell distinctive? Are they good eating?\n\nDangers:\n• They are strategically placed to surprise intruders; inside doors, on ceilings, in alcoves, behind statues.\n• Masses of keenshrooms have been allowed to coat walls or fill rooms, and their keen is strong enough to deafen or kill.\n\nRemedies:\n• The keenshrooms were placed too close to trafficked paths inside or outside the defended site. Constant false alarms dull vigilance.\n• Too far from site defenders, their keens are seldom investigated."
   },
   "ownership": {
     "default": 0

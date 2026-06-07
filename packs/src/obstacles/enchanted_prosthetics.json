@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Twisted Guards",
-    "description": "<p>Guards are all amputees with at least one prosthetic. Each prosthetic tunes to its owner. The prosthetics can stun on contact.</p>",
-    "additional_info": "<p><em>Are the false limbs the work of one genius? Are they part of a collection? Were they made for this use? Is a ghost bound to each? Are they scientific, with batteries? Are they powered by the bearer's life force?</em></p><p><strong>Dangers</strong></p><p>All guards have some adept training and spirit bane charms, alert against supernatural forces.</p><p>Veteran guards have learned to tune to their prosthetics to get an additional effect, like life detection or firing energy blasts.</p><p><strong>Remedies</strong></p><p>Only one use between recharges.</p><p>The guards are mostly old or broken, relying on reputation and supernatural energy to be effective.</p>"
+    "description": "Guards are all amputees with at least one prosthetic. Each prosthetic tunes to its owner. The prosthetics can stun on contact.",
+    "additional_info": "Are the false limbs the work of one genius? Are they part of a collection? Were they made for this use? Is a ghost bound to each? Are they scientific, with batteries? Are they powered by the bearer's life force?\n\nDangers:\n• All guards have some adept training and spirit bane charms, alert against supernatural forces.\n• Veteran guards have learned to tune to their prosthetics to get an additional effect, like life detection or firing energy blasts.\n\nRemedies:\n• Only one use between recharges.\n• The guards are mostly old or broken, relying on reputation and supernatural energy to be effective."
   },
   "ownership": {
     "default": 0

@@ -6,7 +6,7 @@
   "system": {
     "description_short": "Eerie Assassin",
     "associated_crew_type": "Underworld",
-    "description": "<p>The Inkvein was a cabal of seven anonymous assassins, named for their maps of the canals. If one of them was identified as a member, the other six were sworn to kill the outed assassin. Dannos was outed a decade ago, and he killed the other members and their undying founder. Now he is Inkvein.</p><p><em>Easily bored, he prefers interesting challenges to high paying or easy kills. Of course, many bereaved or power hungry individuals want him dead.</em></p>"
+    "description": "The Inkvein was a cabal of seven anonymous assassins, named for their maps of the canals. If one of them was identified as a member, the other six were sworn to kill the outed assassin. Dannos was outed a decade ago, and he killed the other members and their undying founder. Now he is Inkvein.\n\nEasily bored, he prefers interesting challenges to high paying or easy kills. Of course, many bereaved or power hungry individuals want him dead."
   },
   "ownership": {
     "default": 0

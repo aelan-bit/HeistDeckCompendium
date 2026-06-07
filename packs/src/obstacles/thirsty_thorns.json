@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Supernatural Plants",
-    "description": "<p>Strategically placed thornbushes grow on walls and serve as decorations. They live on blood. They only flower if something dies on them; the bigger the life, the more impressive the bloom.</p>",
-    "additional_info": "<p><em>Do they feed on radiant light? Are they along the interior walls, lining the walks, and climbing walls outside? Are there thorns inside, along windows or protecting secret doors?</em></p><p><strong>Dangers</strong></p><p>The thorns are poisonous, inflicting some condition on those who fail to resist. Possibilities include sleep, death by choking, blinding blood from the eyes, or paralysis.</p><p>The thorns are considered a gardening achievement, with some fame and support as local culture.</p><p><strong>Remedies</strong></p><p>A custom amulet tuned to their life energy turns the thorns away, allowing its bearer to push through them unharmed. A site defender may have one, or one could be made.</p><p>They are old and brittle, dying by inches and neglected.</p>"
+    "description": "Strategically placed thornbushes grow on walls and serve as decorations. They live on blood. They only flower if something dies on them; the bigger the life, the more impressive the bloom.",
+    "additional_info": "Do they feed on radiant light? Are they along the interior walls, lining the walks, and climbing walls outside? Are there thorns inside, along windows or protecting secret doors?\n\nDangers:\n• The thorns are poisonous, inflicting some condition on those who fail to resist. Possibilities include sleep, death by choking, blinding blood from the eyes, or paralysis.\n• The thorns are considered a gardening achievement, with some fame and support as local culture.\n\nRemedies:\n• A custom amulet tuned to their life energy turns the thorns away, allowing its bearer to push through them unharmed. A site defender may have one, or one could be made.\n• They are old and brittle, dying by inches and neglected."
   },
   "ownership": {
     "default": 0

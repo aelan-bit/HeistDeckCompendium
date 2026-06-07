@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Ghostly Guards",
-    "description": "<p>Ancestors have been ritually infused into the defense site, it is a dynastic holding. The spirits are old, and insane, but strategically placed to act out their madness in the most damaging way.</p>",
-    "additional_info": "<p><em>Did the family get special permission to harbor ghosts? Do they have connections to limmers? Are spirits tied to leviathan bone shards? Are they moving pictures, or conversationalists with clues?</em></p><p><strong>Dangers</strong></p><p>The ghosts are legally protected, like landmarks or artwork. Damaging them is a serious crime.</p><p>Some of the more powerful or canny ghosts are still somewhat sane collaborators with the site owners.</p><p><strong>Remedies</strong></p><p>They are out of control, and few dare to enter the site now (or it is abandoned.)</p><p>They will not harm family members (but may not react well to hostages.)</p>"
+    "description": "Ancestors have been ritually infused into the defense site, it is a dynastic holding. The spirits are old, and insane, but strategically placed to act out their madness in the most damaging way.",
+    "additional_info": "Did the family get special permission to harbor ghosts? Do they have connections to limmers? Are spirits tied to leviathan bone shards? Are they moving pictures, or conversationalists with clues?\n\nDangers:\n• The ghosts are legally protected, like landmarks or artwork. Damaging them is a serious crime.\n• Some of the more powerful or canny ghosts are still somewhat sane collaborators with the site owners.\n\nRemedies:\n• They are out of control, and few dare to enter the site now (or it is abandoned.)\n• They will not harm family members (but may not react well to hostages.)"
   },
   "ownership": {
     "default": 0

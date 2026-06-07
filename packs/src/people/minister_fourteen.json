@@ -6,7 +6,7 @@
   "system": {
     "description_short": "Grungy Fixer",
     "associated_crew_type": "Underworld",
-    "description": "<p>The blind Skovlander holds court on the docks, moving from one basement to another. He favors baggy shirts, stained vests, shiny jewelry, and fraying lace. He often acts through his massive bodyguard Severen and his weedy messenger Throk.</p><p><em>He is connected in the Skovlander refugee community, and in Skovian. For a price (either wealth or an errand) he will share information about Skovlanders. He often hires outsiders to handle sensitive tasks.</em></p>"
+    "description": "The blind Skovlander holds court on the docks, moving from one basement to another. He favors baggy shirts, stained vests, shiny jewelry, and fraying lace. He often acts through his massive bodyguard Severen and his weedy messenger Throk.\n\nHe is connected in the Skovlander refugee community, and in Skovian. For a price (either wealth or an errand) he will share information about Skovlanders. He often hires outsiders to handle sensitive tasks."
   },
   "ownership": {
     "default": 0

@@ -5,8 +5,8 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "class": "Secret Dirty Work",
-    "description": "<p>People can be stubborn, to the point where only fear can unseat their decision. Maybe they feel independent and need to be reminded that they need protection. Maybe they feel safe and need to be reminded they are not untouchable.</p>",
-    "additional_info": "<p><em>Are you supposed to be someone in particular, like a random street thug or rival's employee or bluecoat? How far can the terror go? Do you need to trash a home, or maybe converse with a loved one?</em></p>"
+    "description": "People can be stubborn, to the point where only fear can unseat their decision. Maybe they feel independent and need to be reminded that they need protection. Maybe they feel safe and need to be reminded they are not untouchable.",
+    "additional_info": "Are you supposed to be someone in particular, like a random street thug or rival's employee or bluecoat? How far can the terror go? Do you need to trash a home, or maybe converse with a loved one?"
   },
   "ownership": {
     "default": 0

@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Supernatural Plants",
-    "description": "<p>It grows in fresh water, lengthening its long winding tendrils almost to the surface. When touched, it snatches and pulls, coiling down to the bottom and holding for a few minutes before relaxing back up.</p>",
-    "additional_info": "<p><em>Is their growth boosted supernaturally, and can you see faces reflecting from the Ghost Field beneath their fronds? Are the locals aware of the threat, willing to talk about it?</em></p><p><strong>Dangers</strong></p><p>Snatchweed is cultivated in areas where intruders must enter the water to get past other obstacles.</p><p>The bottom of the water has two foot spikes, victims are pulled down onto them.</p><p><strong>Remedies</strong></p><p>A sign warns of the hazard, as required by law.</p><p>This particular breed of snatchweed recoils from salt; put enough on the surface and tendrils recoil.</p>"
+    "description": "It grows in fresh water, lengthening its long winding tendrils almost to the surface. When touched, it snatches and pulls, coiling down to the bottom and holding for a few minutes before relaxing back up.",
+    "additional_info": "Is their growth boosted supernaturally, and can you see faces reflecting from the Ghost Field beneath their fronds? Are the locals aware of the threat, willing to talk about it?\n\nDangers:\n• Snatchweed is cultivated in areas where intruders must enter the water to get past other obstacles.\n• The bottom of the water has two foot spikes, victims are pulled down onto them.\n\nRemedies:\n• A sign warns of the hazard, as required by law.\n• This particular breed of snatchweed recoils from salt; put enough on the surface and tendrils recoil."
   },
   "ownership": {
     "default": 0

@@ -108,7 +108,7 @@ function generatePeople(entries) {
       system: {
         description_short: shortDesc,
         associated_crew_type: crewType,
-        description: `<p>${r.description}</p><p><em>${r.questions}</em></p>`,
+        description: `${r.description}\n\n${r.questions}`,
       },
       ownership: { default: 0 },
       flags: { 'heist-deck': { category: r.category } },
@@ -126,24 +126,24 @@ function generatePeople(entries) {
 function buildTreasureSystem(r) {
   return {
     class: r.category,
-    description: `<p>${r.description}</p>`,
-    additional_info: `<p><em>${r.questions}</em></p>`,
+    description: r.description,
+    additional_info: r.questions,
   };
 }
 
 function buildObstacleSystem(r) {
-  const dangerLines = r.dangers.map(d => `<p>${d}</p>`).join('');
-  const remedyLines = r.remedies.map(rem => `<p>${rem}</p>`).join('');
   return {
     class: r.category,
-    description: `<p>${r.description}</p>`,
+    description: r.description,
     additional_info: [
-      `<p><em>${r.questions}</em></p>`,
-      `<p><strong>Dangers</strong></p>`,
-      dangerLines,
-      `<p><strong>Remedies</strong></p>`,
-      remedyLines,
-    ].join(''),
+      r.questions,
+      '',
+      'Dangers:',
+      ...r.dangers.map(d => `• ${d}`),
+      '',
+      'Remedies:',
+      ...r.remedies.map(rem => `• ${rem}`),
+    ].join('\n'),
   };
 }
 

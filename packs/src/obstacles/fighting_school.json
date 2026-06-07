@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Twisted Guards",
-    "description": "<p>An onsite training school focuses on the lifestyle and skill of a school of fighting. Site defenders are part of a group identity with specialty training.</p>",
-    "additional_info": "<p><em>Is the school's focus on dueling, a martial art, commando training, or something else? What is their crest, uniform, motto, and lore? What sort of training space do they have?</em></p><p><strong>Dangers</strong></p><p>The school itself is an impressive fortress or defense.</p><p>The school has an impressive alumni network that visits occasionally and would avenge wrongs to the honor of the school.</p><p><strong>Remedies</strong></p><p>This is an off-site shrine or expansion, where they send troublemakers and those they can't eject for political or financial reasons.</p><p>Leadership is riddled with rivalries and power struggles. Outsiders know some details.</p>"
+    "description": "An onsite training school focuses on the lifestyle and skill of a school of fighting. Site defenders are part of a group identity with specialty training.",
+    "additional_info": "Is the school's focus on dueling, a martial art, commando training, or something else? What is their crest, uniform, motto, and lore? What sort of training space do they have?\n\nDangers:\n• The school itself is an impressive fortress or defense.\n• The school has an impressive alumni network that visits occasionally and would avenge wrongs to the honor of the school.\n\nRemedies:\n• This is an off-site shrine or expansion, where they send troublemakers and those they can't eject for political or financial reasons.\n• Leadership is riddled with rivalries and power struggles. Outsiders know some details."
   },
   "ownership": {
     "default": 0

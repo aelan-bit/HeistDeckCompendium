@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Animal Guards",
-    "description": "<p>A pack of mastiffs have run of the guarded area when it is not in more public use. They only respond to their masters, who have special tunics, whistles, and gloves. They kill anyone or anything else.</p>",
-    "additional_info": "<p><em>What is their heraldry? How many mastiffs are in the pack? Are they trained well enough to ignore poisoned meat or live animal distractions?</em></p><p><strong>Dangers</strong></p><p>Each one is precious to the site owner, who will tirelessly seek vengeance if they are hurt.</p><p>The pack masters are elite veterans with firearms and excellent tracking and hunting skills.</p><p><strong>Remedies</strong></p><p>Their trainers abused them badly in training them to attack. They will turn on their handlers if the handlers lose their special tunics, whistles, and gloves.</p><p>They aren't really mastiffs, they are just big rangy dogs. They mostly run around on their own, their handlers are usually drunk.</p>"
+    "description": "A pack of mastiffs have run of the guarded area when it is not in more public use. They only respond to their masters, who have special tunics, whistles, and gloves. They kill anyone or anything else.",
+    "additional_info": "What is their heraldry? How many mastiffs are in the pack? Are they trained well enough to ignore poisoned meat or live animal distractions?\n\nDangers:\n• Each one is precious to the site owner, who will tirelessly seek vengeance if they are hurt.\n• The pack masters are elite veterans with firearms and excellent tracking and hunting skills.\n\nRemedies:\n• Their trainers abused them badly in training them to attack. They will turn on their handlers if the handlers lose their special tunics, whistles, and gloves.\n• They aren't really mastiffs, they are just big rangy dogs. They mostly run around on their own, their handlers are usually drunk."
   },
   "ownership": {
     "default": 0

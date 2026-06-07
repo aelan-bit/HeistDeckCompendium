@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Supernatural Plants",
-    "description": "<p>The vines are red, and when flesh touches them (even through leather) the vine draws blood to the surface in alarming quantities. The vines are slippery, and almost impossible to grasp with wet hands.</p>",
-    "additional_info": "<p><em>Are the vines clearly visible to those who can see in the Ghost Field? Do the vines cause damage that must be healed, or does the blood only flow when they are nearby?</em></p><p><strong>Dangers</strong></p><p>The site has guard creatures that track by scent and are drawn to attack things that smell bloody.</p><p>Thirstclimber is cultivated at the mid-point of a really difficult climb.</p><p><strong>Remedies</strong></p><p>Annoyed locals keep it trimmed back on outside walls periodically in spite of the guardian's threats.</p><p>Guards know the ingredients to make a special paste, and the symbol to paint on skin with it, to protect from the plant's effects. A former guard might share the secret.</p>"
+    "description": "The vines are red, and when flesh touches them (even through leather) the vine draws blood to the surface in alarming quantities. The vines are slippery, and almost impossible to grasp with wet hands.",
+    "additional_info": "Are the vines clearly visible to those who can see in the Ghost Field? Do the vines cause damage that must be healed, or does the blood only flow when they are nearby?\n\nDangers:\n• The site has guard creatures that track by scent and are drawn to attack things that smell bloody.\n• Thirstclimber is cultivated at the mid-point of a really difficult climb.\n\nRemedies:\n• Annoyed locals keep it trimmed back on outside walls periodically in spite of the guardian's threats.\n• Guards know the ingredients to make a special paste, and the symbol to paint on skin with it, to protect from the plant's effects. A former guard might share the secret."
   },
   "ownership": {
     "default": 0

@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Ghostly Guards",
-    "description": "<p>The defended area is dark. The ragged ghosts hate light. They shriek horribly as they attack light sources with slapping leathery hands, like bat wings. Intruders may glimpse their luminous fangs.</p>",
-    "additional_info": "<p><em>Were these ghosts placed here intentionally, or are they the result of some horror that left a print in the Ghost Field? Is this defense maintained, or passive?</em></p><p><strong>Dangers</strong></p><p>Another guardian lurks in the dark and takes advantage of the distraction to steal from intruders, perhaps killing them too.</p><p>The ghosts are aggressive, pushing intruders. Surroundings include long drops, spikes, mazes, or other hazards difficult to navigate in darkness.</p><p><strong>Remedies</strong></p><p>While annoying, they do no real damage, and forewarned scoundrels may prepare unbreakable light sources or supernatural dark vision.</p><p>There is enough ambient light to see.</p>"
+    "description": "The defended area is dark. The ragged ghosts hate light. They shriek horribly as they attack light sources with slapping leathery hands, like bat wings. Intruders may glimpse their luminous fangs.",
+    "additional_info": "Were these ghosts placed here intentionally, or are they the result of some horror that left a print in the Ghost Field? Is this defense maintained, or passive?\n\nDangers:\n• Another guardian lurks in the dark and takes advantage of the distraction to steal from intruders, perhaps killing them too.\n• The ghosts are aggressive, pushing intruders. Surroundings include long drops, spikes, mazes, or other hazards difficult to navigate in darkness.\n\nRemedies:\n• While annoying, they do no real damage, and forewarned scoundrels may prepare unbreakable light sources or supernatural dark vision.\n• There is enough ambient light to see."
   },
   "ownership": {
     "default": 0

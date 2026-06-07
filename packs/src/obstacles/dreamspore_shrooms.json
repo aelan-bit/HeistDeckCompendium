@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Supernatural Plants",
-    "description": "<p>Placed on the ceiling, they drizzle sandy spores when they sense motion below. Victims hallucinate, heightening subconscious emotion (so they are very mellow, or super anxious, or filled with rage, etc.).</p>",
-    "additional_info": "<p><em>Were these intended to be a site defense? Did they instead serve a religious or recreational function? Are there special techniques for harvesting them, perhaps selling them to alchemists?</em></p><p><strong>Dangers</strong></p><p>A more intense strain, these can knock out those who succumb, and give them vivid dreams for several hours.</p><p>They are placed near other guardians as well as hazards like a steep drop or running water.</p><p><strong>Remedies</strong></p><p>Other guardians come here recreationally, their effectiveness reduced.</p><p>The spores are weak and easier to resist.</p>"
+    "description": "Placed on the ceiling, they drizzle sandy spores when they sense motion below. Victims hallucinate, heightening subconscious emotion (so they are very mellow, or super anxious, or filled with rage, etc.).",
+    "additional_info": "Were these intended to be a site defense? Did they instead serve a religious or recreational function? Are there special techniques for harvesting them, perhaps selling them to alchemists?\n\nDangers:\n• A more intense strain, these can knock out those who succumb, and give them vivid dreams for several hours.\n• They are placed near other guardians as well as hazards like a steep drop or running water.\n\nRemedies:\n• Other guardians come here recreationally, their effectiveness reduced.\n• The spores are weak and easier to resist."
   },
   "ownership": {
     "default": 0

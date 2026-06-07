@@ -6,7 +6,7 @@
   "system": {
     "description_short": "Romantic Horseman",
     "associated_crew_type": "Old Money",
-    "description": "<p>Branon looks like a hero from a legendary story. He manages the family's stables, the finest horses in Duskvol (where horses are a rare luxury.) His tumultuous trysts with both men and women are common knowledge. Business suffers from his impulsive romantic gestures, but benefits from his charm.</p><p><em>Branon sometimes refuses to sell horses, or breed them, if he dislikes the buyer. Some buyers want access to horseflesh anyway. If his horses are attacked, he hires outsiders to get revenge.</em></p>"
+    "description": "Branon looks like a hero from a legendary story. He manages the family's stables, the finest horses in Duskvol (where horses are a rare luxury.) His tumultuous trysts with both men and women are common knowledge. Business suffers from his impulsive romantic gestures, but benefits from his charm.\n\nBranon sometimes refuses to sell horses, or breed them, if he dislikes the buyer. Some buyers want access to horseflesh anyway. If his horses are attacked, he hires outsiders to get revenge."
   },
   "ownership": {
     "default": 0

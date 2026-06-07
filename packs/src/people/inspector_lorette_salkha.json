@@ -6,7 +6,7 @@
   "system": {
     "description_short": "Crusading Inspector",
     "associated_crew_type": "City Law",
-    "description": "<p>She needs allies in her hopeless quest to clean up the city. Corruption is everywhere, crime runs rampant, and the bluecoats serve the powerful (on both sides of the law.) Some tragedy in her past propels her into a suicidal effort to restore \"rule of law.\" Her peers muse it is a shame she will die young.</p><p><em>She could be helpful if she focuses on the right bad guys — your enemies. She can't be bought, so maybe someone needs her killed (or otherwise neutralized.)</em></p>"
+    "description": "She needs allies in her hopeless quest to clean up the city. Corruption is everywhere, crime runs rampant, and the bluecoats serve the powerful (on both sides of the law.) Some tragedy in her past propels her into a suicidal effort to restore \"rule of law.\" Her peers muse it is a shame she will die young.\n\nShe could be helpful if she focuses on the right bad guys — your enemies. She can't be bought, so maybe someone needs her killed (or otherwise neutralized.)"
   },
   "ownership": {
     "default": 0

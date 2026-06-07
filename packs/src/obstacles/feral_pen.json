@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Twisted Guards",
-    "description": "<p>Some areas of the defended site have free-range maniacs. Destitute and wretched beggars are treated as guard dogs, expected to attack intruders and draw attention to anything unusual.</p>",
-    "additional_info": "<p><em>Does the guarded site pretend to be charitable, or a madhouse, or a prison? What philosophy leads to treating people this way? How do the city authorities feel about the site? Religious authorities? Does the site feed into the Ghost Field in an unusual way?</em></p><p><strong>Dangers</strong></p><p>Most of the feral guards are killers, possibly haunted, and extremely dangerous.</p><p>This pet project is as much art and religion as defense, and has support from a variety of decadent aristocrats in positions of power.</p><p><strong>Remedies</strong></p><p>The rest of the site guards hate the feral pen and ignore it as best they can.</p><p>It is as much prison hospice as guard dog kennel. Its victims are weak, sick, and starving.</p>"
+    "description": "Some areas of the defended site have free-range maniacs. Destitute and wretched beggars are treated as guard dogs, expected to attack intruders and draw attention to anything unusual.",
+    "additional_info": "Does the guarded site pretend to be charitable, or a madhouse, or a prison? What philosophy leads to treating people this way? How do the city authorities feel about the site? Religious authorities? Does the site feed into the Ghost Field in an unusual way?\n\nDangers:\n• Most of the feral guards are killers, possibly haunted, and extremely dangerous.\n• This pet project is as much art and religion as defense, and has support from a variety of decadent aristocrats in positions of power.\n\nRemedies:\n• The rest of the site guards hate the feral pen and ignore it as best they can.\n• It is as much prison hospice as guard dog kennel. Its victims are weak, sick, and starving."
   },
   "ownership": {
     "default": 0

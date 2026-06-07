@@ -5,8 +5,8 @@
   "img": "icons/svg/shield.svg",
   "system": {
     "class": "Traps",
-    "description": "<p>Beyond simple security, these locks are works of art. They are higher potency than they would normally be. Also, they are equipped with poison needle traps, or pick breakers, or redundancies.</p>",
-    "additional_info": "<p><em>Who put in these superior locks, and for what reason? Are the locks designed to defeat entry, or actively punish intruders? Do the specialized keys have a distinctive look, like two flanges? Is there a master key?</em></p><p><strong>Dangers</strong></p><p>Everything is locked, and all the locks are good. Somebody had a real lock problem.</p><p>The locks involve supernatural components, like hidden keyholes or paralyzing energy.</p><p><strong>Remedies</strong></p><p>The locks are in poor repair, of variable quality after indifferent maintenance and many intrusion attempts.</p><p>Very fancy locks, but they are padlocks, and bolt cutters can circumvent the problem.</p>"
+    "description": "Beyond simple security, these locks are works of art. They are higher potency than they would normally be. Also, they are equipped with poison needle traps, or pick breakers, or redundancies.",
+    "additional_info": "Who put in these superior locks, and for what reason? Are the locks designed to defeat entry, or actively punish intruders? Do the specialized keys have a distinctive look, like two flanges? Is there a master key?\n\nDangers:\n• Everything is locked, and all the locks are good. Somebody had a real lock problem.\n• The locks involve supernatural components, like hidden keyholes or paralyzing energy.\n\nRemedies:\n• The locks are in poor repair, of variable quality after indifferent maintenance and many intrusion attempts.\n• Very fancy locks, but they are padlocks, and bolt cutters can circumvent the problem."
   },
   "ownership": {
     "default": 0
