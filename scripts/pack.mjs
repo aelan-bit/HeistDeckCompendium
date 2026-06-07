@@ -24,6 +24,7 @@ const PACKS = [
   { name: "treasures",    collection: "items"  },
   { name: "obstacles",    collection: "items"  },
   { name: "heist-tables", collection: "tables" },
+  { name: "heist-macros", collection: "macros" },
 ];
 
 async function packOne({ name, collection }) {

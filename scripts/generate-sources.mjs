@@ -175,7 +175,7 @@ function generateTables(tableDefs) {
       name: meta.name,
       description: meta.description,
       formula: meta.formula,
-      replacement: true,
+      replacement: false,
       displayRoll: true,
       results: linkedResults,
       ownership: { default: 0 },
