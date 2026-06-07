@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Twisted Guards</strong></p><p>Guards have ready access to drugs. Some of the drugs enhance performance.</p><p><em>Do the drugs give them a burst of combat effectiveness? Are the drugs recreational, making them popular with a customer base that pays well and owes favors? Who provides them with drugs?</em></p><p><strong>Dangers</strong></p><p>As dealers, the guards are difficult to bribe or intimidate, as they have money and prestige.</p><p>Guards can medicate flexibly, with concoctions to enhance perception (even to see the supernatural,) gain combat prowess, or heal.</p><p><strong>Remedies</strong></p><p>Their peddling of illegal drugs has made enemies among bluecoats and inspectors.</p><p>The guards are junkies. Their employer uses addiction to control them, keeping them near the edge. They are often distractible or unconscious.</p>"
+    "class": "Twisted Guards",
+    "description": "<p>Guards have ready access to drugs. Some of the drugs enhance performance.</p>",
+    "additional_info": "<p><em>Do the drugs give them a burst of combat effectiveness? Are the drugs recreational, making them popular with a customer base that pays well and owes favors? Who provides them with drugs?</em></p><p><strong>Dangers</strong></p><p>As dealers, the guards are difficult to bribe or intimidate, as they have money and prestige.</p><p>Guards can medicate flexibly, with concoctions to enhance perception (even to see the supernatural,) gain combat prowess, or heal.</p><p><strong>Remedies</strong></p><p>Their peddling of illegal drugs has made enemies among bluecoats and inspectors.</p><p>The guards are junkies. Their employer uses addiction to control them, keeping them near the edge. They are often distractible or unconscious.</p>"
   },
   "ownership": {
     "default": 0

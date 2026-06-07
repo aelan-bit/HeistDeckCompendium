@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Weird Scholarship</strong></p><p>Four leather-bound volumes, full of musical notation with heavily annotated margins. The \"music\" is supposed to be transcribed and translated leviathan song. Legend suggests if the music is played correctly, it can drive humans insane with visions of the demon-haunted deep.</p><p><em>Aristocrats will collect anything. Scholars go to great lengths for research material. Cultists may find religious significance in the folios. (Owning the folios is against the law.)</em></p>"
+    "class": "Weird Scholarship",
+    "description": "<p>Four leather-bound volumes, full of musical notation with heavily annotated margins. The \"music\" is supposed to be transcribed and translated leviathan song. Legend suggests if the music is played correctly, it can drive humans insane with visions of the demon-haunted deep.</p>",
+    "additional_info": "<p><em>Aristocrats will collect anything. Scholars go to great lengths for research material. Cultists may find religious significance in the folios. (Owning the folios is against the law.)</em></p>"
   },
   "ownership": {
     "default": 0

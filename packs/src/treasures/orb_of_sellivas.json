@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Weird Artifact</strong></p><p>This fist-sized golden orb tunes to one bearer at a time, though it may respond to others. If commanded, it can release a steady light that radiates in the material world and the Ghost Field, revealing what is hidden. The radiation can also draw or repel ghosts and demons.</p><p><em>The Sellivas order of witches wrote their research journals in an ink that can only be read by the light of the Orb. If someone had the Orb and the \"blank\" book, they could crack ancient secrets.</em></p>"
+    "class": "Weird Artifact",
+    "description": "<p>This fist-sized golden orb tunes to one bearer at a time, though it may respond to others. If commanded, it can release a steady light that radiates in the material world and the Ghost Field, revealing what is hidden. The radiation can also draw or repel ghosts and demons.</p>",
+    "additional_info": "<p><em>The Sellivas order of witches wrote their research journals in an ink that can only be read by the light of the Orb. If someone had the Orb and the \"blank\" book, they could crack ancient secrets.</em></p>"
   },
   "ownership": {
     "default": 0

@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Famous Jewel</strong></p><p>This semi-precious stone was carved by the Whisper Ichralia. She suffocated people with hot wax and bound their fresh ghosts in wax seals on scrolls or letters with the Soultrap. When the seal was broken, the insane ghost attacked the opener and anyone nearby.</p><p><em>The Spirit Wardens destroyed this object decades ago. Didn't they? Maybe someone else made another one, or maybe the original survived.</em></p>"
+    "class": "Famous Jewel",
+    "description": "<p>This semi-precious stone was carved by the Whisper Ichralia. She suffocated people with hot wax and bound their fresh ghosts in wax seals on scrolls or letters with the Soultrap. When the seal was broken, the insane ghost attacked the opener and anyone nearby.</p>",
+    "additional_info": "<p><em>The Spirit Wardens destroyed this object decades ago. Didn't they? Maybe someone else made another one, or maybe the original survived.</em></p>"
   },
   "ownership": {
     "default": 0

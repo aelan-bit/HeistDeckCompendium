@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Weird Scholarship</strong></p><p>The ring is made of tiny bits of bone wired together. It must be worn for at least a day per year of the bearer's life before it begins to work. When placed on a source of information, the ring sifts it until the ring speaks the information's \"language.\" The bearer can see through riddles, read arcane texts, and break code with ease.</p><p><em>Legend says 32 demons voluntarily gave some of their bone to be part of this ring, and it was released among humans to cause chaos through greater understanding.</em></p>"
+    "class": "Weird Scholarship",
+    "description": "<p>The ring is made of tiny bits of bone wired together. It must be worn for at least a day per year of the bearer's life before it begins to work. When placed on a source of information, the ring sifts it until the ring speaks the information's \"language.\" The bearer can see through riddles, read arcane texts, and break code with ease.</p>",
+    "additional_info": "<p><em>Legend says 32 demons voluntarily gave some of their bone to be part of this ring, and it was released among humans to cause chaos through greater understanding.</em></p>"
   },
   "ownership": {
     "default": 0

@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Twisted Guards</strong></p><p>Guards share a religion that binds them together and makes them resistant to intimidation or corruption.</p><p><em>Do they worship one of the Forgotten Gods? The Church of the Ecstasy of the Flesh? Weeping Lady? Path of Echoes? Have they sworn oaths? What does religion require them to hate, or to love?</em></p><p><strong>Dangers</strong></p><p>The defended site includes a shrine or temple. Violating the site angers offended worshippers.</p><p>Serving as a site guardian is part of a religious duty. Unexpectedly seasoned warriors or important people may serve as lowly guards for a time.</p><p><strong>Remedies</strong></p><p>Mandatory prayer times, unclean objects or places left uninspected, and restricted areas may create holes in security.</p><p>Enemies of their religion may offer help to embarrass, discredit, or injure the zealots.</p>"
+    "class": "Twisted Guards",
+    "description": "<p>Guards share a religion that binds them together and makes them resistant to intimidation or corruption.</p>",
+    "additional_info": "<p><em>Do they worship one of the Forgotten Gods? The Church of the Ecstasy of the Flesh? Weeping Lady? Path of Echoes? Have they sworn oaths? What does religion require them to hate, or to love?</em></p><p><strong>Dangers</strong></p><p>The defended site includes a shrine or temple. Violating the site angers offended worshippers.</p><p>Serving as a site guardian is part of a religious duty. Unexpectedly seasoned warriors or important people may serve as lowly guards for a time.</p><p><strong>Remedies</strong></p><p>Mandatory prayer times, unclean objects or places left uninspected, and restricted areas may create holes in security.</p><p>Enemies of their religion may offer help to embarrass, discredit, or injure the zealots.</p>"
   },
   "ownership": {
     "default": 0

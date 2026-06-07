@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Weird Artifact</strong></p><p>This weapon can slay ghosts and demons. It appears to be a gladius stitched with runes. Once the bearer attunes to the weapon, it can disconnect into vertebrate-like wedges connected by a steely central cable. The blade-whip is flexible and simmering with energy. It can reform into a straight blade at will.</p><p><em>Only five of these flails ever existed. One is carried by the Spirit Warden assigned to the Immortal Emperor's defense. The rest are the stuff of legends.</em></p>"
+    "class": "Weird Artifact",
+    "description": "<p>This weapon can slay ghosts and demons. It appears to be a gladius stitched with runes. Once the bearer attunes to the weapon, it can disconnect into vertebrate-like wedges connected by a steely central cable. The blade-whip is flexible and simmering with energy. It can reform into a straight blade at will.</p>",
+    "additional_info": "<p><em>Only five of these flails ever existed. One is carried by the Spirit Warden assigned to the Immortal Emperor's defense. The rest are the stuff of legends.</em></p>"
   },
   "ownership": {
     "default": 0

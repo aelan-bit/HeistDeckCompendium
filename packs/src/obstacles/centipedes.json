@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Animal Guards</strong></p><p>Centipedes the length of a forearm are almost noiseless. If they bite, their toxin causes living flesh to blacken and die, leading to amputation if the poison isn't countered. People tend to scream when bit.</p><p><em>Were the centipedes brought in as guardians, or are they a local nuisance? There are many different breeds, how will you describe the appearance of yours? Do they have a nasty local nickname?</em></p><p><strong>Dangers</strong></p><p>When one attacks it releases a scent that enrages others nearby, so they tend to swarm.</p><p>They are excellent swimmers, and they hunt in bog-like areas under the surface.</p><p><strong>Remedies</strong></p><p>They are bright yellow and red, and hiss before striking, giving all the warning possible.</p><p>All the guardians and neighbors carry the antidote, the local apothecary knows what you need.</p>"
+    "class": "Animal Guards",
+    "description": "<p>Centipedes the length of a forearm are almost noiseless. If they bite, their toxin causes living flesh to blacken and die, leading to amputation if the poison isn't countered. People tend to scream when bit.</p>",
+    "additional_info": "<p><em>Were the centipedes brought in as guardians, or are they a local nuisance? There are many different breeds, how will you describe the appearance of yours? Do they have a nasty local nickname?</em></p><p><strong>Dangers</strong></p><p>When one attacks it releases a scent that enrages others nearby, so they tend to swarm.</p><p>They are excellent swimmers, and they hunt in bog-like areas under the surface.</p><p><strong>Remedies</strong></p><p>They are bright yellow and red, and hiss before striking, giving all the warning possible.</p><p>All the guardians and neighbors carry the antidote, the local apothecary knows what you need.</p>"
   },
   "ownership": {
     "default": 0

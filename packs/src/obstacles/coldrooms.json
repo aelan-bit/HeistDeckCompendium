@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Ghostly Guards</strong></p><p>The defended area is kept cold. Body heat registers like a plume of blood in the water. Ghosts flood living meat with cold, gorging on body heat, becoming more visible as their outlines swirl with life-blood.</p><p><em>Were they created by ritually starving victims to death in the defended space? Were they stolen from the site of a massive horrific disaster? Does a spirit trafficker maintain the wards on the space?</em></p><p><strong>Dangers</strong></p><p>A dead whisper leads them, countering defensive charms and magic, sniffing out breath even if heat is concealed, dueling any supernatural defense.</p><p>The guarded area is powerfully warded and underground where temperature is easy to maintain.</p><p><strong>Remedies</strong></p><p>The guarded area is vulnerable to weather conditions. It is sharp in the cold, but almost dormant in the heat.</p><p>A relatively simple spirit bane charm can keep them at bay if created in tune with the site.</p>"
+    "class": "Ghostly Guards",
+    "description": "<p>The defended area is kept cold. Body heat registers like a plume of blood in the water. Ghosts flood living meat with cold, gorging on body heat, becoming more visible as their outlines swirl with life-blood.</p>",
+    "additional_info": "<p><em>Were they created by ritually starving victims to death in the defended space? Were they stolen from the site of a massive horrific disaster? Does a spirit trafficker maintain the wards on the space?</em></p><p><strong>Dangers</strong></p><p>A dead whisper leads them, countering defensive charms and magic, sniffing out breath even if heat is concealed, dueling any supernatural defense.</p><p>The guarded area is powerfully warded and underground where temperature is easy to maintain.</p><p><strong>Remedies</strong></p><p>The guarded area is vulnerable to weather conditions. It is sharp in the cold, but almost dormant in the heat.</p><p>A relatively simple spirit bane charm can keep them at bay if created in tune with the site.</p>"
   },
   "ownership": {
     "default": 0

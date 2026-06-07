@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Traps</strong></p><p>One or more contact points are connected to energy so they will badly shock anyone who touches them. These could be doorknobs, chest lids, floor plates, ladders, and so on.</p><p><em>Are they powered by batteries or enslaved ghosts? Does the site have legal permission to use them? How loud is the shock? How do site guardians avoid getting shocked?</em></p><p><strong>Dangers</strong></p><p>The shock grips are numerous and concealed, connected to their energy source through the Ghost Field.</p><p>The shock is designed to stop the heart and kill the victim (possibly setting hair on fire.)</p><p><strong>Remedies</strong></p><p>The shock grips are connected to control boxes and energy sources by cables.</p><p>Shock grips are marked by a rune, and shiny, and also give out a palpable hum of energy. They are easy to detect.</p>"
+    "class": "Traps",
+    "description": "<p>One or more contact points are connected to energy so they will badly shock anyone who touches them. These could be doorknobs, chest lids, floor plates, ladders, and so on.</p>",
+    "additional_info": "<p><em>Are they powered by batteries or enslaved ghosts? Does the site have legal permission to use them? How loud is the shock? How do site guardians avoid getting shocked?</em></p><p><strong>Dangers</strong></p><p>The shock grips are numerous and concealed, connected to their energy source through the Ghost Field.</p><p>The shock is designed to stop the heart and kill the victim (possibly setting hair on fire.)</p><p><strong>Remedies</strong></p><p>The shock grips are connected to control boxes and energy sources by cables.</p><p>Shock grips are marked by a rune, and shiny, and also give out a palpable hum of energy. They are easy to detect.</p>"
   },
   "ownership": {
     "default": 0

@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Misplaced Fortune</strong></p><p>Bayer was a rail jack fired for being drunk. Over years, he built a crew with one mission in mind — robbing a train. When Iruvia completed negotiations with Akoros to buy an unprecedented mass of leviathan blood to pour into industrialization, Bayer's crew hit the train carrying the payment, sabotaging a bridge. Rescuers found the train in the canyon, but no gold — an impossible feat. Bayer's crew vanished.</p><p><em>An Iruvian ingot stamped with the year '802' will attract attention.</em></p>"
+    "class": "Misplaced Fortune",
+    "description": "<p>Bayer was a rail jack fired for being drunk. Over years, he built a crew with one mission in mind — robbing a train. When Iruvia completed negotiations with Akoros to buy an unprecedented mass of leviathan blood to pour into industrialization, Bayer's crew hit the train carrying the payment, sabotaging a bridge. Rescuers found the train in the canyon, but no gold — an impossible feat. Bayer's crew vanished.</p>",
+    "additional_info": "<p><em>An Iruvian ingot stamped with the year '802' will attract attention.</em></p>"
   },
   "ownership": {
     "default": 0

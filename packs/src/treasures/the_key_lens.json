@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p><strong>Weird Scholarship</strong></p><p>The round frame has forty special lenses hinged on its rim. The lenses can layer over each other, flip out past the frame, rotate to take advantage of the angles inside the ground crystal, and take translucent colored filters. Their inventor, Vlas Haldak, said he had found \"the key.\" He died of shock, the lens on his work table.</p><p><em>Legends vary. It can see into the Ghost Field, it can see into people, it allows reading demonic texts, it can see the way into ghost neighborhoods, etc. Needs a Whisper to use properly.</em></p>"
+    "class": "Weird Scholarship",
+    "description": "<p>The round frame has forty special lenses hinged on its rim. The lenses can layer over each other, flip out past the frame, rotate to take advantage of the angles inside the ground crystal, and take translucent colored filters. Their inventor, Vlas Haldak, said he had found \"the key.\" He died of shock, the lens on his work table.</p>",
+    "additional_info": "<p><em>Legends vary. It can see into the Ghost Field, it can see into people, it allows reading demonic texts, it can see the way into ghost neighborhoods, etc. Needs a Whisper to use properly.</em></p>"
   },
   "ownership": {
     "default": 0

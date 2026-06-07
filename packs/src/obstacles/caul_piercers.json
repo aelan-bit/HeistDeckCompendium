@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Traps</strong></p><p>Piercers are designed to puncture whoever touches them. They pierce the energy caul of the character's life force in the Ghost Field. This causes a harm condition that worsens or costs stress every down time cycle until the caul can be mended (6 segment project.) Interpret as needed.</p><p><em>Do the piercers resemble knives, nails, or thorn-like carvings? What sadistic expert crafted these dire traps? If pried out of their settings, how long do they retain potency?</em></p><p><strong>Dangers</strong></p><p>Those affected will trail life energy like a wounded fish bleeding in the water; demons and ghosts alike will investigate the scent.</p><p>They are worked into important doorknobs, strategic ledges, and concealed flooring.</p><p><strong>Remedies</strong></p><p>They all look alike and are similarly placed, relying on surprise to be effective.</p><p>They are only on the main treasure.</p>"
+    "class": "Traps",
+    "description": "<p>Piercers are designed to puncture whoever touches them. They pierce the energy caul of the character's life force in the Ghost Field. This causes a harm condition that worsens or costs stress every down time cycle until the caul can be mended (6 segment project.) Interpret as needed.</p>",
+    "additional_info": "<p><em>Do the piercers resemble knives, nails, or thorn-like carvings? What sadistic expert crafted these dire traps? If pried out of their settings, how long do they retain potency?</em></p><p><strong>Dangers</strong></p><p>Those affected will trail life energy like a wounded fish bleeding in the water; demons and ghosts alike will investigate the scent.</p><p>They are worked into important doorknobs, strategic ledges, and concealed flooring.</p><p><strong>Remedies</strong></p><p>They all look alike and are similarly placed, relying on surprise to be effective.</p><p>They are only on the main treasure.</p>"
   },
   "ownership": {
     "default": 0

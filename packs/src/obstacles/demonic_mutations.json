@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Twisted Guards</strong></p><p>About a quarter of the guards have been mutated by contact with demonic essence. They are strong, and their senses are sharp.</p><p><em>Do they share one demon patron? Did they become guards to gain this power? Are they worshippers or mercenaries? Did they volunteer or are they victims? What element is their demonic affinity?</em></p><p><strong>Dangers</strong></p><p>They share a supernatural connection and can sense when other demonic guards are in trouble.</p><p>They are highly resistant to normal damage. They may be vulnerable to supernatural attacks or a specific allergy (silver, garlic, salt, etc.) Or, they may be resistant to supernatural attacks instead.</p><p><strong>Remedies</strong></p><p>They become physically impressive, but their minds are lost to incoherent lusts and fury.</p><p>The rest of the staff resent or fear the demonic guards. Loyalty and morale are low among mundane employees.</p>"
+    "class": "Twisted Guards",
+    "description": "<p>About a quarter of the guards have been mutated by contact with demonic essence. They are strong, and their senses are sharp.</p>",
+    "additional_info": "<p><em>Do they share one demon patron? Did they become guards to gain this power? Are they worshippers or mercenaries? Did they volunteer or are they victims? What element is their demonic affinity?</em></p><p><strong>Dangers</strong></p><p>They share a supernatural connection and can sense when other demonic guards are in trouble.</p><p>They are highly resistant to normal damage. They may be vulnerable to supernatural attacks or a specific allergy (silver, garlic, salt, etc.) Or, they may be resistant to supernatural attacks instead.</p><p><strong>Remedies</strong></p><p>They become physically impressive, but their minds are lost to incoherent lusts and fury.</p><p>The rest of the staff resent or fear the demonic guards. Loyalty and morale are low among mundane employees.</p>"
   },
   "ownership": {
     "default": 0

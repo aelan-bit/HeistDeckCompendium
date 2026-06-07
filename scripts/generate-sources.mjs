@@ -123,7 +123,31 @@ function generatePeople(entries) {
 // ---------------------------------------------------------------------------
 // Items (treasures + obstacles)
 // ---------------------------------------------------------------------------
-function generateItems(entries, packKey, dirName, buildHtml) {
+function buildTreasureSystem(r) {
+  return {
+    class: r.category,
+    description: `<p>${r.description}</p>`,
+    additional_info: `<p><em>${r.questions}</em></p>`,
+  };
+}
+
+function buildObstacleSystem(r) {
+  const dangerLines = r.dangers.map(d => `<p>${d}</p>`).join('');
+  const remedyLines = r.remedies.map(rem => `<p>${rem}</p>`).join('');
+  return {
+    class: r.category,
+    description: `<p>${r.description}</p>`,
+    additional_info: [
+      `<p><em>${r.questions}</em></p>`,
+      `<p><strong>Dangers</strong></p>`,
+      dangerLines,
+      `<p><strong>Remedies</strong></p>`,
+      remedyLines,
+    ].join(''),
+  };
+}
+
+function generateItems(entries, packKey, dirName, buildSystem) {
   const dir = path.join(SRC, dirName);
   ensureDir(dir);
   const ids = {};
@@ -137,9 +161,7 @@ function generateItems(entries, packKey, dirName, buildHtml) {
       name: r.name,
       type: 'item',
       img,
-      system: {
-        description: buildHtml(r),
-      },
+      system: buildSystem(r),
       ownership: { default: 0 },
       flags: { 'heist-deck': { category: r.category } },
     };
@@ -232,8 +254,8 @@ const obstacleEntries = readData('obstacles.json');
 
 console.log('Generating Foundry source documents...');
 const peopleIds   = generatePeople(peopleEntries);
-const treasureIds = generateItems(treasureEntries, 'treasures', 'treasures', buildPersonHtml);
-const obstacleIds = generateItems(obstacleEntries, 'obstacles', 'obstacles', buildObstacleHtml);
+const treasureIds = generateItems(treasureEntries, 'treasures', 'treasures', buildTreasureSystem);
+const obstacleIds = generateItems(obstacleEntries, 'obstacles', 'obstacles', buildObstacleSystem);
 
 generateTables([
   {

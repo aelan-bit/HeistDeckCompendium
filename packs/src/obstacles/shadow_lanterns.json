@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Weird Tech</strong></p><p>Guards are equipped with lanterns that detect shadows of recent life force as well as shedding light.</p><p><em>Are the lanterns traditional lantern shape, or a glowing ball, or something else? Does an expert keep the guardians supplied, or is their supply jealously guarded? Does it cost the guards something to activate the lanterns? Will the lanterns work if taken off-site?</em></p><p><strong>Dangers</strong></p><p>Guards are trained to tune into the life force energy to also hear conversations of the life shadows. Guards can tune into the life force energy to know the owner's current location, if in the defended area.</p><p>Untended lanterns can be set to transmit detection of a life force to a nearby guardian.</p><p><strong>Remedies</strong></p><p>The lanterns can be rendered blind by properly tuning a spiritbane charm while near one.</p><p>Every sunrise wipes all traces of past life forces, and they only work at night.</p>"
+    "class": "Weird Tech",
+    "description": "<p>Guards are equipped with lanterns that detect shadows of recent life force as well as shedding light.</p>",
+    "additional_info": "<p><em>Are the lanterns traditional lantern shape, or a glowing ball, or something else? Does an expert keep the guardians supplied, or is their supply jealously guarded? Does it cost the guards something to activate the lanterns? Will the lanterns work if taken off-site?</em></p><p><strong>Dangers</strong></p><p>Guards are trained to tune into the life force energy to also hear conversations of the life shadows. Guards can tune into the life force energy to know the owner's current location, if in the defended area.</p><p>Untended lanterns can be set to transmit detection of a life force to a nearby guardian.</p><p><strong>Remedies</strong></p><p>The lanterns can be rendered blind by properly tuning a spiritbane charm while near one.</p><p>Every sunrise wipes all traces of past life forces, and they only work at night.</p>"
   },
   "ownership": {
     "default": 0

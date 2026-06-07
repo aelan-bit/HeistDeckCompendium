@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Weird Tech</strong></p><p>Special crystal lenses transmit their sight through the Ghost Field to mirrors in a central location. From one place, a guardian can monitor views all over the defended site.</p><p><em>Is this new industrial alchemical technology, or an ancient enchanted construction? Does the current owner know how to get the most functionality out of it? Who maintains the system?</em></p><p><strong>Dangers</strong></p><p>The lenses are hidden in mirror frames, statues, and other decor. They are difficult to spot.</p><p>The lenses can see into the Ghost Field as well, observing ghosts or occult work, and life force.</p><p><strong>Remedies</strong></p><p>The guardians watching the mirrors are somewhat lax.</p><p>Over time, many lenses have not been replaced or repaired. Views are limited.</p>"
+    "class": "Weird Tech",
+    "description": "<p>Special crystal lenses transmit their sight through the Ghost Field to mirrors in a central location. From one place, a guardian can monitor views all over the defended site.</p>",
+    "additional_info": "<p><em>Is this new industrial alchemical technology, or an ancient enchanted construction? Does the current owner know how to get the most functionality out of it? Who maintains the system?</em></p><p><strong>Dangers</strong></p><p>The lenses are hidden in mirror frames, statues, and other decor. They are difficult to spot.</p><p>The lenses can see into the Ghost Field as well, observing ghosts or occult work, and life force.</p><p><strong>Remedies</strong></p><p>The guardians watching the mirrors are somewhat lax.</p><p>Over time, many lenses have not been replaced or repaired. Views are limited.</p>"
   },
   "ownership": {
     "default": 0

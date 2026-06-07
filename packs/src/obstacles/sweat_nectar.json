@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Ghostly Guards</strong></p><p>The defended area is kept hot. Sweat tastes like nectar to swarming ghosts, who dehydrate targets into mummies. The stolen life force and moisture flows to prepared corpses, so ghosts can ride them again.</p><p><em>Were they created by dehydrating sacrifices to death in the defended space? Were they gathered from outside the lightning walls to stand guard here? Does a spirit trafficker maintain the wards on the space?</em></p><p><strong>Dangers</strong></p><p>Many prepared corpses are stashed in unexpected places, bursting into combat when rejuvenated.</p><p>Once they rise, the desiccated spirit-ridden corpses will chase intruders until they can't.</p><p><strong>Remedies</strong></p><p>Only a few corpses are left to revive.</p><p>The site is difficult to keep hot enough to extract the necessary sweat from intruders.</p>"
+    "class": "Ghostly Guards",
+    "description": "<p>The defended area is kept hot. Sweat tastes like nectar to swarming ghosts, who dehydrate targets into mummies. The stolen life force and moisture flows to prepared corpses, so ghosts can ride them again.</p>",
+    "additional_info": "<p><em>Were they created by dehydrating sacrifices to death in the defended space? Were they gathered from outside the lightning walls to stand guard here? Does a spirit trafficker maintain the wards on the space?</em></p><p><strong>Dangers</strong></p><p>Many prepared corpses are stashed in unexpected places, bursting into combat when rejuvenated.</p><p>Once they rise, the desiccated spirit-ridden corpses will chase intruders until they can't.</p><p><strong>Remedies</strong></p><p>Only a few corpses are left to revive.</p><p>The site is difficult to keep hot enough to extract the necessary sweat from intruders.</p>"
   },
   "ownership": {
     "default": 0

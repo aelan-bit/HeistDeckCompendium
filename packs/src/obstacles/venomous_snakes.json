@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Animal Guards</strong></p><p>Venomous snakes have lairs prepared for them in the guarded area.</p><p><em>How fast acting is their venom? How aggressive are they? Is their hide camouflage for hunting, or bright to warn away predators? Are there only a few big ones, or many small snakes? Do the site guardians feed them, or can they find enough vermin on their own?</em></p><p><strong>Dangers</strong></p><p>Knee-deep plants and elevation shifts intentionally make it difficult to see snakes.</p><p>Other guardians have a side business in selling venom and meat and hides. They have venom blowdarts and poisoned daggers.</p><p><strong>Remedies</strong></p><p>The snakes dislike a certain whistle tone. Let out a blast occasionally and they'll stay away.</p><p>A former employee knows how guardians got around the site with minimal risk of snakes.</p>"
+    "class": "Animal Guards",
+    "description": "<p>Venomous snakes have lairs prepared for them in the guarded area.</p>",
+    "additional_info": "<p><em>How fast acting is their venom? How aggressive are they? Is their hide camouflage for hunting, or bright to warn away predators? Are there only a few big ones, or many small snakes? Do the site guardians feed them, or can they find enough vermin on their own?</em></p><p><strong>Dangers</strong></p><p>Knee-deep plants and elevation shifts intentionally make it difficult to see snakes.</p><p>Other guardians have a side business in selling venom and meat and hides. They have venom blowdarts and poisoned daggers.</p><p><strong>Remedies</strong></p><p>The snakes dislike a certain whistle tone. Let out a blast occasionally and they'll stay away.</p><p>A former employee knows how guardians got around the site with minimal risk of snakes.</p>"
   },
   "ownership": {
     "default": 0

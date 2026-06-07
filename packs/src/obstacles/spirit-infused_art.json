@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Ghostly Guards</strong></p><p>Art works are haunted by spirits that are capable of spying. They observe their area, and may be able to murmur about what they see to a guardian.</p><p><em>Was art repurposed to host spirits, or was it created for them and around them? Is the art mosaics, portraits, statues, or some other form? How sane and coherent are the spirits? How loyal are they? Do they have the power to attack intruders?</em></p><p><strong>Dangers</strong></p><p>One or more guardians has a signet ring tuned to the haunted art pieces, and can hear what they whisper as they spy.</p><p>The ghosts inhabiting the art can move from one piece to another, following intruders or retreating to report.</p><p><strong>Remedies</strong></p><p>One spirit per art piece, and each spirit has its own unbalanced personality.</p><p>Unhinged art is violent, so it has to be shrouded or restrained when guardians go through the defended area.</p>"
+    "class": "Ghostly Guards",
+    "description": "<p>Art works are haunted by spirits that are capable of spying. They observe their area, and may be able to murmur about what they see to a guardian.</p>",
+    "additional_info": "<p><em>Was art repurposed to host spirits, or was it created for them and around them? Is the art mosaics, portraits, statues, or some other form? How sane and coherent are the spirits? How loyal are they? Do they have the power to attack intruders?</em></p><p><strong>Dangers</strong></p><p>One or more guardians has a signet ring tuned to the haunted art pieces, and can hear what they whisper as they spy.</p><p>The ghosts inhabiting the art can move from one piece to another, following intruders or retreating to report.</p><p><strong>Remedies</strong></p><p>One spirit per art piece, and each spirit has its own unbalanced personality.</p><p>Unhinged art is violent, so it has to be shrouded or restrained when guardians go through the defended area.</p>"
   },
   "ownership": {
     "default": 0

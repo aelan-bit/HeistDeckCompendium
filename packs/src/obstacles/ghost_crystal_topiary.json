@@ -4,7 +4,9 @@
   "type": "item",
   "img": "icons/svg/shield.svg",
   "system": {
-    "description": "<p><strong>Supernatural Plants</strong></p><p>Ghost crystals are worked into the roots of fancifully trimmed bushes. Ghosts may be able to inhabit the bushes and make them move. This gardening curiosity can be weaponized.</p><p><em>Is this a currently maintained garden, or one that is overgrown and abandoned? Who provides the necessary skilled care to create or maintain the topiary? Is there a theme to the sculptures?</em></p><p><strong>Dangers</strong></p><p>Certain of the most powerful bushes can uproot and move around like living green golems driven by electroplasmic energy.</p><p>The bushes hardly move, but the powerful energies of the crystals make ghosts much more coherent and powerful in the garden.</p><p><strong>Remedies</strong></p><p>Left unprotected at one point, the garden was raided by thieves after the ghost crystals. Few crystals are left in the shaggy bushes.</p><p>Incompetent handling has drained most of the power from the crystals.</p>"
+    "class": "Supernatural Plants",
+    "description": "<p>Ghost crystals are worked into the roots of fancifully trimmed bushes. Ghosts may be able to inhabit the bushes and make them move. This gardening curiosity can be weaponized.</p>",
+    "additional_info": "<p><em>Is this a currently maintained garden, or one that is overgrown and abandoned? Who provides the necessary skilled care to create or maintain the topiary? Is there a theme to the sculptures?</em></p><p><strong>Dangers</strong></p><p>Certain of the most powerful bushes can uproot and move around like living green golems driven by electroplasmic energy.</p><p>The bushes hardly move, but the powerful energies of the crystals make ghosts much more coherent and powerful in the garden.</p><p><strong>Remedies</strong></p><p>Left unprotected at one point, the garden was raided by thieves after the ghost crystals. Few crystals are left in the shaggy bushes.</p><p>Incompetent handling has drained most of the power from the crystals.</p>"
   },
   "ownership": {
     "default": 0
