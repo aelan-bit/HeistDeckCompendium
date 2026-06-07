@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Minister Fourteen",
+    "category": "Grungy Fixer, Underworld",
+    "description": "The blind Skovlander holds court on the docks, moving from one basement to another. He favors baggy shirts, stained vests, shiny jewelry, and fraying lace. He often acts through his massive bodyguard Severen and his weedy messenger Throk.",
+    "questions": "He is connected in the Skovlander refugee community, and in Skovian. For a price (either wealth or an errand) he will share information about Skovlanders. He often hires outsiders to handle sensitive tasks."
+  },
+  {
+    "name": "Saithernon",
+    "category": "Exotic Fence, Underworld",
+    "description": "He drapes his python, Delgraaz, around his neck. He wears a turban with a jewel on it. He is willing to buy almost anything, no matter how strange. He also knows what you need, sometimes before you know you need it. His bazaar unfurls below the Kennington market in an abandoned gondola dock.",
+    "questions": "He pays people to get things for him, then sells them at tremendously inflated prices to those desperate to have them. This can cause hurt feelings among the desperate."
+  },
+  {
+    "name": "\"Doc\" Sarnin",
+    "category": "Lecherous Leech, Underworld",
+    "description": "Doc can keep life in you if you're alive (or recently dead) when you get to him. His extreme methods are often horrifying. Still, his concoctions can crush ghosts, re-attach limbs, and more. The Crows, a tough crew, protect him. They give him victims for his \"needs,\" which are emotional, physical, and scientific.",
+    "questions": "Sometimes the Crows hire outsiders to go after rare components or victims for Doc. He has many, many enemies who want to either steal him and force him to serve them, or punish him."
+  },
+  {
+    "name": "Theodore Lysander",
+    "category": "Bard Pimp, Underworld",
+    "description": "Elegant and charismatic, this well-dressed man runs the Tenpenny Court Network. He manages prostitutes and their customers, his personal connections and charm monetized. He is also a skilled composer and performer, often seen at the Worldsedge Theater in Crow's Foot.",
+    "questions": "He is a skilled networker. He takes the safety of his friends seriously, and is protective of his employees, to the point of using blackmail to force powerful patrons to back off."
+  },
+  {
+    "name": "Serlevica The Brander",
+    "category": "Spy Whisper, Underworld",
+    "description": "Gaunt and frizzed, this foul-smelling Whisper has a secret ritual that allows her to control and see through rats she brands. She sells her services as a spy or site guardian. She has survived by retreating into slums and sewers when threatened, and striking from the shadows until it is safe to emerge again.",
+    "questions": "She is closely tied to the information marketplace, buying and selling secrets. She often hires outsiders to deal with her enemies through theft or violence, and she is in turn a frequent target."
+  },
+  {
+    "name": "The Honorable Telia Cray",
+    "category": "Stern Prosecutor, City Law",
+    "description": "She's old, she's sour, and she has a reputation for jailing Duskvol's criminals. As thin and hard as an iron poker, she relentlessly pursues her cases, bending the law with a passionate hatred of scoundrels. She runs a special unit of Inspectors dedicated to investigating her cases, run by Inspector Ulek.",
+    "questions": "If she is taking a case personally (as she often does) she may hire outsiders to acquire or create evidence. She also conducts a brutal war of counter-intelligence against rogues looking to free their associates."
+  },
+  {
+    "name": "Baron Kelyr Strathmill",
+    "category": "Hardened Industrialist, Old Money",
+    "description": "His family has controlled the docks for many generations. They quietly destroy competition, and get lucrative city contracts to re-develop blighted areas if the money slows down. Graceful, educated, and pleasant, he is ruthless as barbed steel under a cultured veneer. He is proud of his estate's gardens.",
+    "questions": "Competition doesn't like being crippled. He often hires outsiders for the dirtiest work, and his victims often hire outsiders to get revenge."
+  },
+  {
+    "name": "Lady Polonia Brogan",
+    "category": "Desirable Dowry, Old Money",
+    "description": "She's ugly, smelly, stupid, and rude — and also the key to the Brogan fortune. Her lucky spouse will have access to massive wealth and infrastructure among professional builders and shipwrights of Duskvol. Only her aunt, Cecilia Durwithe, looks out for her best interests with sharp disapproval.",
+    "questions": "Brogan hires outsiders to punish those who slight her, or to investigate potential partners. She collects fake wills rogues have planted during assassination attempts, trying to leave her fortune to usurpers."
+  },
+  {
+    "name": "Doctor Ixit Crechelle",
+    "category": "Elegant Spook, Old Money",
+    "description": "Crechelle calls himself an Oneiric Master. He interprets dreams for a fee. He enters them, alters them, and moves through veils to understand truths and secrets the dreamer may not grasp. If he touches a target, or one of their possessions, he may enter their dreams. He appears feeble, but his mind is deadly.",
+    "questions": "Aristocratic patrons invite him to parties. He needs a person's possession to see into their dreams; he pays for objects to visit some people's dreams. Victims will pay to free themselves."
+  },
+  {
+    "name": "Sir Olen Danwold",
+    "category": "Piratical Industrialist, New Money",
+    "description": "He is thin and nervous, easy to underestimate. He specializes in stripping foes of their assets and taking over their operations. His father was a butler, and he grew up hating aristocrats. He understands power structures and corrupts retainers. His top agent, Ellsfielder, is a beautiful and ruthless woman.",
+    "questions": "Many ruined aristocrats (and their allies) hate Danwold passionately. He does not hesitate to use his assets, legal and otherwise, to defend himself and cripple his foes. He hires outsiders through proxies."
+  },
+  {
+    "name": "Officer Veleris Walund",
+    "category": "Heroic Bluecoat, City Law",
+    "description": "There are actually songs about him. He is very popular. Veleris is a skilled orator (though he retreats into modesty) and a canny judge of character and situations. (He insists he just tries to do the right thing.) His opinion is influential in his district. He is trusted to guard valuables. His moustaches are his pride and joy.",
+    "questions": "He has no family, and he seems to be an idealist. Some try to persuade him, others try to threaten him. Threats don't seem to work. He has been known to quietly hire outsiders to get justice."
+  },
+  {
+    "name": "Inspector Lorette Salkha",
+    "category": "Crusading Inspector, City Law",
+    "description": "She needs allies in her hopeless quest to clean up the city. Corruption is everywhere, crime runs rampant, and the bluecoats serve the powerful (on both sides of the law.) Some tragedy in her past propels her into a suicidal effort to restore \"rule of law.\" Her peers muse it is a shame she will die young.",
+    "questions": "She could be helpful if she focuses on the right bad guys — your enemies. She can't be bought, so maybe someone needs her killed (or otherwise neutralized.)"
+  },
+  {
+    "name": "Holtz Clermont",
+    "category": "Reformed Clerk, City Law",
+    "description": "He used to be a forger. After he served a stint in prison, some respectable family friends got him a position as City Clerk for the whole district. He manages correspondence for permit requests and official notices. When corrupt people inside and outside the system need to adjust evidence, they come to him.",
+    "questions": "Jilted clients can be threatening, leading him to take steps to adjust their attitude by hiring outside help. He's smarter than he looks, and knows how to back people off. He also might know too much."
+  },
+  {
+    "name": "Eric The White",
+    "category": "Vigilante Rebel, Foreign",
+    "description": "The War of Skovlan Unity is over, but this slender maniac with a brushy beard can't let it go. He plans to destroy the government and turn Duskvol into a Skovlan colony to punish them for the destructive war. He wants to discredit and disrupt the government at every turn.",
+    "questions": "He targets government officials as high up as he can reach, hoping to cause enough trouble to make the government vulnerable to change. He has gathered zealots, and he uses outsiders for disposable work."
+  },
+  {
+    "name": "Arturo Montastic",
+    "category": "Addicted Gambler, New Money",
+    "description": "He is impossibly lucky. He wins enough at games of chance to pay for his addictions, and to treat the consequences (transfusions, transplants, cutting-edge treatments.) His relationships are intense but brief. He often loses everything, but then wins it all back and more. He has owned epic treasures many times.",
+    "questions": "Risk-averse collectors cannot bear his cavalier attitude on winning and losing priceless art. He does not truly appreciate his treasures, and should not be trusted with them. Losers can take their losses hard."
+  },
+  {
+    "name": "Master Slen Dallicore",
+    "category": "Protective Guilder, New Money",
+    "description": "Master Dallicore is the Guildmaster for the Docker's Guild. They move all cargo on and off ships, boats, and gondolas. Their role is protected by law, as are the fees they charge. The guild uses low-level violence to discourage non-guild laborers and smugglers. However, some challenges require proper scoundrels.",
+    "questions": "Dallicore is not above hiring outsiders to punish powerful patrons of smugglers or illegal dock workers. His position of power also gives him access to rare antiquities, both purchased and acquired."
+  },
+  {
+    "name": "Lord Bulward Skinnester",
+    "category": "Greedy Banker, New Money",
+    "description": "This portly curmudgeon does a brisk trade in real estate titles, both lending and foreclosing. He is acutely aware of the value of properties and how neighbors affect value. He takes particular glee in foreclosing on aristocracy and setting up the newly rich in ancient estates.",
+    "questions": "Sometimes he hires outsiders to solve problems that his hired bluecoats and bribed councilmen cannot manage. He collects sculpture by Duskvol artists. He has ruined the lives of many formerly influential people."
+  },
+  {
+    "name": "Sir Mournseller",
+    "category": "Anarchist Ghost, Supernatural",
+    "description": "This ghost possesses old men from the Draymach Asylum, breaking them out to find and hire scoundrels for obscure tasks with no independent purpose. Examples include killing an insignificant chandler or stealing a specific stone from a wall in a noble's estate. Payment is the location of hidden treasure.",
+    "questions": "A decade ago, an astute inspector began picking out the connection between errands, seeing a very long and very dangerous game to unseat the city's rulers emerging."
+  },
+  {
+    "name": "Gi Aniru Ga of Sultha",
+    "category": "Sacrificing Cultist, Supernatural",
+    "description": "She worships the Gaping Maw, the Runnel of Life, the Cosmic Thirst. She builds a cult, teaching them to hunt and conduct rituals. Then she moves on. Witnesses uneasily describe her supernatural abilities, including shapeshifting, flight, killing people by attacking their shadows, and so on.",
+    "questions": "Bereaved relatives, rival cultists, and law enforcers all want her stopped. She hires outsiders to threaten, misdirect, or kill law enforcement. Determined inspectors crush cults she trained, need help to catch her."
+  },
+  {
+    "name": "Syla Dutorrivestria",
+    "category": "Famous Connoisseur, Foreign",
+    "description": "This mysterious Iruvian hides behind a veil. For years, she has been the final word on Duskvol delicacies. She specializes in evaluating high-end cuisine (including spore wines and cooking with leviathan blood.) She stays in the public eye with racy politics and a string of scandalous romances.",
+    "questions": "She must keep real competition for her fame weakened and embarrassed, and she has countless enemies. Everyone \"knows\" she is an Iruvian spy."
+  },
+  {
+    "name": "Calvin Dannos",
+    "category": "Eerie Assassin, Underworld",
+    "description": "The Inkvein was a cabal of seven anonymous assassins, named for their maps of the canals. If one of them was identified as a member, the other six were sworn to kill the outed assassin. Dannos was outed a decade ago, and he killed the other members and their undying founder. Now he is Inkvein.",
+    "questions": "Easily bored, he prefers interesting challenges to high paying or easy kills. Of course, many bereaved or power hungry individuals want him dead."
+  },
+  {
+    "name": "The Wooden Judge",
+    "category": "Haunted Puppet, Underworld",
+    "description": "This knee-high ventriloquist dummy looks like a caricature of a grim Judge. It is supernaturally animated. The puppet appears unexpectedly, interrupting a scoundrel's routine by offering jobs in a squeaky voice. He pays by revealing the location of hidden caches of ancient coin.",
+    "questions": "Many angry victims want to know who pulls the strings of the Wooden Judge. The puppet often hires fresh talent for dubious work."
+  },
+  {
+    "name": "Jemma Dropkick",
+    "category": "Feminist Vigilante, Underworld",
+    "description": "She is a legend in the Seven Shallows neighborhood. She attacks men who abuse women. She survives because she has friends—a few bluecoats, a gang of thugs, and a grateful public. She carefully plans attacks to hurt abusers.",
+    "questions": "If her victims abuse again, they are mutilated, packed like luggage, and shipped out of town. Many powerful men would pay for revenge on Jemma. Sometimes she hires outsiders to help out."
+  },
+  {
+    "name": "Lady Candra Dunvil",
+    "category": "Corrupt Fixer, Old Money",
+    "description": "Her family built Ironhook Prison. Her wealth is built on generations of shady deals with incarcerated aristocrats and business owners. She sees the world as a rigged game and has contempt for anyone who finds corruption shocking or fixable. She is vain, practical, and ruthless.",
+    "questions": "She hires outsiders to carry out promises she made to inmates. Her family has casually wrecked reputations and lives over centuries, and that leaves a trail of vengeance seekers."
+  },
+  {
+    "name": "Lord Orlan Booker",
+    "category": "Insulated Mastermind, Old Money",
+    "description": "Ennui is a danger to the wealthy. Booker fills his days by gathering intelligence and planning heists, then selling the plans to ambitious gangs that lack his patience, experience, resources, and insight. Twice a month he goes to the opera, and meets those who have arranged to purchase a score.",
+    "questions": "Sometimes things go wrong, and it is natural to blame the planner and want revenge. Sometimes a target wants to punish those who acted against them, even if the act was planning."
+  },
+  {
+    "name": "Lord Branon Kinclaith",
+    "category": "Romantic Horseman, Old Money",
+    "description": "Branon looks like a hero from a legendary story. He manages the family's stables, the finest horses in Duskvol (where horses are a rare luxury.) His tumultuous trysts with both men and women are common knowledge. Business suffers from his impulsive romantic gestures, but benefits from his charm.",
+    "questions": "Branon sometimes refuses to sell horses, or breed them, if he dislikes the buyer. Some buyers want access to horseflesh anyway. If his horses are attacked, he hires outsiders to get revenge."
+  },
+  {
+    "name": "Baroness Thena Hellyers",
+    "category": "Hazy Art Patron, Old Money",
+    "description": "Thena is one of the least emotionally scarred survivors in her weird family. She is a leading light in the art world. She is patron to many artists and her criticism and evaluation drives a significant element of Duskvol's art scene. Whispers have noted she has an unusual connection to the Ghost Field.",
+    "questions": "Sometimes she hires outsiders to sort out one of her artists' problems. She has a private gallery that she updates with her current trending tastes—those in the art market need to know what's in it."
+  },
+  {
+    "name": "Emeline Coleburn",
+    "category": "Weary Regulator, City Law",
+    "description": "She inspects buildings and reports to the Duskvol Council whether they are sound, and whether they serve the purpose listed on the owner's taxation form. She is front-line in the tug-of-war between criminals, politicians, and nobles. She no longer cares about the greater good. Now it's about kickbacks.",
+    "questions": "She takes the path of least resistance in her evaluations, so people pay to make their preference easier and other roads harder. She hires outsiders for off-the-books communication with pushy customers."
+  },
+  {
+    "name": "Officer Milos Penderyn",
+    "category": "Corrupt Bailiff, City Law",
+    "description": "Milos has access to trial evidence, and to prisoners awaiting trial. He can't get people out, but he can silence them. He has a network of corrupt peers, judges, bluecoats, and others so he can trade favors to accomplish the impossible. Huge and greasy, he is built like a bull and he enjoys the scent of fear.",
+    "questions": "Controlling Milos could mean protecting or killing someone in bluecoat custody. An endless stream of people want revenge on him, and a more select group would like to control or use him."
+  },
+  {
+    "name": "Commissioner Naria Haig",
+    "category": "Political Matchmaker, City Law",
+    "description": "She exudes a plump grandmotherly innocence, but she is one of the sharpest politicians in Duskvol. She supervises over the merging of unexpected allies and the schism of monolithic interests. She cares about one thing—the good of Duskvol as a whole. She is Chair of the Ethics Oversight Committee.",
+    "questions": "Always playing a bigger game, she uses outsiders to manage errands whose purpose they cannot see. Those she outmaneuvers tend to want to get back at her with violence."
+  },
+  {
+    "name": "Lady Ashlyn Tyrconnel",
+    "category": "Decadent Duelist, Old Money",
+    "description": "For centuries, aristocrats of Duskvol have learned the Tyrconnel Method of swordplay and self defense. The Tyrconnel family produces countless public servants and warriors—but also a share of scoundrels. Ashlyn's trademark suite of moves is to duel, win, bed someone, and drink to unconsciousness.",
+    "questions": "You're hired to join the spy game in the Tyrconnel family. Or, someone is targeting her. Either way. Watch your back. Outsiders in the games of nobles are uniformly expendable."
+  },
+  {
+    "name": "Moonslider the Third",
+    "category": "Eccentric Artist, New Money",
+    "description": "She feels moon phases. Her family put her in an asylum for a decade. Later, she won her freedom and inherited the family bootmaking fortune. She makes art. She tries to communicate her moon feelings. She uses oil paint, glass blowing, sculpture, song, and dance in multi-media recitals and art pieces.",
+    "questions": "Her family bought nice things before they all died and she inherited them; she ignores most of it. She needs expensive equipment and supplies for her bizarre art shows."
+  },
+  {
+    "name": "Dr. Yerial Crabbskidditch",
+    "category": "Sleazy Lawyer, New Money",
+    "description": "He firmly believes those who are wealthy should not be pestered with the law. No matter what you do, if you have means you can arrange for an alternate story that favors you. Deaths, frauds, robberies, and other crimes can be reduced to a few fines. He throws money at problems until they disappear.",
+    "questions": "He routinely hires outsiders to destroy evidence, intimidate witnesses, compel confessions, and so forth. He has countless enemies, both those seeking justice and former clients who ran out of money."
+  },
+  {
+    "name": "Kheldaria Whinnich",
+    "category": "Implacable Developer, New Money",
+    "description": "She has a vision for developing the Crow's Foot district. It will be divided between businesses, estates, and parks. To realize her vision, she has been selectively buying real estate all around the city, bartering for land in Crow's Foot, and using whatever persuasion is needed to convince owners to sell to her.",
+    "questions": "She has an estate where she stores inducements of all sorts, a variety of treasure designed to persuade owners to sell in exchange for what they want most. They say you could find almost anything there."
+  },
+  {
+    "name": "Sir Tucker Farros",
+    "category": "Pragmatic Councilman, City Law",
+    "description": "Sometimes the law works, and sometimes it doesn't. Regardless, the Council must rule and there must be order. Sir Farros ensures the districts he serves do not get too far out of hand before lawless elements are curbed. One way or another. He looks like an affable grandfather, but he has a dark past.",
+    "questions": "Sir Farros uses inspectors or scoundrels, politicians or housemaids—anyone who will get the job done. He has an endless list of enemies who feel he wronged them, and want revenge. His agents are disposable."
+  },
+  {
+    "name": "Slopspatter",
+    "category": "Canal Hull, Supernatural",
+    "description": "This hull learned to consume spirits and bolster its strength with theirs. It cannibalizes machinery and rummages in wrecked boats for parts. It has gondola prow shoulder guards and helm, and strange banded armor made of water-logged wood over intricate mechanical parts. It fears destruction.",
+    "questions": "It assassinates targets, with its body or by possessing machines near them. It hunts whispers, leeches, and scholars, stealing their knowledge and killing them. Their allies want revenge."
+  },
+  {
+    "name": "Duvrel the Snake",
+    "category": "Cunning Smuggler, Foreign",
+    "description": "She is Tycherosian, with the eyes and horns of a goat. Snake tattoos coil around her arms. Exotic drugs from the Dagger Isles flow through her distribution network in Duskvol. She hires outsiders to remove stubborn people while she has an alibi, or to retrieve drugs misplaced at incriminating locations.",
+    "questions": "Inspectors have orders from the Spirit Wardens to take her alive, to study her uncanny ability to flex with the Ghost Field for supernatural stealth."
+  },
+  {
+    "name": "Dr. Hansel Kryvanntic",
+    "category": "Brilliant Scientist, Foreign",
+    "description": "He is Severosi, bow-legged and wild-haired. His work on electroplasmic poisoning and mutation in animals and humans is ground-breaking. Fleeing persecution because of his ethically questionable methods back in Severos, he found a more open-minded scientific community in Duskvol.",
+    "questions": "His research has applications in art, medicine, and war. Those with sufficient resources to further his studies want to control him. He has hurt a lot of people, over time, so he has many enemies."
+  },
+  {
+    "name": "Dylayzia Finchester",
+    "category": "Fashionable Whisper, New Money",
+    "description": "Her exotic looks, tattoos, and bright green eyes draw attention. She popularized thigh-high buckled leather boots and spirit bane chokers. Her opinions echo in drawing rooms across the city. People enjoy her feud with the Church of the Ecstasy of the Flesh.",
+    "questions": "Wealthy figures in the fashion world pay top coin for sneak peeks at her clothing designs. Her opinions inflame many enemies—especially the Church. She hires outsiders to get rare components for her rituals."
+  },
+  {
+    "name": "Pebbler",
+    "category": "Demon Spy, Supernatural",
+    "description": "This earth demon looks like a fat man built around a boulder gut, leaking sand from joints. It is able to see and hear through sand, earth, and stone within a range of miles. It works with non-cultists voluntarily, selling information in exchange for raids into the rare areas protected from its prying.",
+    "questions": "Dozens of powerful people want Pebbler banished or robbed. However, the demon is a peerless information exchange, valuable even if it is difficult to control."
+  }
+]

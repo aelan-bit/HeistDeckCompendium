@@ -4,6 +4,7 @@
   "description": "Heist Deck - Blades in the Dark — Foundry VTT module build scripts",
   "type": "module",
   "scripts": {
+    "migrate": "node scripts/migrate-to-structured.mjs",
     "generate": "node scripts/generate-sources.mjs",
     "compile": "node scripts/pack.mjs",
     "build": "npm run generate && npm run compile"

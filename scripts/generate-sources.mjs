@@ -1,14 +1,14 @@
 /**
  * generate-sources.mjs
  *
- * Reads the three Heist Deck table JSON files from the parent directory and
- * writes individual Foundry VTT document source files into packs/src/.
- *
- * Output:
+ * Reads structured source data from data/*.json and produces:
  *   packs/src/people/        → 40 Actor JSON files (type: "npc")
  *   packs/src/treasures/     → 40 Item JSON files  (type: "item")
  *   packs/src/obstacles/     → 50 Item JSON files  (type: "item")
  *   packs/src/heist-tables/  → 3 RollTable JSON files with pack result references
+ *   ../people-table.json     → legacy Foundry RollTable import format
+ *   ../treasures-table.json  → legacy Foundry RollTable import format
+ *   ../obstacles-table.json  → legacy Foundry RollTable import format
  *
  * Run: node scripts/generate-sources.mjs
  */
@@ -18,18 +18,18 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = path.resolve(__dirname, '..');
+const ROOT   = path.resolve(__dirname, '..');
 const PARENT = path.resolve(ROOT, '..');
-const SRC = path.join(ROOT, 'packs', 'src');
+const DATA   = path.join(ROOT, 'data');
+const SRC    = path.join(ROOT, 'packs', 'src');
 const MODULE_ID = 'heist-deck-compendium';
 
 // ---------------------------------------------------------------------------
-// ID generation — stable 16-char alphanumeric derived from a seed string
+// Stable ID generation — deterministic 16-char alphanumeric from a seed string
 // ---------------------------------------------------------------------------
 const CHARS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
 
 function stableId(seed) {
-  // Simple deterministic hash → 16-char ID so UUIDs are reproducible across runs
   let h = 5381;
   for (let i = 0; i < seed.length; i++) {
     h = ((h << 5) + h) ^ seed.charCodeAt(i);
@@ -38,7 +38,6 @@ function stableId(seed) {
   let id = '';
   let val = h;
   for (let i = 0; i < 16; i++) {
-    // Mix in position to avoid repeating characters
     val = ((val * 1664525 + 1013904223) + i * 31337) >>> 0;
     id += CHARS[val % CHARS.length];
   }
@@ -48,9 +47,8 @@ function stableId(seed) {
 // ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
-function readTable(filename) {
-  const p = path.join(PARENT, filename);
-  return JSON.parse(fs.readFileSync(p, 'utf8'));
+function readData(filename) {
+  return JSON.parse(fs.readFileSync(path.join(DATA, filename), 'utf8'));
 }
 
 function ensureDir(dir) {
@@ -66,14 +64,39 @@ function safeName(name) {
 }
 
 // ---------------------------------------------------------------------------
+// HTML reconstruction
+// ---------------------------------------------------------------------------
+function buildPersonHtml(r) {
+  return [
+    `<p><strong>${r.category}</strong></p>`,
+    `<p>${r.description}</p>`,
+    `<p><em>${r.questions}</em></p>`,
+  ].join('');
+}
+
+function buildObstacleHtml(r) {
+  const dangerLines = r.dangers.map(d => `<p>${d}</p>`).join('');
+  const remedyLines = r.remedies.map(rem => `<p>${rem}</p>`).join('');
+  return [
+    `<p><strong>${r.category}</strong></p>`,
+    `<p>${r.description}</p>`,
+    `<p><em>${r.questions}</em></p>`,
+    `<p><strong>Dangers</strong></p>`,
+    dangerLines,
+    `<p><strong>Remedies</strong></p>`,
+    remedyLines,
+  ].join('');
+}
+
+// ---------------------------------------------------------------------------
 // People → Actors (type: "npc")
 // ---------------------------------------------------------------------------
-function generatePeople(results) {
+function generatePeople(entries) {
   const dir = path.join(SRC, 'people');
   ensureDir(dir);
   const ids = {};
 
-  for (const r of results) {
+  for (const r of entries) {
     const id = stableId('people:' + r.name);
     ids[r.name] = id;
     const doc = {
@@ -82,125 +105,170 @@ function generatePeople(results) {
       type: 'npc',
       img: 'icons/svg/mystery-man.svg',
       system: {
-        notes: r.description ?? ''
+        notes: buildPersonHtml(r),
       },
       ownership: { default: 0 },
-      flags: { 'heist-deck': { category: r.flags?.['heist-deck']?.category ?? '' } }
+      flags: { 'heist-deck': { category: r.category } },
     };
     writeDoc(dir, safeName(r.name) + '.json', doc);
   }
 
-  console.log(`  ✓ People: ${results.length} Actor files`);
+  console.log(`  ✓ People: ${entries.length} Actor files`);
   return ids;
 }
 
 // ---------------------------------------------------------------------------
-// Treasures → Items (type: "item")
+// Items (treasures + obstacles)
 // ---------------------------------------------------------------------------
-function generateItems(results, packKey, dirName) {
+function generateItems(entries, packKey, dirName, buildHtml) {
   const dir = path.join(SRC, dirName);
   ensureDir(dir);
   const ids = {};
+  const img = dirName === 'treasures' ? 'icons/svg/item-bag.svg' : 'icons/svg/shield.svg';
 
-  for (const r of results) {
+  for (const r of entries) {
     const id = stableId(packKey + ':' + r.name);
     ids[r.name] = id;
     const doc = {
       _id: id,
       name: r.name,
       type: 'item',
-      img: dirName === 'treasures' ? 'icons/svg/item-bag.svg' : 'icons/svg/shield.svg',
+      img,
       system: {
-        description: r.description ?? ''
+        description: buildHtml(r),
       },
       ownership: { default: 0 },
-      flags: { 'heist-deck': { category: r.flags?.['heist-deck']?.category ?? '' } }
+      flags: { 'heist-deck': { category: r.category } },
     };
     writeDoc(dir, safeName(r.name) + '.json', doc);
   }
 
-  console.log(`  ✓ ${dirName}: ${results.length} Item files`);
+  console.log(`  ✓ ${dirName}: ${entries.length} Item files`);
   return ids;
 }
 
 // ---------------------------------------------------------------------------
-// RollTables → heist-tables pack (results reference compendium docs)
+// RollTables — both compendium-linked (packs/src) and legacy (*-table.json)
 // ---------------------------------------------------------------------------
-function generateTables(tables) {
-  const dir = path.join(SRC, 'heist-tables');
-  ensureDir(dir);
+function generateTables(tableDefs) {
+  const tablesDir = path.join(SRC, 'heist-tables');
+  ensureDir(tablesDir);
 
-  for (const { tableData, packName, docIds, formula, description } of tables) {
-    const tableId = stableId('table:' + tableData.name);
-    const results = tableData.results.map((r, i) => ({
-      _id: stableId(`result:${tableData.name}:${i}`),
+  for (const { entries, ids, packName, meta, buildHtml } of tableDefs) {
+    const tableId = stableId('table:' + meta.name);
+
+    // Compendium-linked table (references Actor/Item docs by UUID)
+    const linkedResults = entries.map((r, i) => ({
+      _id: stableId(`result:${meta.name}:${i}`),
       type: 'pack',
       collection: `${MODULE_ID}.${packName}`,
-      resultId: docIds[r.name],
+      resultId: ids[r.name],
       weight: 1,
-      range: r.range,
+      range: [i + 1, i + 1],
       drawn: false,
       flags: {},
-      // Keep name so there's a fallback label in the UI
       text: r.name,
-      img: r.img ?? 'icons/svg/d20-black.svg'
+      img: 'icons/svg/d20-black.svg',
     }));
 
-    const doc = {
+    writeDoc(tablesDir, safeName(meta.name) + '.json', {
       _id: tableId,
-      name: tableData.name,
-      description: description,
-      formula: formula,
+      name: meta.name,
+      description: meta.description,
+      formula: meta.formula,
       replacement: true,
       displayRoll: true,
-      results,
+      results: linkedResults,
       ownership: { default: 0 },
-      flags: {}
+      flags: {},
+    });
+
+    // Legacy text-based table for direct Foundry RollTable import
+    const legacyResults = entries.map((r, i) => ({
+      type: 'text',
+      weight: 1,
+      range: [i + 1, i + 1],
+      name: r.name,
+      img: 'icons/svg/d20-black.svg',
+      description: buildHtml(r),
+      drawn: false,
+      flags: {},
+      documentUuid: null,
+    }));
+
+    const legacyTable = {
+      name: meta.name,
+      img: meta.img,
+      description: meta.description,
+      formula: meta.formula,
+      replacement: true,
+      displayRoll: true,
+      folder: null,
+      flags: {},
+      ownership: { default: 0 },
+      results: legacyResults,
     };
 
-    writeDoc(dir, safeName(tableData.name) + '.json', doc);
+    fs.writeFileSync(
+      path.join(PARENT, packName + '-table.json'),
+      JSON.stringify(legacyTable, null, 2),
+    );
   }
 
-  console.log(`  ✓ heist-tables: ${tables.length} RollTable files`);
+  console.log(`  ✓ heist-tables: ${tableDefs.length} RollTable files`);
+  console.log(`  ✓ legacy *-table.json files written to parent directory`);
 }
 
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
-console.log('Reading source tables from parent directory...');
-const peopleTable    = readTable('people-table.json');
-const treasuresTable = readTable('treasures-table.json');
-const obstaclesTable = readTable('obstacles-table.json');
+console.log('Reading structured source data from data/...');
+const peopleEntries   = readData('people.json');
+const treasureEntries = readData('treasures.json');
+const obstacleEntries = readData('obstacles.json');
 
-console.log('Generating source documents...');
-
-const peopleIds    = generatePeople(peopleTable.results);
-const treasureIds  = generateItems(treasuresTable.results, 'treasures', 'treasures');
-const obstacleIds  = generateItems(obstaclesTable.results, 'obstacles', 'obstacles');
+console.log('Generating Foundry source documents...');
+const peopleIds   = generatePeople(peopleEntries);
+const treasureIds = generateItems(treasureEntries, 'treasures', 'treasures', buildPersonHtml);
+const obstacleIds = generateItems(obstacleEntries, 'obstacles', 'obstacles', buildObstacleHtml);
 
 generateTables([
   {
-    tableData: peopleTable,
+    entries: peopleEntries,
+    ids: peopleIds,
     packName: 'people',
-    docIds: peopleIds,
-    formula: '1d40',
-    description: 'One will be hiring the crew, and the other will be the target. Draw 2 during heist planning.'
+    buildHtml: buildPersonHtml,
+    meta: {
+      name: 'People',
+      img: 'icons/svg/d20-grey.svg',
+      description: 'One will be hiring the crew, and the other will be the target. Draw 2 during heist planning.',
+      formula: '1d40',
+    },
   },
   {
-    tableData: treasuresTable,
+    entries: treasureEntries,
+    ids: treasureIds,
     packName: 'treasures',
-    docIds: treasureIds,
-    formula: '1d40',
-    description: 'This treasure is what is motivating the heist. Draw 1 during heist planning.'
+    buildHtml: buildPersonHtml,
+    meta: {
+      name: 'Treasures',
+      img: 'icons/svg/d20-grey.svg',
+      description: 'This treasure is what is motivating the heist. Draw 1 during heist planning.',
+      formula: '1d40',
+    },
   },
   {
-    tableData: obstaclesTable,
+    entries: obstacleEntries,
+    ids: obstacleIds,
     packName: 'obstacles',
-    docIds: obstacleIds,
-    formula: '1d50',
-    description: 'Special obstacles defending the site of the heist. Draw 3 or so during heist planning.'
-  }
+    buildHtml: buildObstacleHtml,
+    meta: {
+      name: 'Obstacles',
+      img: 'icons/svg/d20-grey.svg',
+      description: 'Special obstacles defending the site of the heist. Draw 3 or so during heist planning.',
+      formula: '1d50',
+    },
+  },
 ]);
 
-console.log('\nDone. Source files written to packs/src/');
-console.log('Next: npm run compile');
+console.log('\nDone. Run npm run compile to pack into LevelDB.');

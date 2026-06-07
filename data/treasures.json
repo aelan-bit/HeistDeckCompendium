@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Skovlan Scrip",
+    "category": "Misplaced Fortune",
+    "description": "A dense lockbox filled with paper money issued by the Akorosian government to pay soldiers quelling the Skovlander Insurrection. The scrip can be exchanged for coins or services in Duskvol. Scrip is basically untraceable.",
+    "questions": "Some of the military supply that got lost during the war. Does the stash's location implicate a corrupt official or other thief?"
+  },
+  {
+    "name": "The Hellwhisper Ring",
+    "category": "Weird Scholarship",
+    "description": "The ring is made of tiny bits of bone wired together. It must be worn for at least a day per year of the bearer's life before it begins to work. When placed on a source of information, the ring sifts it until the ring speaks the information's \"language.\" The bearer can see through riddles, read arcane texts, and break code with ease.",
+    "questions": "Legend says 32 demons voluntarily gave some of their bone to be part of this ring, and it was released among humans to cause chaos through greater understanding."
+  },
+  {
+    "name": "The Key Lens",
+    "category": "Weird Scholarship",
+    "description": "The round frame has forty special lenses hinged on its rim. The lenses can layer over each other, flip out past the frame, rotate to take advantage of the angles inside the ground crystal, and take translucent colored filters. Their inventor, Vlas Haldak, said he had found \"the key.\" He died of shock, the lens on his work table.",
+    "questions": "Legends vary. It can see into the Ghost Field, it can see into people, it allows reading demonic texts, it can see the way into ghost neighborhoods, etc. Needs a Whisper to use properly."
+  },
+  {
+    "name": "Bayer's Train Heist",
+    "category": "Misplaced Fortune",
+    "description": "Bayer was a rail jack fired for being drunk. Over years, he built a crew with one mission in mind — robbing a train. When Iruvia completed negotiations with Akoros to buy an unprecedented mass of leviathan blood to pour into industrialization, Bayer's crew hit the train carrying the payment, sabotaging a bridge. Rescuers found the train in the canyon, but no gold — an impossible feat. Bayer's crew vanished.",
+    "questions": "An Iruvian ingot stamped with the year '802' will attract attention."
+  },
+  {
+    "name": "Limptwitch's Stash",
+    "category": "Misplaced Fortune",
+    "description": "Limptwitch was a Whisper who interrogated ghosts to find the location of hidden treasure. He was famous for his Grotto, the place where he stored all his salvaged wealth. Many factions tried to get his treasure, but he never gave up the secret. Then he was jailed and hanged. The Grotto was never found.",
+    "questions": "Did a cellmate in prison hear muttered hints as to its location? Maybe a Whisper has clues based on where he left his mark in the sewers. Has someone finally found a real lead?"
+  },
+  {
+    "name": "Goblet of Eletrachian",
+    "category": "Weird Artifact",
+    "description": "The silver and gold cup is big enough to hold with two hands, crusted with obsidian stones. The owner puts a drop of a demon's blood in the goblet with certain other liquids, and conducts a ritual. For days afterwards (maybe longer) the owner can see anything the demon uses remote vision to view; just by watching the surface's illusory reflections.",
+    "questions": "There are many legends about the creation of the goblet, and the fate of the Whisper who first energized it. Rumor suggests the Duskvol Council entrusted the goblet to a certain family for safekeeping."
+  },
+  {
+    "name": "Accidental Death",
+    "category": "Secret Dirty Work",
+    "description": "Not only must the target die, the target must not know how death came. If by some misfortune the ghost of the victim is interrogated, it must not have any special knowledge. There is a ritual and an amulet for the assassins to ensure secrecy. No one living or dead can know who did this deed.",
+    "questions": "By the time the crew knows the job, there is a better than even chance their knowledge is too much risk and their employer plans to kill them. They might want some leverage."
+  },
+  {
+    "name": "Combination Harpsichord",
+    "category": "Weird Scholarship",
+    "description": "Tarnali was a Whisper composer who built a special harpsichord. When two tones are played, often a third \"ghost\" tone can be heard. By attaching the tuning pegs to crystals and runes, Tarnali built a harpsichord that could interact with the Ghost Field through calculated progressions of played tones.",
+    "questions": "This effort is intensely interesting to those who want to find doors hidden in the Ghost Field, draw or repel what lurks Behind the Mirror, or develop more portable tonal energies for non-Whispers."
+  },
+  {
+    "name": "Evardian's Song Folios",
+    "category": "Weird Scholarship",
+    "description": "Four leather-bound volumes, full of musical notation with heavily annotated margins. The \"music\" is supposed to be transcribed and translated leviathan song. Legend suggests if the music is played correctly, it can drive humans insane with visions of the demon-haunted deep.",
+    "questions": "Aristocrats will collect anything. Scholars go to great lengths for research material. Cultists may find religious significance in the folios. (Owning the folios is against the law.)"
+  },
+  {
+    "name": "Sonurian Ghost Key",
+    "category": "Family Heirloom",
+    "description": "The Sonuria family had mansions in the area that is now the Seven Shallows slum. They created a vault for the protected dead, and for their mundane treasures. The only way in is for a family member to present the Sonurian Ghost Key before the hidden location of the vault in the Ghost Field. The key has been lost for decades.",
+    "questions": "That key could be hidden anywhere. If it were found, either a family member could be recruited to open the door, or the key could be sold to the family. What does the key look like? What is inside the vault?"
+  },
+  {
+    "name": "Whitecrown Signet Ring",
+    "category": "Family Heirloom",
+    "description": "The Whitecrown family schismed in the wake of the theft of the matriarch's signet ring over two centuries ago. They fell from being players in the intrigues around the throne to bickering over dwindling family holdings. Their wealth and influence is low, but not beyond recall.",
+    "questions": "If the ring resurfaced, elements of the feud might put aside their differences and reunite. Besides, legends suggest a ghost matriarch is bound to the ring, and she knows their secrets."
+  },
+  {
+    "name": "Kasavaraya Tea Set",
+    "category": "Family Heirloom",
+    "description": "When the Immortal Emperor visited Akoros four centuries ago, he used this tea set with the patriarch of the Kasavaraya family. They are still one of the most decorated and entrenched military families in Duskvol. Their tea set is a symbol of Duskvol's prominence. However, a saucer and a cup are missing.",
+    "questions": "This stuff is priceless, literally, so negotiating a price for its return is tricky. If you could find the missing pieces, or forge them adequately, they would be great hostages to affect the family's behavior."
+  },
+  {
+    "name": "Dyvik's Chaser Mask",
+    "category": "Weird Artifact",
+    "description": "This silvery face mask has the word Elekthiaron etched along its inner edge. When the word is spoken, the personality of the one touching the mask is pulled into it. The personality that was in the mask goes in the body. If the one in the body doesn't touch the mask once a week, madness threatens.",
+    "questions": "Has someone been using the mask to pose as someone else? How long has that been going on? Is there someone in the mask that needs rescuing? Was the mask used to cheat biological death?"
+  },
+  {
+    "name": "Charter of Crows",
+    "category": "Historical Curiosity",
+    "description": "This gauntlet is made out of crow beaks. Each beak is carved with arcane symbols. Consulting Whispers officially report it does not have any power in the Ghost Field. It was made by the Spirit Warden who first tamed the deathseeker crows; he claimed it was a treaty that guaranteed their service.",
+    "questions": "Spirit Wardens lost this gauntlet decades ago, but they want it back. The idea it is a treaty with the deathseeker crows is probably nonsense. They can't take that chance."
+  },
+  {
+    "name": "The Leviathan's Eye",
+    "category": "Famous Jewel",
+    "description": "This sapphire turns impossibly black if dipped in leviathan blood. If the still-bloody stone is pressed against a seer's forehead, the sensitive can see what the ocean sees, looking above the waves or probing the deeps. The gem used to be passed around between leviathan hunter captains, but has since been lost.",
+    "questions": "One expert said using the Eye was as close as a human could get to a demon seeing through its elemental affinity, and that it began a slow change in the individual who was exposed to its power."
+  },
+  {
+    "name": "The Emerald Well",
+    "category": "Famous Jewel",
+    "description": "This depthless gem is a chilly pinhole between the material world and the Ghost Field. It provides energy to Whispers and attracts ghosts. The Emerald Well was protected by the Church of the Ecstasy of the Flesh, but a thief stole it decades ago. It is a hotspot for supernatural activity. Disaster flows in its wake.",
+    "questions": "This is one of the few objects pursued by demons, Whispers, inspectors, clergy, and collectors. Scholars suggest demons may be able to turn it inside out, creating a fresh gate to incarnate more demons."
+  },
+  {
+    "name": "Norscye's Lament",
+    "category": "Famous Jewel",
+    "description": "This ruby has been set in a series of weapons for the last three centuries. One estimate was that the gem had participated in upwards of a thousand deaths. Legend suggests that the ruby can hold a single ghost, surviving the destruction of the body, bound to the gem until it chooses another guest.",
+    "questions": "While the gemstone is priceless because of its unnatural clarity, it is also possible that an important ghost might be inside, and might choose to speak to a Whisper or a blood relative."
+  },
+  {
+    "name": "Hollow Shroud",
+    "category": "Religious Object",
+    "description": "The Church of the Ecstasy of the Flesh clergy wrapped the funeral shroud around a heretic, then conducted a ritual that severed the heretic's connection to the body; cutting the spirit loose as a ghost. The shroud transferred the spirit of a faithful but sickly member into the heretic's body. New life!",
+    "questions": "The Shroud was stolen almost twenty years ago, and rumors suggest it has been used in debased rituals to summon demons or enflesh echoes of the Forgotten Gods."
+  },
+  {
+    "name": "Censer Mace of Udoch",
+    "category": "Religious Object",
+    "description": "The head of this ornately carved mace opens on hinges so incense can be put inside to wisp as the mace swings. The haft has a recipe carved into it, instructions to make special incense out of bone and rare sap and unguents. If that incense burns in the mace, it can destroy ghosts or demons with a single hit.",
+    "questions": "This was a founding artifact of the Church of the Ecstasy of the Flesh. If it were returned, they would gain a fresh following from critics who feel the church cannot protect against supernatural threats."
+  },
+  {
+    "name": "Bellweather Architectural Plans",
+    "category": "Historical Curiosity",
+    "description": "The Duskvol Archives have the sanitized blueprints of the Bellweather Crematorium on file. The original plans were drawn by a Spirit Warden driven mad by an internal rift, so he haunted himself. He drew peculiar plans with occult underpinnings, and those original drawings were interpreted by architects.",
+    "questions": "Are there coded secrets in the original plans that reveal a repellant secret or ominous threat? Or are the plans the scribbling of a madman? Either way, some people would pay top coin to get a good look."
+  },
+  {
+    "name": "The Tabissera Diary",
+    "category": "Weird Scholarship",
+    "description": "Warden Khalana Uress was the Head Confessor of the Spirit Wardens. She recorded secrets that were only for the use of the order using a book code, coordinates that pointed to words in a specific book. Without that book, the code cannot be cracked. Daring thieves took the book, then lost it.",
+    "questions": "Fakes come on the market all the time. Only the Spirit Warden leadership know what the book looked like, and they aren't telling. What is the Diary about?"
+  },
+  {
+    "name": "Krog's Broken Heart",
+    "category": "Misplaced Fortune",
+    "description": "Krog was a savage from the Dagger Isles, pressed into service on a hunting ship. He eventually owned a small fleet. He was old when he fell in love with a young woman who robbed him. Heartbroken, he took the rest of his treasure aboard his last hunting ship, Heartsong, and scuttled her in the harbor.",
+    "questions": "Whispers like to brag they found a way under the waves to find the wealth. Gracmaas the Pirate claimed to have recovered it all to his hidden lair—before he was killed."
+  },
+  {
+    "name": "The Helsman Inheritance",
+    "category": "Misplaced Fortune",
+    "description": "The final will and testament of the clan's patriarch included a 24 hour locked-house condition. Survivors would split the inheritance. Darayl Helsman left the house at the end of the time with a small bag. Explorers found nothing but corpses in the house, the inheritance was gone. Darayl was found dead the next day, the bag gone. The city locked the house and guards against trespassers.",
+    "questions": "Surely Darayl hid the inheritance in the Ghost Field. Find the ghost key and lock in the house, and get it all! Or, did someone else already get it?"
+  },
+  {
+    "name": "Steal Blackmail",
+    "category": "Secret Dirty Work",
+    "description": "Secrets must be protected. If they come out, people can get hurt, ruined, killed, and so on. You are hired to adjust the circle of people who can prove something. Will it be bigger? Or smaller?",
+    "questions": "Do you know what information you're after, or is that secret from you? If you have a chance, will you peek at it? Are you targeting a blackmailer to remove their hold, or getting evidence to give a blackmailer? Is the evidence to be destroyed? Do you plan to do as you are told?"
+  },
+  {
+    "name": "Plant Evidence",
+    "category": "Secret Dirty Work",
+    "description": "Someone needs to be found guilty of doing something. For that to work out, you need evidence, put in the wrong place at the wrong time. To manage that, you need proper scoundrels.",
+    "questions": "Do you know what the target will be accused of doing? Are you to lead the authorities to the evidence? Must someone be seduced before a hidden witness? Are the scoundrels making evidence, or using what they're given? What if they could do better? Must the evidence fool a court, or a powerful individual?"
+  },
+  {
+    "name": "Terrorize",
+    "category": "Secret Dirty Work",
+    "description": "People can be stubborn, to the point where only fear can unseat their decision. Maybe they feel independent and need to be reminded that they need protection. Maybe they feel safe and need to be reminded they are not untouchable.",
+    "questions": "Are you supposed to be someone in particular, like a random street thug or rival's employee or bluecoat? How far can the terror go? Do you need to trash a home, or maybe converse with a loved one?"
+  },
+  {
+    "name": "Kidnap the Heir",
+    "category": "Secret Dirty Work",
+    "description": "People are keys that fit into estate locks. They can be turned to open the way to lots of money. You might be taking a child to ransom back to the guardian, or you might be getting someone out of the way so a more distant heir can inherit. This is about controlling where the money goes.",
+    "questions": "How harsh does the employer want this to be? Kid gloves treatment, or is the plan to kill the heir when it is all over? How much input will the employer accept from the hired help? Is the plan already in place?"
+  },
+  {
+    "name": "Ink Fleece",
+    "category": "Family Heirloom",
+    "description": "Long ago, Captain Manarill claimed he could prove that leviathans had fur, or fleece. He brought back a swatch of curling fur as big as a bedspread. He claimed to have harvested it from a leviathan's skin. The mantle served as a symbol of the Manarill family's heritage of exploration and danger. But it was stolen.",
+    "questions": "Does it do more than represent heritage? What dreams might one have while wrapped in it? Might a wealthy Whisper pay more for it than the family that owned it? Who took it?"
+  },
+  {
+    "name": "Orb of Sellivas",
+    "category": "Weird Artifact",
+    "description": "This fist-sized golden orb tunes to one bearer at a time, though it may respond to others. If commanded, it can release a steady light that radiates in the material world and the Ghost Field, revealing what is hidden. The radiation can also draw or repel ghosts and demons.",
+    "questions": "The Sellivas order of witches wrote their research journals in an ink that can only be read by the light of the Orb. If someone had the Orb and the \"blank\" book, they could crack ancient secrets."
+  },
+  {
+    "name": "Remote Writer",
+    "category": "Weird Artifact",
+    "description": "This little book has a peculiar occult symbol on the cover. If an object is placed between the covers for a full 24 hours, then the book will transcribe any conversation happening in earshot of the object until reset. When the book reaches the end, the writing starts over on the first page, clearing pages as it goes.",
+    "questions": "The book provides remote reading, eavesdropping of a sort. A target's favorite pen or lucky coin can become the broadcaster, and determined spies can copy the magic book writing so they don't lose it."
+  },
+  {
+    "name": "Plasmic Blade Flail",
+    "category": "Weird Artifact",
+    "description": "This weapon can slay ghosts and demons. It appears to be a gladius stitched with runes. Once the bearer attunes to the weapon, it can disconnect into vertebrate-like wedges connected by a steely central cable. The blade-whip is flexible and simmering with energy. It can reform into a straight blade at will.",
+    "questions": "Only five of these flails ever existed. One is carried by the Spirit Warden assigned to the Immortal Emperor's defense. The rest are the stuff of legends."
+  },
+  {
+    "name": "Book of Walls",
+    "category": "Historical Curiosity",
+    "description": "Long ago, a nameless rogue cultivated a mass of bloodworms in a wall. He wrote a book with their blood. The words were nonsense, but strangely affecting; if the reader tuned in to them, and held the book, the reader could walk through a wall. Spirit Wardens ruined the book with holy smoke.",
+    "questions": "A legend, or is there truth to it? Walking through walls is a neat trick, and the book may hold the key to learning it. It is sought by a wide variety of the curious—scholars, collectors, and scoundrels."
+  },
+  {
+    "name": "Soultrap Carnelian",
+    "category": "Famous Jewel",
+    "description": "This semi-precious stone was carved by the Whisper Ichralia. She suffocated people with hot wax and bound their fresh ghosts in wax seals on scrolls or letters with the Soultrap. When the seal was broken, the insane ghost attacked the opener and anyone nearby.",
+    "questions": "The Spirit Wardens destroyed this object decades ago. Didn't they? Maybe someone else made another one, or maybe the original survived."
+  },
+  {
+    "name": "The Thousand Facet Diamond",
+    "category": "Famous Jewel",
+    "description": "This gem is the elegant centerpiece on the back of a peculiar clockwork gauntlet. A seer can use the gauntlet to travel into the Ghost Field while retaining physical presence, or possibly even other dimensions. Each use burns out some of the diamond facets. The device is reported to have a mind of its own.",
+    "questions": "Ever since its theft from the Adelairde family, the gauntlet has surfaced only in rumors of especially daring heists or mind-shattering experiments."
+  },
+  {
+    "name": "Rylaria's Shield",
+    "category": "Family Heirloom",
+    "description": "Rylaria Graefwold was a soldier who gained title and wealth. She wrote her life's story on the back of the shield she used to save a general. Later generations added to the family story. The shield represents the family's honor. It was lost at sea when their first leviathan hunting ship was wrecked. Or was it?",
+    "questions": "Now the family is wealthy, and this artifact would be important to them. Does it have a secret in code?"
+  },
+  {
+    "name": "Fang of Ibiria",
+    "category": "Religious Object",
+    "description": "This brutal stiletto has a green stone in the pommel, and a runic symbol on the blade. The blade transforms electroplasm into a mutagen. The longer the blade is in a victim, the more monstrous the victim becomes. A cut gives nightmares, minutes give mutations, hours or days create a real monster.",
+    "questions": "Cultists want this blade so they can make or become monsters."
+  },
+  {
+    "name": "Idol of the Sleeping God",
+    "category": "Religious Object",
+    "description": "The hefty iron statue depicts a devilfish-headed humanoid, cloaked in wings. Its presence influences human dreams, so they drift through the ink-black sea but can perceive their surroundings. Sacrificing to the statue gives a cultist a cosmic infection, involving psychic ability and mutations.",
+    "questions": "The statue has been retrieved by officers of the law several times, and destroyed several times more. Again and again, it emerges in the heart of fresh tragedy, baleful and singular."
+  },
+  {
+    "name": "Falheim's Prod",
+    "category": "Historical Curiosity",
+    "description": "This ragged pole with a spear and a silver-cable loop was the first prototype of what became the lightning hook. It doesn't work very well, but it was the first historically known charged object that could consistently interact with the Ghost Field.",
+    "questions": "Apparently this bit of history is an important prestige piece in the turbulent intrigues of a number of underground cults led by Whispers. The city government would also like to display it in a museum."
+  },
+  {
+    "name": "Naladicha's Cartography",
+    "category": "Historical Curiosity",
+    "description": "The famous cartographer Naladicha died, and his ghost was woven into a spirit anchor connected to a pen on a wire. The drooping pen scribbled nonstop, dipping to indicate a page turn. Two books were filled with scribbles before the pen stilled. These lines and shapes may be maps of the Ghost Field.",
+    "questions": "One consulting Whisper reported that when she attuned to the books using an expensive and difficult ritual, the maps became luminous and four dimensional, revealing lost secrets in Duskvol."
+  },
+  {
+    "name": "Mark of the Void",
+    "category": "Religious Object",
+    "description": "It is an eerie black disk of leviathan bone, about the size of a dinner plate but five times as thick. The bone is carved with a strange circular pattern with rays cutting through it. The primitive artwork was polished, and silver inlaid in the pattern, by a decadent nobleman.",
+    "questions": "Impressionable people admit the disk whispers to them, they hear the Back of the Mirror when the disk is near. Many cults see this disk as a conduit to clearer communication with their supernatural patrons."
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Armor Hosts",
+    "category": "Ghostly Guards",
+    "description": "Guardian spirits are able to inhabit a crystal melded to each suit of armor in a guarded area. When melded, the spirit can control the armor. Spirits use the armor to attack intruders.",
+    "questions": "Were the suits of armor built for this purpose, or retrofitted by a spirit trafficker? Are the guardian spirits loyal, or were they stripped of their will by a ritual or other power? Are the suits visibly paranormal?",
+    "dangers": [
+      "A single powerful (relatively sane) spirit can flit from armor to armor, backed up by two slave spirits. The guardian can form an electroplasmic face in the helmet to sneer at intruders.",
+      "A swarm of spirits are eager to take their turn in armor. When one tires another drops in. Ceaseless patrol."
+    ],
+    "remedies": [
+      "The ghost(s) that animate the armor are murderous and difficult to control. The guardians can play a chime to recall them to a restraining prism.",
+      "The suits of armor are old, battered, and prone to physical failure."
+    ]
+  },
+  {
+    "name": "Brutal Sadists",
+    "category": "Twisted Guards",
+    "description": "Only brutal sadists are hired on as guards. They have permission to play with captured intruders.",
+    "questions": "Is the owner of the protected property aware of this cultural rule, or are guards hired by an employee? Do they share cultural roots? (Slaughterhouse workers, leviathan hunters, soldiers, or city guards?) How do the neighbors feel about their occasional scandals?",
+    "dangers": [
+      "Several of them are skilled in both torture and interrogation; they extract secrets from intruders. A side business in blackmail helps them avoid legal trouble.",
+      "They are hardened veterans, exceptionally tough and dangerous. They aim to incapacitate."
+    ],
+    "remedies": [
+      "Their ugly tactics and poorly chosen victims have earned them (and their employer) enemies in lots of unexpected places.",
+      "They really, really like to drink."
+    ]
+  },
+  {
+    "name": "Caul Piercers",
+    "category": "Traps",
+    "description": "Piercers are designed to puncture whoever touches them. They pierce the energy caul of the character's life force in the Ghost Field. This causes a harm condition that worsens or costs stress every down time cycle until the caul can be mended (6 segment project.) Interpret as needed.",
+    "questions": "Do the piercers resemble knives, nails, or thorn-like carvings? What sadistic expert crafted these dire traps? If pried out of their settings, how long do they retain potency?",
+    "dangers": [
+      "Those affected will trail life energy like a wounded fish bleeding in the water; demons and ghosts alike will investigate the scent.",
+      "They are worked into important doorknobs, strategic ledges, and concealed flooring."
+    ],
+    "remedies": [
+      "They all look alike and are similarly placed, relying on surprise to be effective.",
+      "They are only on the main treasure."
+    ]
+  },
+  {
+    "name": "Centipedes",
+    "category": "Animal Guards",
+    "description": "Centipedes the length of a forearm are almost noiseless. If they bite, their toxin causes living flesh to blacken and die, leading to amputation if the poison isn't countered. People tend to scream when bit.",
+    "questions": "Were the centipedes brought in as guardians, or are they a local nuisance? There are many different breeds, how will you describe the appearance of yours? Do they have a nasty local nickname?",
+    "dangers": [
+      "When one attacks it releases a scent that enrages others nearby, so they tend to swarm.",
+      "They are excellent swimmers, and they hunt in bog-like areas under the surface."
+    ],
+    "remedies": [
+      "They are bright yellow and red, and hiss before striking, giving all the warning possible.",
+      "All the guardians and neighbors carry the antidote, the local apothecary knows what you need."
+    ]
+  },
+  {
+    "name": "Close-Knit Guard Network",
+    "category": "Twisted Guards",
+    "description": "Guards are only hired by referral. Failure results in punishment for both the guard and the sponsor. Their loyalty is tested many ways before and after they are hired.",
+    "questions": "Do they favor bastards of the employer? Are they connected to one military unit? Are they refugees from another place? Do they come from a single neighborhood? Does punishment extend to their families?",
+    "dangers": [
+      "They are connected to a larger sponsoring organization that would seek vengeance if they are attacked or insulted, and also offer them favors.",
+      "They speak in code and have passwords that include safewords and warnings."
+    ],
+    "remedies": [
+      "Nepotism has pulled in some really incompetent guards.",
+      "Endless drama from working with family and friends."
+    ]
+  },
+  {
+    "name": "Coldrooms",
+    "category": "Ghostly Guards",
+    "description": "The defended area is kept cold. Body heat registers like a plume of blood in the water. Ghosts flood living meat with cold, gorging on body heat, becoming more visible as their outlines swirl with life-blood.",
+    "questions": "Were they created by ritually starving victims to death in the defended space? Were they stolen from the site of a massive horrific disaster? Does a spirit trafficker maintain the wards on the space?",
+    "dangers": [
+      "A dead whisper leads them, countering defensive charms and magic, sniffing out breath even if heat is concealed, dueling any supernatural defense.",
+      "The guarded area is powerfully warded and underground where temperature is easy to maintain."
+    ],
+    "remedies": [
+      "The guarded area is vulnerable to weather conditions. It is sharp in the cold, but almost dormant in the heat.",
+      "A relatively simple spirit bane charm can keep them at bay if created in tune with the site."
+    ]
+  },
+  {
+    "name": "Collapsing Ceilings",
+    "category": "Traps",
+    "description": "If triggered, this trap drops a mass of stone. That seals off the threatened area, and crushes anyone tampering with its defenses.",
+    "questions": "Who put valuables behind a trap that could seal them away for good? How old is this defense, and who takes care of it? What warning signs tip off an intruder that continuing is dangerous?",
+    "dangers": [
+      "Hidden mechanisms can raise the block back up to the ceiling, so the trap can be reused (or defeated remotely.)",
+      "More than one block falls; the first one cuts off escape, then death seems inevitable."
+    ],
+    "remedies": [
+      "The stone dropped long ago. Site guardians or intruders have developed ways to climb over it or get past it. Other blocks may still be untriggered, but some of them are no longer dangerous.",
+      "More like a mine collapse, difficult to control and possible to tunnel past."
+    ]
+  },
+  {
+    "name": "Combination or Trick",
+    "category": "Traps",
+    "description": "Various portals and defenses of the site are protected by combination locks or riddles to solve. Lockpicks will not work against them, though finesse may solve them eventually.",
+    "questions": "Are there a series of combination locks expressing a religious or eccentric worldview? Are there picture arranging puzzles, or unusual \"keys\" to go in sculpture locks? Are the locks mechanical or supernatural?",
+    "dangers": [
+      "Powerful runic work or enslaved ghosts make the obstacle difficult to smash or trick—the right combination or object must be used to bypass it.",
+      "Clues and needed items are spread across a large estate, or multiple estates."
+    ],
+    "remedies": [
+      "The combination or solution to the puzzle is in a scholarly work, and can be found or bought ahead of time.",
+      "The solutions are painfully obvious to someone with the right upbringing and background."
+    ]
+  },
+  {
+    "name": "Compulsive Detail Focus",
+    "category": "Twisted Guards",
+    "description": "Only a certain type is hired; a type that checks every lock and every dark corner. Schedules are strict, thoroughness is a guarantee, and they seem unable to cut corners or skip steps. Everything regulation.",
+    "questions": "Are they altered to be like this, or just screened for a mindset? What are the detailed parts of the defended site that need this kind of attention? How does their gear reflect this fussy attention to detail?",
+    "dangers": [
+      "There are other elements of the defended site that require their focus, like a pattern of stepping over tiles to avoid triggering traps or complex combination locks or dozens of cells with dangerous prisoners.",
+      "They are trusted with specialty items like firearms or charms because they are responsible with them."
+    ],
+    "remedies": [
+      "Everyone knows that they fall apart if things deviate from the pattern, like distractions or chaos.",
+      "The locals pick on them when they are off duty, teasing them for their compulsions. They have enemies, and could use friends."
+    ]
+  },
+  {
+    "name": "Contact Needles",
+    "category": "Traps",
+    "description": "Small needles are worked into contact surfaces and poisoned, to deter intruders. They may be on doorknobs, seat backs or cushions, doorframes, stair treads, ledges, beds—anywhere, really.",
+    "questions": "Are the needles easily visible if you look for them, or camouflaged? Are they retractable if you know what you're doing? What kind of poison is on them? Will the victim sleep, freeze, die, or hallucinate?",
+    "dangers": [
+      "The needles are only corporeal to those who touch them without wearing a certain amulet. Important site guardians are immune to the needles.",
+      "Anything important or at an unguarded entry point is going to be festooned with needles."
+    ],
+    "remedies": [
+      "They are not well maintained. Many have snapped off, and few retain much poison.",
+      "They are only on the most important objects or the most useful trap objects (like a chair for guests.)"
+    ]
+  },
+  {
+    "name": "Convict Public Service",
+    "category": "Twisted Guards",
+    "description": "Due to prison overcrowding, some criminals are sentenced to indentured service to a noble to work off their debt to society. This site's guardian uses criminals as guards, under the stern eye of professionals.",
+    "questions": "Are casualties high due to danger from intruders or other site defenses? Is the patron benevolent and trying to rehabilitate criminals, or using them as disposable fodder? How do the convicts like this place?",
+    "dangers": [
+      "Serving here is a known post among criminals, both a resume builder and networking site. Angering these guards could bring consequences from unexpected directions in the criminal underworld.",
+      "Hand picked as the hardest and deadliest, these criminal guards are canny and tough."
+    ],
+    "remedies": [
+      "Convicts are eager to assist anyone with enough Coin or pull to secure their pardon and freedom.",
+      "The convicts are bullied and sullen, as much a hindrance to defenders as a defense themselves."
+    ]
+  },
+  {
+    "name": "Cursed Treasure",
+    "category": "Ghostly Guards",
+    "description": "Treasures are infused with a haunting spirit. Anyone touching the treasure will be cursed, dreaming the crimes of the ghost and attracting anger and distaste from strangers. Friends become uncomfortable and suspicious around the cursed scoundrel.",
+    "questions": "Were those sacrificed to make the haunts loyal, serving past death, or punished by undeath? Is the treasure marked as cursed?",
+    "dangers": [
+      "The haunting is so deadly that it drives most victims to suicide within a week. Resourceful scoundrels with access to spirit traffickers have days to somehow break the hold. Others are doomed.",
+      "Electroplasmic poisoning begins, and within a week the scoundrel will become a vampire."
+    ],
+    "remedies": [
+      "All the bad luck waiting in the wings (unfinished clocks from foes, poorly protected stashes, jilted lovers, false identities) go wrong in quick succession. Then the curse is over.",
+      "A competent occultist can break the curse as a down time project with a four segment clock."
+    ]
+  },
+  {
+    "name": "Darkrooms",
+    "category": "Ghostly Guards",
+    "description": "The defended area is dark. The ragged ghosts hate light. They shriek horribly as they attack light sources with slapping leathery hands, like bat wings. Intruders may glimpse their luminous fangs.",
+    "questions": "Were these ghosts placed here intentionally, or are they the result of some horror that left a print in the Ghost Field? Is this defense maintained, or passive?",
+    "dangers": [
+      "Another guardian lurks in the dark and takes advantage of the distraction to steal from intruders, perhaps killing them too.",
+      "The ghosts are aggressive, pushing intruders. Surroundings include long drops, spikes, mazes, or other hazards difficult to navigate in darkness."
+    ],
+    "remedies": [
+      "While annoying, they do no real damage, and forewarned scoundrels may prepare unbreakable light sources or supernatural dark vision.",
+      "There is enough ambient light to see."
+    ]
+  },
+  {
+    "name": "Dartus Weed",
+    "category": "Supernatural Plants",
+    "description": "When something moves near a tangled bank of dartus weed, the vines flex, flicking barbed tips towards the source of motion within arm's reach. The darts are paralytic; a target will pass out for about an hour.",
+    "questions": "Do they have a distinctive flower or smell? What is the aftertaste of the poison's effect?",
+    "dangers": [
+      "Hounds with chemically toughened hides patrol the weed banks, brutally killing intruders.",
+      "Weed banks are cultivated strategically, flanking important doorways or draped over arborwalks, straggling along verges."
+    ],
+    "remedies": [
+      "The weeds are young. Darts can be stopped with thick leather.",
+      "Weed banks are out of the way of defended valuables, but too close to very annoyed neighbors who may hold a grudge."
+    ]
+  },
+  {
+    "name": "Demonic Mutations",
+    "category": "Twisted Guards",
+    "description": "About a quarter of the guards have been mutated by contact with demonic essence. They are strong, and their senses are sharp.",
+    "questions": "Do they share one demon patron? Did they become guards to gain this power? Are they worshippers or mercenaries? Did they volunteer or are they victims? What element is their demonic affinity?",
+    "dangers": [
+      "They share a supernatural connection and can sense when other demonic guards are in trouble.",
+      "They are highly resistant to normal damage. They may be vulnerable to supernatural attacks or a specific allergy (silver, garlic, salt, etc.) Or, they may be resistant to supernatural attacks instead."
+    ],
+    "remedies": [
+      "They become physically impressive, but their minds are lost to incoherent lusts and fury.",
+      "The rest of the staff resent or fear the demonic guards. Loyalty and morale are low among mundane employees."
+    ]
+  },
+  {
+    "name": "Dreamspore Shrooms",
+    "category": "Supernatural Plants",
+    "description": "Placed on the ceiling, they drizzle sandy spores when they sense motion below. Victims hallucinate, heightening subconscious emotion (so they are very mellow, or super anxious, or filled with rage, etc.).",
+    "questions": "Were these intended to be a site defense? Did they instead serve a religious or recreational function? Are there special techniques for harvesting them, perhaps selling them to alchemists?",
+    "dangers": [
+      "A more intense strain, these can knock out those who succumb, and give them vivid dreams for several hours.",
+      "They are placed near other guardians as well as hazards like a steep drop or running water."
+    ],
+    "remedies": [
+      "Other guardians come here recreationally, their effectiveness reduced.",
+      "The spores are weak and easier to resist."
+    ]
+  },
+  {
+    "name": "Dynastic Hive",
+    "category": "Ghostly Guards",
+    "description": "Ancestors have been ritually infused into the defense site, it is a dynastic holding. The spirits are old, and insane, but strategically placed to act out their madness in the most damaging way.",
+    "questions": "Did the family get special permission to harbor ghosts? Do they have connections to limmers? Are spirits tied to leviathan bone shards? Are they moving pictures, or conversationalists with clues?",
+    "dangers": [
+      "The ghosts are legally protected, like landmarks or artwork. Damaging them is a serious crime.",
+      "Some of the more powerful or canny ghosts are still somewhat sane collaborators with the site owners."
+    ],
+    "remedies": [
+      "They are out of control, and few dare to enter the site now (or it is abandoned.)",
+      "They will not harm family members (but may not react well to hostages.)"
+    ]
+  },
+  {
+    "name": "Enchanted Prosthetics",
+    "category": "Twisted Guards",
+    "description": "Guards are all amputees with at least one prosthetic. Each prosthetic tunes to its owner. The prosthetics can stun on contact.",
+    "questions": "Are the false limbs the work of one genius? Are they part of a collection? Were they made for this use? Is a ghost bound to each? Are they scientific, with batteries? Are they powered by the bearer's life force?",
+    "dangers": [
+      "All guards have some adept training and spirit bane charms, alert against supernatural forces.",
+      "Veteran guards have learned to tune to their prosthetics to get an additional effect, like life detection or firing energy blasts."
+    ],
+    "remedies": [
+      "Only one use between recharges.",
+      "The guards are mostly old or broken, relying on reputation and supernatural energy to be effective."
+    ]
+  },
+  {
+    "name": "Excellent Locks",
+    "category": "Traps",
+    "description": "Beyond simple security, these locks are works of art. They are higher potency than they would normally be. Also, they are equipped with poison needle traps, or pick breakers, or redundancies.",
+    "questions": "Who put in these superior locks, and for what reason? Are the locks designed to defeat entry, or actively punish intruders? Do the specialized keys have a distinctive look, like two flanges? Is there a master key?",
+    "dangers": [
+      "Everything is locked, and all the locks are good. Somebody had a real lock problem.",
+      "The locks involve supernatural components, like hidden keyholes or paralyzing energy."
+    ],
+    "remedies": [
+      "The locks are in poor repair, of variable quality after indifferent maintenance and many intrusion attempts.",
+      "Very fancy locks, but they are padlocks, and bolt cutters can circumvent the problem."
+    ]
+  },
+  {
+    "name": "Feral Pen",
+    "category": "Twisted Guards",
+    "description": "Some areas of the defended site have free-range maniacs. Destitute and wretched beggars are treated as guard dogs, expected to attack intruders and draw attention to anything unusual.",
+    "questions": "Does the guarded site pretend to be charitable, or a madhouse, or a prison? What philosophy leads to treating people this way? How do the city authorities feel about the site? Religious authorities? Does the site feed into the Ghost Field in an unusual way?",
+    "dangers": [
+      "Most of the feral guards are killers, possibly haunted, and extremely dangerous.",
+      "This pet project is as much art and religion as defense, and has support from a variety of decadent aristocrats in positions of power."
+    ],
+    "remedies": [
+      "The rest of the site guards hate the feral pen and ignore it as best they can.",
+      "It is as much prison hospice as guard dog kennel. Its victims are weak, sick, and starving."
+    ]
+  },
+  {
+    "name": "Fighting School",
+    "category": "Twisted Guards",
+    "description": "An onsite training school focuses on the lifestyle and skill of a school of fighting. Site defenders are part of a group identity with specialty training.",
+    "questions": "Is the school's focus on dueling, a martial art, commando training, or something else? What is their crest, uniform, motto, and lore? What sort of training space do they have?",
+    "dangers": [
+      "The school itself is an impressive fortress or defense.",
+      "The school has an impressive alumni network that visits occasionally and would avenge wrongs to the honor of the school."
+    ],
+    "remedies": [
+      "This is an off-site shrine or expansion, where they send troublemakers and those they can't eject for political or financial reasons.",
+      "Leadership is riddled with rivalries and power struggles. Outsiders know some details."
+    ]
+  },
+  {
+    "name": "Floormesh",
+    "category": "Supernatural Plants",
+    "description": "Flat vines grow together to make flooring. Connected below is the bulb, covered in venomous spikes. Anyone heavier than a child will fall through. Blood and rot feed the floormesh.",
+    "questions": "Have site defenders put carpet over the flat vines to further hide the threat? What colors, textures, and patterns does this version have? How dangerous is the venom?",
+    "dangers": [
+      "The building's architecture assumes use of floormesh, the carpets are woven to look like floormesh so the guardians don't have to cover the actual pits.",
+      "The mesh itself has venomous thorns in it, so stepping on it or falling through poisons the target."
+    ],
+    "remedies": [
+      "The pit is not cleaned, the area near it stinks heavily of corpserot. The mesh sags visibly.",
+      "Floormesh is mostly hung like tapestries, living decorations, rather than forming pit traps."
+    ]
+  },
+  {
+    "name": "Ghost Crystal Topiary",
+    "category": "Supernatural Plants",
+    "description": "Ghost crystals are worked into the roots of fancifully trimmed bushes. Ghosts may be able to inhabit the bushes and make them move. This gardening curiosity can be weaponized.",
+    "questions": "Is this a currently maintained garden, or one that is overgrown and abandoned? Who provides the necessary skilled care to create or maintain the topiary? Is there a theme to the sculptures?",
+    "dangers": [
+      "Certain of the most powerful bushes can uproot and move around like living green golems driven by electroplasmic energy.",
+      "The bushes hardly move, but the powerful energies of the crystals make ghosts much more coherent and powerful in the garden."
+    ],
+    "remedies": [
+      "Left unprotected at one point, the garden was raided by thieves after the ghost crystals. Few crystals are left in the shaggy bushes.",
+      "Incompetent handling has drained most of the power from the crystals."
+    ]
+  },
+  {
+    "name": "Ghostport Lock",
+    "category": "Weird Tech",
+    "description": "Keys are tuned to locks that cannot be picked by normal means, or bypassed without whisper expertise. Their access point is in the Ghost Field until the key is present.",
+    "questions": "Are these locks modern scientific triumphs, or old arcane defenses? Does the key look like a key, or does it look like a missing decoration, or a gem? Is the key physical, or energy, like living blood of the right family?",
+    "dangers": [
+      "The locks are hidden and trapped. Messing with the lock could hollow the intruder (tearing the spirit out of the body) or other unpleasantness.",
+      "The precise location of the lock must be known, and it is not near what it is locking."
+    ],
+    "remedies": [
+      "The ghostport lock has been a fad several times in Duskvol. Each time, there was some mass production, and a key to a similar lock might work with a little help.",
+      "The owner may have stiffed a whisper locksmith on the fee, or otherwise offended the expert, who is knowledgeable and disgruntled."
+    ]
+  },
+  {
+    "name": "Great Cats",
+    "category": "Animal Guards",
+    "description": "One or more great cats slink through the shadows. They like to attack from high places. Their fur mottles to match the colors and tones and textures around them.",
+    "questions": "Did the current owners bring them in, or are they inherited from a previous owner? Do they stay on the estate, or go hunting in the local neighborhood?",
+    "dangers": [
+      "The cats are trained to alert guards (or wear charm jewelry to alert supernatural guardians) when they detect intruders with their keen senses.",
+      "Massive old trees draped with moss, or many ledges and overlooks, provide the cats cover."
+    ],
+    "remedies": [
+      "There is only one, with a regular feeding time and place.",
+      "The cats are well fed and lazy, mostly for show unless provoked."
+    ]
+  },
+  {
+    "name": "Hunting Ghostpack",
+    "category": "Ghostly Guards",
+    "description": "A group of weaponized ghosts haunts the defended area. They are capable of scouting to find intruders, descending on them with lethal force.",
+    "questions": "Do they appear as a pack with a mounted hunter, spectral hounds, and a ghostly horn call? Or an armored warband? Shapeless lethal electroplasmic stalkers? Are the wounds they inflict bloody cuts, or hard frostbite? Is their area surrounded with runes that let them see into the material world?",
+    "dangers": [
+      "The ghost leader feels all life force in its hunting ground, knowing its location.",
+      "The hunt can only rise when certain conditions like anniversaries, moon phases, etc. are met. However, they have a treasure that can only be taken from them when they manifest."
+    ],
+    "remedies": [
+      "The attack is purely psychological, killing with supernatural fear. The effect can be resisted.",
+      "They are summoned and directed by a command artifact like a hunting horn or special weapon. If someone else tunes to the weapon, control (and its obligations) may shift to a new bearer."
+    ]
+  },
+  {
+    "name": "Hunting Spiders",
+    "category": "Animal Guards",
+    "description": "These lightning-fast nightmares are about twenty pounds and three feet across, built like jumping spiders and loaded with paralytic venom.",
+    "questions": "Were these spiders bred for a decadent aristocrat, or warped to this impossible size by an insane whisper? Can they survive away from a spirit well? What noise do they make? How do they smell?",
+    "dangers": [
+      "They are mostly trained, their handler using a slide whistle to give orders to hunt, attack, withdraw, or guard.",
+      "The color of the stone, the shape of the underbrush, the leaf litter—everything matches the spider color scheme and hides its movement."
+    ],
+    "remedies": [
+      "Little lasting harm at first; paralyzed prey is dragged back to a lair and webbed up. You have a day or so to rescue the prey before the spider injects acid into the web bundle so it can drink its victim.",
+      "The poison is weak and easy to resist, requiring several successful bites to put a human down."
+    ]
+  },
+  {
+    "name": "Keenshrooms",
+    "category": "Supernatural Plants",
+    "description": "These fist-sized mushrooms let out a keening wail when light comes within about thirty feet.",
+    "questions": "What do they look like? Is their smell distinctive? Are they good eating?",
+    "dangers": [
+      "They are strategically placed to surprise intruders; inside doors, on ceilings, in alcoves, behind statues.",
+      "Masses of keenshrooms have been allowed to coat walls or fill rooms, and their keen is strong enough to deafen or kill."
+    ],
+    "remedies": [
+      "The keenshrooms were placed too close to trafficked paths inside or outside the defended site. Constant false alarms dull vigilance.",
+      "Too far from site defenders, their keens are seldom investigated."
+    ]
+  },
+  {
+    "name": "Lightning Walls",
+    "category": "Weird Tech",
+    "description": "Runic energy twisting technology can make pylons that project a curtain of energy between them. The glowing walls are transparent, but crippling to touch and lethal to pass through. They stop projectiles.",
+    "questions": "Does the site have the technology legally, or is it stolen? Maybe cobbled together from leftovers by a mad alchemist? Is it on all the time (expensive to fuel) or only if the alarm is raised? Where are the fuel cells kept?",
+    "dangers": [
+      "The equipment is properly installed, its vulnerable parts behind the energy curtain, directly guarding what needs protecting.",
+      "The lightning walls attract loose spirits, intruders may also have to contend with confused ghosts."
+    ],
+    "remedies": [
+      "The walls guard a few key access points, but there are multiple ways around.",
+      "The walls are installed poorly, so their machinery is vulnerable from the outside while it is on. If no other guards are present, they can be wrecked."
+    ]
+  },
+  {
+    "name": "Mastiff Pack",
+    "category": "Animal Guards",
+    "description": "A pack of mastiffs have run of the guarded area when it is not in more public use. They only respond to their masters, who have special tunics, whistles, and gloves. They kill anyone or anything else.",
+    "questions": "What is their heraldry? How many mastiffs are in the pack? Are they trained well enough to ignore poisoned meat or live animal distractions?",
+    "dangers": [
+      "Each one is precious to the site owner, who will tirelessly seek vengeance if they are hurt.",
+      "The pack masters are elite veterans with firearms and excellent tracking and hunting skills."
+    ],
+    "remedies": [
+      "Their trainers abused them badly in training them to attack. They will turn on their handlers if the handlers lose their special tunics, whistles, and gloves.",
+      "They aren't really mastiffs, they are just big rangy dogs. They mostly run around on their own, their handlers are usually drunk."
+    ]
+  },
+  {
+    "name": "Murder Holes",
+    "category": "Traps",
+    "description": "Intruders go past one door, into a hallway or small room, and the door closes behind them. Arrow slits open in the walls, and slots in the ceiling allow boiling oil to be poured down. Intruders are trapped and vulnerable. These are often in doors through defenses.",
+    "questions": "Was the original site builder often under siege? Are the murder holes obvious or concealed?",
+    "dangers": [
+      "Murder holes are automated with self-slamming doors and pre-boiling oil, so a few defenders can trap and/or kill many intruders.",
+      "The whole layout is built with many murder hole areas to deter invasion."
+    ],
+    "remedies": [
+      "The walls are wooden, and determined captives can break through to face their attackers.",
+      "This area does not have enough staff to monitor intruders and make best use of murder holes."
+    ]
+  },
+  {
+    "name": "Murder Tree",
+    "category": "Supernatural Plants",
+    "description": "The willow tree grew around bones wired to it, spirit crystals studded in its bark, and leviathan blood at its roots. It is dimly self-aware. It senses and hates life, whipping and clubbing any who approach.",
+    "questions": "How do guardians move around the tree? Suggestions include knowing passwords, having enchanted amulets, or attuning to its blind spots. How many guard the site? Who had the expertise to cultivate this living weapon, how long ago?",
+    "dangers": [
+      "The chorus of semi-aware spirits that fuel the tree are enslaved by one domineering will. The tree is as coherent as a person.",
+      "Multiple murder trees are connected by roots and share knowledge with each other (and any other site guardians.)"
+    ],
+    "remedies": [
+      "No one can communicate with the murder tree, or control it, so it is isolated from other defenses.",
+      "The tree sleeps most of the time, and it is difficult to rouse it to fighting fury."
+    ]
+  },
+  {
+    "name": "Panopticon",
+    "category": "Weird Tech",
+    "description": "Special crystal lenses transmit their sight through the Ghost Field to mirrors in a central location. From one place, a guardian can monitor views all over the defended site.",
+    "questions": "Is this new industrial alchemical technology, or an ancient enchanted construction? Does the current owner know how to get the most functionality out of it? Who maintains the system?",
+    "dangers": [
+      "The lenses are hidden in mirror frames, statues, and other decor. They are difficult to spot.",
+      "The lenses can see into the Ghost Field as well, observing ghosts or occult work, and life force."
+    ],
+    "remedies": [
+      "The guardians watching the mirrors are somewhat lax.",
+      "Over time, many lenses have not been replaced or repaired. Views are limited."
+    ]
+  },
+  {
+    "name": "Performance Enhancers",
+    "category": "Twisted Guards",
+    "description": "Guards have ready access to drugs. Some of the drugs enhance performance.",
+    "questions": "Do the drugs give them a burst of combat effectiveness? Are the drugs recreational, making them popular with a customer base that pays well and owes favors? Who provides them with drugs?",
+    "dangers": [
+      "As dealers, the guards are difficult to bribe or intimidate, as they have money and prestige.",
+      "Guards can medicate flexibly, with concoctions to enhance perception (even to see the supernatural,) gain combat prowess, or heal."
+    ],
+    "remedies": [
+      "Their peddling of illegal drugs has made enemies among bluecoats and inspectors.",
+      "The guards are junkies. Their employer uses addiction to control them, keeping them near the edge. They are often distractible or unconscious."
+    ]
+  },
+  {
+    "name": "Pit Traps",
+    "category": "Traps",
+    "description": "The defended site has pit traps in strategic places. They are between 10 and 40 feet deep.",
+    "questions": "Do they have slick sides? Are there spikes at the bottom? Are the covers mechanized, or flimsy boards and carpets, grass turf, or leaves over canvas? Are the sides stone, earth, or clay?",
+    "dangers": [
+      "Fist sized tunnels connect pits. Predatory creatures (crabs, snakes, spiders, rats) scurry to devour victims.",
+      "Once someone falls into the pit the covers close again, and will not open until unlocked."
+    ],
+    "remedies": [
+      "The pits drop into a lower area, mostly abandoned except for predators. It is possible to find a way out.",
+      "The pits are mostly open and filled with junk."
+    ]
+  },
+  {
+    "name": "Possession Gate",
+    "category": "Ghostly Guards",
+    "description": "If an intruder breaks a clearly marked seal, the intruder is attacked by a possessing spirit that takes on the traits of the most strong-willed, brutal person the seal-breaker ever killed. The possessing spirit and the seal-breaker struggle for control. This counts as a harm.",
+    "questions": "Is the possessing spirit a ghost, or a shape-shifting construct made by an expert that makes a shape out of something in the target? If an innocent triggers the trap, what form does the spirit take then?",
+    "dangers": [
+      "The only way to be free is to die, undergo electroplasmic surgery while dead, and be revived. Otherwise the curse is protected by the victim's life force.",
+      "The haunting spirit tries to take possession once a day or so, sending the host into a blackout and acting out vicious crimes against allies, loved ones, and bluecoats."
+    ],
+    "remedies": [
+      "The condition can be reduced with a resist roll, but still is likely a 6 segment clock to clear.",
+      "The curse haunt would rather have a host ally than kill its victim, and may bargain for shared control."
+    ]
+  },
+  {
+    "name": "Retractable Spikes",
+    "category": "Traps",
+    "description": "Spring-loaded spears or racks of spears launch at intruders. They can come from the side, behind, ahead, below, or above.",
+    "questions": "Are the defenses standardized to protect guardians, or random to confuse intruders? Are they in an area that site defenders use, or in an isolated off-limits area? How long have they been in use, and how often are they maintained?",
+    "dangers": [
+      "After doing their killing work, they retract, and the launch points are not obvious.",
+      "The spears are slathered with some toxin, further affecting the victim."
+    ],
+    "remedies": [
+      "The mechanisms are not well maintained. Sometimes they don't work, and when they do, there is a screech and they are a bit slow.",
+      "The spears are designed to pin an intruder in place, to be interrogated and punished, rather than to kill outright."
+    ]
+  },
+  {
+    "name": "Secret Doors & Spyholes",
+    "category": "Traps",
+    "description": "Guardians are well trained in the use of numerous secret doors and hidden passages with spyholes. They can attack from unexpected directions, escape without a trace, and watch intruders unobserved.",
+    "questions": "Was this site built by a spy, or a cult, or a paranoid aristocrat? Are there consistent tells, a code built into the decor and architecture, or must all secrets be known individually?",
+    "dangers": [
+      "Ongoing rearrangement and construction means old information from plans or people ages out fast.",
+      "Supernatural locks and keys mean that triggers and spyholes and seams may not be visible in the material world at all."
+    ],
+    "remedies": [
+      "Frequent use has made secret doors easier to spot. Poor baffling of lights may reveal spyholes in use.",
+      "Current residents are only aware of some secrets; intruders may use back ways to elude security."
+    ]
+  },
+  {
+    "name": "Shadow Lanterns",
+    "category": "Weird Tech",
+    "description": "Guards are equipped with lanterns that detect shadows of recent life force as well as shedding light.",
+    "questions": "Are the lanterns traditional lantern shape, or a glowing ball, or something else? Does an expert keep the guardians supplied, or is their supply jealously guarded? Does it cost the guards something to activate the lanterns? Will the lanterns work if taken off-site?",
+    "dangers": [
+      "Guards are trained to tune into the life force energy to also hear conversations of the life shadows. Guards can tune into the life force energy to know the owner's current location, if in the defended area.",
+      "Untended lanterns can be set to transmit detection of a life force to a nearby guardian."
+    ],
+    "remedies": [
+      "The lanterns can be rendered blind by properly tuning a spiritbane charm while near one.",
+      "Every sunrise wipes all traces of past life forces, and they only work at night."
+    ]
+  },
+  {
+    "name": "Shadow Rooms",
+    "category": "Weird Tech",
+    "description": "The Ghost Field sometimes remembers rooms or entire neighborhoods that no longer exist in the material world. Some defended sites hide treasures in these spaces that can only be accessed if you know how.",
+    "questions": "How are colors different in these shadow rooms? Is there a smell or sound that lingers? How does it feel to step out of the material world? What natural laws work differently here, like fire not flickering?",
+    "dangers": [
+      "The access point to the shadow rooms is an enchanted lock, its location is known and guarded.",
+      "The shadow rooms are only connected to the material world a few times a year, or less."
+    ],
+    "remedies": [
+      "Transitioning from the material world to the shadow rooms involves certain proscribed movements; cross the courtyard three times, then back down stairs with eyes closed (for example.) Too many people know the formula.",
+      "The current site owners do not know these rooms exist."
+    ]
+  },
+  {
+    "name": "Shock Grips",
+    "category": "Traps",
+    "description": "One or more contact points are connected to energy so they will badly shock anyone who touches them. These could be doorknobs, chest lids, floor plates, ladders, and so on.",
+    "questions": "Are they powered by batteries or enslaved ghosts? Does the site have legal permission to use them? How loud is the shock? How do site guardians avoid getting shocked?",
+    "dangers": [
+      "The shock grips are numerous and concealed, connected to their energy source through the Ghost Field.",
+      "The shock is designed to stop the heart and kill the victim (possibly setting hair on fire.)"
+    ],
+    "remedies": [
+      "The shock grips are connected to control boxes and energy sources by cables.",
+      "Shock grips are marked by a rune, and shiny, and also give out a palpable hum of energy. They are easy to detect."
+    ]
+  },
+  {
+    "name": "Snatchweed",
+    "category": "Supernatural Plants",
+    "description": "It grows in fresh water, lengthening its long winding tendrils almost to the surface. When touched, it snatches and pulls, coiling down to the bottom and holding for a few minutes before relaxing back up.",
+    "questions": "Is their growth boosted supernaturally, and can you see faces reflecting from the Ghost Field beneath their fronds? Are the locals aware of the threat, willing to talk about it?",
+    "dangers": [
+      "Snatchweed is cultivated in areas where intruders must enter the water to get past other obstacles.",
+      "The bottom of the water has two foot spikes, victims are pulled down onto them."
+    ],
+    "remedies": [
+      "A sign warns of the hazard, as required by law.",
+      "This particular breed of snatchweed recoils from salt; put enough on the surface and tendrils recoil."
+    ]
+  },
+  {
+    "name": "Spirit-Infused Art",
+    "category": "Ghostly Guards",
+    "description": "Art works are haunted by spirits that are capable of spying. They observe their area, and may be able to murmur about what they see to a guardian.",
+    "questions": "Was art repurposed to host spirits, or was it created for them and around them? Is the art mosaics, portraits, statues, or some other form? How sane and coherent are the spirits? How loyal are they? Do they have the power to attack intruders?",
+    "dangers": [
+      "One or more guardians has a signet ring tuned to the haunted art pieces, and can hear what they whisper as they spy.",
+      "The ghosts inhabiting the art can move from one piece to another, following intruders or retreating to report."
+    ],
+    "remedies": [
+      "One spirit per art piece, and each spirit has its own unbalanced personality.",
+      "Unhinged art is violent, so it has to be shrouded or restrained when guardians go through the defended area."
+    ]
+  },
+  {
+    "name": "Starving Fog",
+    "category": "Ghostly Guards",
+    "description": "The guarded area is in a clinging cold fog. Fog draws energy from those breathing in it until it manifests shadows that increase target fear, which feeds it more. Eventually it can manifest a killing shape.",
+    "questions": "What do intruders in the fog see when it reflects their fears? Are there sound effects, smells, and sounds, or just fleeting glimpses and silhouettes? Does it project hallucinations or trigger memories?",
+    "dangers": [
+      "The fog strengthens the Ghost Field, making ghosts within it more powerful.",
+      "The fog can move, summoned or controlled by other guardians to provide backup or help search."
+    ],
+    "remedies": [
+      "The fog is generated by an artifact. If the artifact is neutralized so is the fog.",
+      "Those with the proper energy keyed amulet or other trinket are invisible to the fog."
+    ]
+  },
+  {
+    "name": "Sweat Nectar",
+    "category": "Ghostly Guards",
+    "description": "The defended area is kept hot. Sweat tastes like nectar to swarming ghosts, who dehydrate targets into mummies. The stolen life force and moisture flows to prepared corpses, so ghosts can ride them again.",
+    "questions": "Were they created by dehydrating sacrifices to death in the defended space? Were they gathered from outside the lightning walls to stand guard here? Does a spirit trafficker maintain the wards on the space?",
+    "dangers": [
+      "Many prepared corpses are stashed in unexpected places, bursting into combat when rejuvenated.",
+      "Once they rise, the desiccated spirit-ridden corpses will chase intruders until they can't."
+    ],
+    "remedies": [
+      "Only a few corpses are left to revive.",
+      "The site is difficult to keep hot enough to extract the necessary sweat from intruders."
+    ]
+  },
+  {
+    "name": "Thirstclimber",
+    "category": "Supernatural Plants",
+    "description": "The vines are red, and when flesh touches them (even through leather) the vine draws blood to the surface in alarming quantities. The vines are slippery, and almost impossible to grasp with wet hands.",
+    "questions": "Are the vines clearly visible to those who can see in the Ghost Field? Do the vines cause damage that must be healed, or does the blood only flow when they are nearby?",
+    "dangers": [
+      "The site has guard creatures that track by scent and are drawn to attack things that smell bloody.",
+      "Thirstclimber is cultivated at the mid-point of a really difficult climb."
+    ],
+    "remedies": [
+      "Annoyed locals keep it trimmed back on outside walls periodically in spite of the guardian's threats.",
+      "Guards know the ingredients to make a special paste, and the symbol to paint on skin with it, to protect from the plant's effects. A former guard might share the secret."
+    ]
+  },
+  {
+    "name": "Thirsty Thorns",
+    "category": "Supernatural Plants",
+    "description": "Strategically placed thornbushes grow on walls and serve as decorations. They live on blood. They only flower if something dies on them; the bigger the life, the more impressive the bloom.",
+    "questions": "Do they feed on radiant light? Are they along the interior walls, lining the walks, and climbing walls outside? Are there thorns inside, along windows or protecting secret doors?",
+    "dangers": [
+      "The thorns are poisonous, inflicting some condition on those who fail to resist. Possibilities include sleep, death by choking, blinding blood from the eyes, or paralysis.",
+      "The thorns are considered a gardening achievement, with some fame and support as local culture."
+    ],
+    "remedies": [
+      "A custom amulet tuned to their life energy turns the thorns away, allowing its bearer to push through them unharmed. A site defender may have one, or one could be made.",
+      "They are old and brittle, dying by inches and neglected."
+    ]
+  },
+  {
+    "name": "Venomous Snakes",
+    "category": "Animal Guards",
+    "description": "Venomous snakes have lairs prepared for them in the guarded area.",
+    "questions": "How fast acting is their venom? How aggressive are they? Is their hide camouflage for hunting, or bright to warn away predators? Are there only a few big ones, or many small snakes? Do the site guardians feed them, or can they find enough vermin on their own?",
+    "dangers": [
+      "Knee-deep plants and elevation shifts intentionally make it difficult to see snakes.",
+      "Other guardians have a side business in selling venom and meat and hides. They have venom blowdarts and poisoned daggers."
+    ],
+    "remedies": [
+      "The snakes dislike a certain whistle tone. Let out a blast occasionally and they'll stay away.",
+      "A former employee knows how guardians got around the site with minimal risk of snakes."
+    ]
+  },
+  {
+    "name": "Vine Curtains",
+    "category": "Supernatural Plants",
+    "description": "Curtains of vines connect back to a radiant root that has grown semi-aware, fed on rogue spirits. If touched, the vines slither and writhe to entangle, hoist, and bundle the target for a guardian to find.",
+    "questions": "What do the vines look like? Do they use their scent to attract or repel? Where is the root relative to the curtain?",
+    "dangers": [
+      "Many curtains and roots of different sizes (some quite big) connect back to a central bulb somewhere in the defense site.",
+      "The vines also have a contact poison that makes their target go limp for 10-60 minutes."
+    ],
+    "remedies": [
+      "The site owner does not have legal permission to have the vine curtains, so they are only used inside.",
+      "The vine curtains grow wild and the lazy site owner does not keep them trimmed back, so other guards must stay away from them."
+    ]
+  },
+  {
+    "name": "Zealots",
+    "category": "Twisted Guards",
+    "description": "Guards share a religion that binds them together and makes them resistant to intimidation or corruption.",
+    "questions": "Do they worship one of the Forgotten Gods? The Church of the Ecstasy of the Flesh? Weeping Lady? Path of Echoes? Have they sworn oaths? What does religion require them to hate, or to love?",
+    "dangers": [
+      "The defended site includes a shrine or temple. Violating the site angers offended worshippers.",
+      "Serving as a site guardian is part of a religious duty. Unexpectedly seasoned warriors or important people may serve as lowly guards for a time."
+    ],
+    "remedies": [
+      "Mandatory prayer times, unclean objects or places left uninspected, and restricted areas may create holes in security.",
+      "Enemies of their religion may offer help to embarrass, discredit, or injure the zealots."
+    ]
+  }
+]
