@@ -1,11 +1,12 @@
 {
-  "_id": "DealHeistHand001",
+  "_id": "TX8yLNKIhj2Ynt4a",
   "name": "Deal the Heist Hand",
   "type": "script",
   "scope": "global",
-  "author": "",
+  "author": null,
   "img": "icons/svg/dice-target.svg",
   "command": "// Deal the Heist Hand\n// First run: imports the three deck tables from the Heist Deck compendium.\n// Every run: draws 3 Obstacles, 1 Treasure, 2 People — never repeating a card.\n// To start fresh: open each world table, click Reset, then run again.\n\nconst MODULE_ID = \"heist-deck-compendium\";\n\nasync function ensureTable(name) {\n  const good = game.tables.find(t =>\n    t.getFlag(MODULE_ID, \"deck\") === name &&\n    t.results.contents[0]?.documentUuid\n  );\n  if (good) return good;\n\n  for (const t of game.tables.filter(t => t.getFlag(MODULE_ID, \"deck\") === name))\n    await t.delete();\n\n  const pack = game.packs.get(`${MODULE_ID}.heist-tables`);\n  if (!pack) throw new Error(\"Heist Deck module not found or not enabled.\");\n  const idx = await pack.getIndex();\n  const entry = idx.find(e => e.name === name);\n  if (!entry) throw new Error(`Table '${name}' not found in compendium.`);\n\n  const table = await game.tables.importFromCompendium(pack, entry._id);\n  await table.setFlag(MODULE_ID, \"deck\", name);\n  return table;\n}\n\nasync function drawN(table, n) {\n  const results = [];\n  for (let i = 0; i < n; i++) {\n    const { results: drawn } = await table.draw({ displayChat: false });\n    if (!drawn.length) break;\n    results.push(...drawn.filter(Boolean));\n  }\n  return results;\n}\n\nfunction cardLink(result) {\n  const label = result.name ?? result.text ?? \"Unknown\";\n  return result.documentUuid ? `@UUID[${result.documentUuid}]{${label}}` : label;\n}\n\nfunction rows(label, results) {\n  if (!results.length)\n    return `<p><b>${label}:</b> <em>deck empty — reset the table to draw more</em></p>`;\n  return results.map(r => `<p><b>${label}:</b> ${cardLink(r)}</p>`).join(\"\\n\");\n}\n\nconst obstacles = await ensureTable(\"Obstacles\");\nconst treasures = await ensureTable(\"Treasures\");\nconst people    = await ensureTable(\"People\");\n\nconst content = [\n  \"<h3>Heist Hand</h3>\",\n  rows(\"Obstacle\", await drawN(obstacles, 3)),\n  rows(\"Treasure\", await drawN(treasures, 1)),\n  rows(\"People\",   await drawN(people, 2)),\n].join(\"\\n\");\n\nChatMessage.create({ content, speaker: { alias: \"Heist Deck\" } });",
+  "folder": null,
   "ownership": { "default": 0 },
   "flags": {}
 }
