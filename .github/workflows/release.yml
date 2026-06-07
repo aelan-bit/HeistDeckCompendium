@@ -24,7 +24,7 @@ jobs:
         run: node scripts/pack.mjs
 
       - name: Zip module
-        run: zip -r module.zip module.json packs/people packs/treasures packs/obstacles packs/heist-tables
+        run: zip -r module.zip module.json packs/people packs/treasures packs/obstacles packs/heist-tables packs/heist-macros
 
       - name: Upload release assets
         uses: ncipollo/release-action@v1
