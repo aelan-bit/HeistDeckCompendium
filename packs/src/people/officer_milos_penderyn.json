@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Corrupt Bailiff, City Law</strong></p><p>Milos has access to trial evidence, and to prisoners awaiting trial. He can't get people out, but he can silence them. He has a network of corrupt peers, judges, bluecoats, and others so he can trade favors to accomplish the impossible. Huge and greasy, he is built like a bull and he enjoys the scent of fear.</p><p><em>Controlling Milos could mean protecting or killing someone in bluecoat custody. An endless stream of people want revenge on him, and a more select group would like to control or use him.</em></p>"
+    "description_short": "Corrupt Bailiff",
+    "associated_crew_type": "City Law",
+    "description": "<p>Milos has access to trial evidence, and to prisoners awaiting trial. He can't get people out, but he can silence them. He has a network of corrupt peers, judges, bluecoats, and others so he can trade favors to accomplish the impossible. Huge and greasy, he is built like a bull and he enjoys the scent of fear.</p><p><em>Controlling Milos could mean protecting or killing someone in bluecoat custody. An endless stream of people want revenge on him, and a more select group would like to control or use him.</em></p>"
   },
   "ownership": {
     "default": 0

@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Lecherous Leech, Underworld</strong></p><p>Doc can keep life in you if you're alive (or recently dead) when you get to him. His extreme methods are often horrifying. Still, his concoctions can crush ghosts, re-attach limbs, and more. The Crows, a tough crew, protect him. They give him victims for his \"needs,\" which are emotional, physical, and scientific.</p><p><em>Sometimes the Crows hire outsiders to go after rare components or victims for Doc. He has many, many enemies who want to either steal him and force him to serve them, or punish him.</em></p>"
+    "description_short": "Lecherous Leech",
+    "associated_crew_type": "Underworld",
+    "description": "<p>Doc can keep life in you if you're alive (or recently dead) when you get to him. His extreme methods are often horrifying. Still, his concoctions can crush ghosts, re-attach limbs, and more. The Crows, a tough crew, protect him. They give him victims for his \"needs,\" which are emotional, physical, and scientific.</p><p><em>Sometimes the Crows hire outsiders to go after rare components or victims for Doc. He has many, many enemies who want to either steal him and force him to serve them, or punish him.</em></p>"
   },
   "ownership": {
     "default": 0

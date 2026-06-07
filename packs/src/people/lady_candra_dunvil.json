@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Corrupt Fixer, Old Money</strong></p><p>Her family built Ironhook Prison. Her wealth is built on generations of shady deals with incarcerated aristocrats and business owners. She sees the world as a rigged game and has contempt for anyone who finds corruption shocking or fixable. She is vain, practical, and ruthless.</p><p><em>She hires outsiders to carry out promises she made to inmates. Her family has casually wrecked reputations and lives over centuries, and that leaves a trail of vengeance seekers.</em></p>"
+    "description_short": "Corrupt Fixer",
+    "associated_crew_type": "Old Money",
+    "description": "<p>Her family built Ironhook Prison. Her wealth is built on generations of shady deals with incarcerated aristocrats and business owners. She sees the world as a rigged game and has contempt for anyone who finds corruption shocking or fixable. She is vain, practical, and ruthless.</p><p><em>She hires outsiders to carry out promises she made to inmates. Her family has casually wrecked reputations and lives over centuries, and that leaves a trail of vengeance seekers.</em></p>"
   },
   "ownership": {
     "default": 0

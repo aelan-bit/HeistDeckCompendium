@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Hardened Industrialist, Old Money</strong></p><p>His family has controlled the docks for many generations. They quietly destroy competition, and get lucrative city contracts to re-develop blighted areas if the money slows down. Graceful, educated, and pleasant, he is ruthless as barbed steel under a cultured veneer. He is proud of his estate's gardens.</p><p><em>Competition doesn't like being crippled. He often hires outsiders for the dirtiest work, and his victims often hire outsiders to get revenge.</em></p>"
+    "description_short": "Hardened Industrialist",
+    "associated_crew_type": "Old Money",
+    "description": "<p>His family has controlled the docks for many generations. They quietly destroy competition, and get lucrative city contracts to re-develop blighted areas if the money slows down. Graceful, educated, and pleasant, he is ruthless as barbed steel under a cultured veneer. He is proud of his estate's gardens.</p><p><em>Competition doesn't like being crippled. He often hires outsiders for the dirtiest work, and his victims often hire outsiders to get revenge.</em></p>"
   },
   "ownership": {
     "default": 0

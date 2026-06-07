@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Exotic Fence, Underworld</strong></p><p>He drapes his python, Delgraaz, around his neck. He wears a turban with a jewel on it. He is willing to buy almost anything, no matter how strange. He also knows what you need, sometimes before you know you need it. His bazaar unfurls below the Kennington market in an abandoned gondola dock.</p><p><em>He pays people to get things for him, then sells them at tremendously inflated prices to those desperate to have them. This can cause hurt feelings among the desperate.</em></p>"
+    "description_short": "Exotic Fence",
+    "associated_crew_type": "Underworld",
+    "description": "<p>He drapes his python, Delgraaz, around his neck. He wears a turban with a jewel on it. He is willing to buy almost anything, no matter how strange. He also knows what you need, sometimes before you know you need it. His bazaar unfurls below the Kennington market in an abandoned gondola dock.</p><p><em>He pays people to get things for him, then sells them at tremendously inflated prices to those desperate to have them. This can cause hurt feelings among the desperate.</em></p>"
   },
   "ownership": {
     "default": 0

@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Fashionable Whisper, New Money</strong></p><p>Her exotic looks, tattoos, and bright green eyes draw attention. She popularized thigh-high buckled leather boots and spirit bane chokers. Her opinions echo in drawing rooms across the city. People enjoy her feud with the Church of the Ecstasy of the Flesh.</p><p><em>Wealthy figures in the fashion world pay top coin for sneak peeks at her clothing designs. Her opinions inflame many enemies—especially the Church. She hires outsiders to get rare components for her rituals.</em></p>"
+    "description_short": "Fashionable Whisper",
+    "associated_crew_type": "New Money",
+    "description": "<p>Her exotic looks, tattoos, and bright green eyes draw attention. She popularized thigh-high buckled leather boots and spirit bane chokers. Her opinions echo in drawing rooms across the city. People enjoy her feud with the Church of the Ecstasy of the Flesh.</p><p><em>Wealthy figures in the fashion world pay top coin for sneak peeks at her clothing designs. Her opinions inflame many enemies—especially the Church. She hires outsiders to get rare components for her rituals.</em></p>"
   },
   "ownership": {
     "default": 0

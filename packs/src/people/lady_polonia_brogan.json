@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Desirable Dowry, Old Money</strong></p><p>She's ugly, smelly, stupid, and rude — and also the key to the Brogan fortune. Her lucky spouse will have access to massive wealth and infrastructure among professional builders and shipwrights of Duskvol. Only her aunt, Cecilia Durwithe, looks out for her best interests with sharp disapproval.</p><p><em>Brogan hires outsiders to punish those who slight her, or to investigate potential partners. She collects fake wills rogues have planted during assassination attempts, trying to leave her fortune to usurpers.</em></p>"
+    "description_short": "Desirable Dowry",
+    "associated_crew_type": "Old Money",
+    "description": "<p>She's ugly, smelly, stupid, and rude — and also the key to the Brogan fortune. Her lucky spouse will have access to massive wealth and infrastructure among professional builders and shipwrights of Duskvol. Only her aunt, Cecilia Durwithe, looks out for her best interests with sharp disapproval.</p><p><em>Brogan hires outsiders to punish those who slight her, or to investigate potential partners. She collects fake wills rogues have planted during assassination attempts, trying to leave her fortune to usurpers.</em></p>"
   },
   "ownership": {
     "default": 0

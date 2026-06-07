@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Hazy Art Patron, Old Money</strong></p><p>Thena is one of the least emotionally scarred survivors in her weird family. She is a leading light in the art world. She is patron to many artists and her criticism and evaluation drives a significant element of Duskvol's art scene. Whispers have noted she has an unusual connection to the Ghost Field.</p><p><em>Sometimes she hires outsiders to sort out one of her artists' problems. She has a private gallery that she updates with her current trending tastes—those in the art market need to know what's in it.</em></p>"
+    "description_short": "Hazy Art Patron",
+    "associated_crew_type": "Old Money",
+    "description": "<p>Thena is one of the least emotionally scarred survivors in her weird family. She is a leading light in the art world. She is patron to many artists and her criticism and evaluation drives a significant element of Duskvol's art scene. Whispers have noted she has an unusual connection to the Ghost Field.</p><p><em>Sometimes she hires outsiders to sort out one of her artists' problems. She has a private gallery that she updates with her current trending tastes—those in the art market need to know what's in it.</em></p>"
   },
   "ownership": {
     "default": 0

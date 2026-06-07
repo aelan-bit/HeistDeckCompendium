@@ -99,13 +99,16 @@ function generatePeople(entries) {
   for (const r of entries) {
     const id = stableId('people:' + r.name);
     ids[r.name] = id;
+    const [shortDesc, crewType = ''] = r.category.split(',').map(s => s.trim());
     const doc = {
       _id: id,
       name: r.name,
       type: 'npc',
       img: 'icons/svg/mystery-man.svg',
       system: {
-        notes: buildPersonHtml(r),
+        description_short: shortDesc,
+        associated_crew_type: crewType,
+        description: `<p>${r.description}</p><p><em>${r.questions}</em></p>`,
       },
       ownership: { default: 0 },
       flags: { 'heist-deck': { category: r.category } },

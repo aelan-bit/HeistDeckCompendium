@@ -4,7 +4,9 @@
   "type": "npc",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "notes": "<p><strong>Feminist Vigilante, Underworld</strong></p><p>She is a legend in the Seven Shallows neighborhood. She attacks men who abuse women. She survives because she has friends—a few bluecoats, a gang of thugs, and a grateful public. She carefully plans attacks to hurt abusers.</p><p><em>If her victims abuse again, they are mutilated, packed like luggage, and shipped out of town. Many powerful men would pay for revenge on Jemma. Sometimes she hires outsiders to help out.</em></p>"
+    "description_short": "Feminist Vigilante",
+    "associated_crew_type": "Underworld",
+    "description": "<p>She is a legend in the Seven Shallows neighborhood. She attacks men who abuse women. She survives because she has friends—a few bluecoats, a gang of thugs, and a grateful public. She carefully plans attacks to hurt abusers.</p><p><em>If her victims abuse again, they are mutilated, packed like luggage, and shipped out of town. Many powerful men would pay for revenge on Jemma. Sometimes she hires outsiders to help out.</em></p>"
   },
   "ownership": {
     "default": 0
