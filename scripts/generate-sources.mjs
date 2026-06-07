@@ -19,7 +19,6 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT   = path.resolve(__dirname, '..');
-const PARENT = path.resolve(ROOT, '..');
 const DATA   = path.join(ROOT, 'data');
 const SRC    = path.join(ROOT, 'packs', 'src');
 const MODULE_ID = 'heist-deck-compendium';
@@ -61,31 +60,6 @@ function writeDoc(dir, filename, doc) {
 
 function safeName(name) {
   return name.replace(/[^a-zA-Z0-9-_]/g, '_').replace(/_+/g, '_').toLowerCase();
-}
-
-// ---------------------------------------------------------------------------
-// HTML reconstruction
-// ---------------------------------------------------------------------------
-function buildPersonHtml(r) {
-  return [
-    `<p><strong>${r.category}</strong></p>`,
-    `<p>${r.description}</p>`,
-    `<p><em>${r.questions}</em></p>`,
-  ].join('');
-}
-
-function buildObstacleHtml(r) {
-  const dangerLines = r.dangers.map(d => `<p>${d}</p>`).join('');
-  const remedyLines = r.remedies.map(rem => `<p>${rem}</p>`).join('');
-  return [
-    `<p><strong>${r.category}</strong></p>`,
-    `<p>${r.description}</p>`,
-    `<p><em>${r.questions}</em></p>`,
-    `<p><strong>Dangers</strong></p>`,
-    dangerLines,
-    `<p><strong>Remedies</strong></p>`,
-    remedyLines,
-  ].join('');
 }
 
 // ---------------------------------------------------------------------------
@@ -179,7 +153,7 @@ function generateTables(tableDefs) {
   const tablesDir = path.join(SRC, 'heist-tables');
   ensureDir(tablesDir);
 
-  for (const { entries, ids, packName, meta, buildHtml } of tableDefs) {
+  for (const { entries, ids, packName, meta } of tableDefs) {
     const tableId = stableId('table:' + meta.name);
 
     // Compendium-linked table (references Actor/Item docs by UUID)
@@ -208,40 +182,9 @@ function generateTables(tableDefs) {
       flags: {},
     });
 
-    // Legacy text-based table for direct Foundry RollTable import
-    const legacyResults = entries.map((r, i) => ({
-      type: 'text',
-      weight: 1,
-      range: [i + 1, i + 1],
-      name: r.name,
-      img: 'icons/svg/d20-black.svg',
-      description: buildHtml(r),
-      drawn: false,
-      flags: {},
-      documentUuid: null,
-    }));
-
-    const legacyTable = {
-      name: meta.name,
-      img: meta.img,
-      description: meta.description,
-      formula: meta.formula,
-      replacement: true,
-      displayRoll: true,
-      folder: null,
-      flags: {},
-      ownership: { default: 0 },
-      results: legacyResults,
-    };
-
-    fs.writeFileSync(
-      path.join(PARENT, packName + '-table.json'),
-      JSON.stringify(legacyTable, null, 2),
-    );
   }
 
   console.log(`  ✓ heist-tables: ${tableDefs.length} RollTable files`);
-  console.log(`  ✓ legacy *-table.json files written to parent directory`);
 }
 
 // ---------------------------------------------------------------------------
@@ -262,7 +205,6 @@ generateTables([
     entries: peopleEntries,
     ids: peopleIds,
     packName: 'people',
-    buildHtml: buildPersonHtml,
     meta: {
       name: 'People',
       img: 'icons/svg/d20-grey.svg',
@@ -274,7 +216,6 @@ generateTables([
     entries: treasureEntries,
     ids: treasureIds,
     packName: 'treasures',
-    buildHtml: buildPersonHtml,
     meta: {
       name: 'Treasures',
       img: 'icons/svg/d20-grey.svg',
@@ -286,7 +227,6 @@ generateTables([
     entries: obstacleEntries,
     ids: obstacleIds,
     packName: 'obstacles',
-    buildHtml: buildObstacleHtml,
     meta: {
       name: 'Obstacles',
       img: 'icons/svg/d20-grey.svg',
@@ -296,4 +236,4 @@ generateTables([
   },
 ]);
 
-console.log('\nDone. Run npm run compile to pack into LevelDB.');
+console.log('\nDone. Run npm run build to compile into LevelDB.');
